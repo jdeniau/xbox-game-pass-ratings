@@ -5,10 +5,13 @@
   "scripts": {
     "dev": "next dev",
     "build": "next build",
-    "start": "next start"
+    "start": "next start",
+    "crawl": "node src/crawl.mjs"
   },
   "dependencies": {
     "next": "10.0.7",
+    "node-fetch": "^2.6.1",
+    "playwright": "^1.8.1",
     "react": "17.0.1",
     "react-dom": "17.0.1"
   }
