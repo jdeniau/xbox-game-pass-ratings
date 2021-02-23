@@ -24,6 +24,7 @@ jobs:
       - run: |
           yarn install
           yarn build
+          touch out/.nojekyll
         env:
           CI: true
 
