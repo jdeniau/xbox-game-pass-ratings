@@ -1,7 +1,7 @@
 import { useEffect, useState } from 'react';
 import { Table, Column, HeaderCell, Cell } from 'rsuite-table';
 import 'rsuite-table/dist/css/rsuite-table.css'; // or 'rsuite-table/lib/less/index.less'
-import { stripTags } from '../../src/utils/string.mjs';
+import { stripTags } from '../../src/utils/string.js';
 
 const ImageCell = ({ rowData, dataKey, ...rest }) => (
   <Cell {...rest}>
@@ -12,18 +12,17 @@ const ImageCell = ({ rowData, dataKey, ...rest }) => (
 function useGameList() {
   const [dataList, setDataList] = useState(null);
 
-  useEffect(() => {
-    import('../../db.json').then((gameList) => {
-      const dataList = gameList.map((game) => ({
-        title: game.title,
-        releaseDate: new Date(game.releaseDate),
-        jvcomGauge: game.jvcom?.gauge,
-        jvcomSearchTitle: stripTags(game.jvcom?.searchTitle),
-        jvcomUrl: game.jvcom?.url,
-      }));
+  useEffect(async () => {
+    const gameList = (await import('../../db.json')).default;
+    const dataList = gameList.map((game) => ({
+      title: game.title,
+      releaseDate: new Date(game.releaseDate),
+      jvcomGauge: game.jvcom?.gauge,
+      jvcomSearchTitle: stripTags(game.jvcom?.searchTitle),
+      jvcomUrl: game.jvcom?.url,
+    }));
 
-      setDataList(dataList);
-    });
+    setDataList(dataList);
   }, []);
 
   return dataList;
@@ -32,15 +31,14 @@ function useGameList() {
 export default function GameList() {
   const dataList = useGameList();
 
+  const [sortColumn, setSortColumn] = useState('jvcomGauge');
+  const [sortType, setSortType] = useState('desc');
+
   if (!dataList) {
     return null;
   }
 
-  const [sortColumn, setSortColumn] = useState('jvcomGauge');
-  const [sortType, setSortType] = useState('desc');
-
   function handleSortColumn(sortColumn, sortType) {
-    console.log(sortColumn, sortType);
     setSortColumn(sortColumn);
     setSortType(sortType);
   }

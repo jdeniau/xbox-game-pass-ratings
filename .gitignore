@@ -32,3 +32,6 @@ yarn-error.log*
 
 # vercel
 .vercel
+
+# See https://github.com/vercel/next.js/issues/17806
+src/utils/string.js
