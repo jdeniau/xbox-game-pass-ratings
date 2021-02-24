@@ -1,5 +1,6 @@
 import fetch from 'node-fetch';
 import { chromium, devices } from 'playwright';
+import { stripTags } from './utils/string.mjs';
 
 const DEBUG = false;
 
@@ -28,10 +29,21 @@ export async function closeBrowser() {
   await browser.close();
 }
 
+function cleanTitle(str) {
+  return (
+    str
+      // remove unhandled utf-8 char
+      .replace(/(™|©|®)/g, '')
+
+      // add space between ":"
+      .replace(/([^\s]):/, '$1 :')
+  );
+}
+
 export async function getGame(title) {
   try {
     const searchUrl = new URL('https://www.jeuxvideo.com/recherche.php?a=5');
-    searchUrl.searchParams.set('q', title);
+    searchUrl.searchParams.set('q', cleanTitle(title));
 
     const searchResultResponse = await fetch(searchUrl);
 

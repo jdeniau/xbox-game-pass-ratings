@@ -4,14 +4,14 @@ import { fileURLToPath } from 'url';
 
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = dirname(__filename);
-const DB_PATH = resolve(__dirname, '../db.json');
+const DEFAULT_DB_PATH = resolve(__dirname, '../db.json');
 
 class DB {
-  constructor() {
-    if (!existsSync(DB_PATH)) {
+  constructor(path) {
+    if (!existsSync(path)) {
       this.gameList = [];
     } else {
-      this.gameList = JSON.parse(readFileSync(DB_PATH));
+      this.gameList = JSON.parse(readFileSync(path));
     }
   }
 
@@ -70,8 +70,10 @@ class DB {
   }
 
   save() {
-    writeFileSync(DB_PATH, JSON.stringify(this.gameList, null, 2));
+    writeFileSync(DEFAULT_DB_PATH, JSON.stringify(this.gameList, null, 2));
   }
 }
 
-export default DB;
+export default function openDb(path = DEFAULT_DB_PATH) {
+  return new DB(path);
+}

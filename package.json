@@ -6,7 +6,8 @@
     "dev": "next dev",
     "build": "next build && next export",
     "start": "next start",
-    "crawl": "node src/crawl.mjs"
+    "crawl": "node src/crawl.mjs",
+    "check:db": "node src/db-check.mjs"
   },
   "dependencies": {
     "next": "10.0.7",
