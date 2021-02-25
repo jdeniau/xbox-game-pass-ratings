@@ -3,8 +3,9 @@
   "version": "0.1.0",
   "private": true,
   "scripts": {
-    "dev": "cp src/utils/string.mjs src/utils/string.js && next dev",
-    "build": "next build && next export",
+    "copy-utils": "cp src/utils/string.mjs src/utils/string.js",
+    "dev": "yarn copy-utils && next dev",
+    "build": "yarn copy-utils && next build && next export",
     "start": "next start",
     "crawl": "node src/crawl.mjs",
     "check:db": "node src/db-check.mjs"
