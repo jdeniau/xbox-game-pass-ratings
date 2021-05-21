@@ -42,7 +42,7 @@ function cleanTitle(str) {
 
 export async function getGame(title) {
   try {
-    const searchUrl = new URL('https://www.jeuxvideo.com/recherche.php?a=5');
+    const searchUrl = new URL('https://www.jeuxvideo.com/rechercher.php?a=5');
     searchUrl.searchParams.set('q', cleanTitle(title));
 
     const searchResultResponse = await fetch(searchUrl);
