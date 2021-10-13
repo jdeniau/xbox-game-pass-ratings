@@ -1,7 +1,11 @@
 name: Build and Deploy
 on:
-  workflow_dispatch: ~
-  push:
+  workflow_dispatch: ~ # Run manually
+  workflow_run: # Run if the crawl did complete
+    workflows: ["Crawl"]
+    types:
+      - completed
+  push: # Run if the code has been updated
     branches:
       - main
 jobs:
