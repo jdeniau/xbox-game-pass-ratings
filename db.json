@@ -4101,7 +4101,9 @@
     "title": "Atomicrops",
     "releaseDate": "2020-05-28T12:00:00.0000000Z",
     "jvcom": {
-      "error": "page.goto: Timeout 30000ms exceeded.\n=========================== logs ===========================\nnavigating to \"https://www.jeuxvideo.com/jeux/jeu-1088439/\", waiting until \"load\"\n============================================================\nNote: use DEBUG=pw:api environment variable and rerun to capture Playwright logs."
+      "searchTitle": "<b>Atomicrops</b>",
+      "gauge": "--",
+      "url": "https://www.jeuxvideo.com/jeux/jeu-1088439/"
     }
   },
   {
@@ -4153,7 +4155,9 @@
     "title": "Breathedge",
     "releaseDate": "2021-04-06T00:00:00.0000000Z",
     "jvcom": {
-      "error": "page.goto: Timeout 30000ms exceeded.\n=========================== logs ===========================\nnavigating to \"https://www.jeuxvideo.com/jeux/jeu-886359/\", waiting until \"load\"\n============================================================\nNote: use DEBUG=pw:api environment variable and rerun to capture Playwright logs."
+      "searchTitle": "<b>Breathedge</b>",
+      "gauge": "13",
+      "url": "https://www.jeuxvideo.com/jeux/jeu-886359/"
     }
   },
   {
@@ -4196,7 +4200,9 @@
     "title": "Cris Tales",
     "releaseDate": "2021-07-20T13:00:00.0000000Z",
     "jvcom": {
-      "error": "page.goto: Timeout 30000ms exceeded.\n=========================== logs ===========================\nnavigating to \"https://www.jeuxvideo.com/jeux/jeu-1057962/\", waiting until \"load\"\n============================================================\nNote: use DEBUG=pw:api environment variable and rerun to capture Playwright logs."
+      "searchTitle": "<b>Cris</b> <b>Tales</b>",
+      "gauge": "15",
+      "url": "https://www.jeuxvideo.com/jeux/jeu-1057962/"
     }
   },
   {
@@ -4257,7 +4263,9 @@
     "title": "Destroy All Humans!",
     "releaseDate": "2020-07-28T15:00:00.0000000Z",
     "jvcom": {
-      "error": "page.goto: Timeout 30000ms exceeded.\n=========================== logs ===========================\nnavigating to \"https://www.jeuxvideo.com/jeux/jeu-62869/\", waiting until \"load\"\n============================================================\nNote: use DEBUG=pw:api environment variable and rerun to capture Playwright logs."
+      "searchTitle": "<b>Destroy</b> <b>All</b> <b>Humans</b>!",
+      "gauge": "14",
+      "url": "https://www.jeuxvideo.com/jeux/jeu-62869/"
     }
   },
   {
@@ -4381,7 +4389,9 @@
     "title": "Empire of Sin",
     "releaseDate": "2020-12-01T17:00:00.0000000Z",
     "jvcom": {
-      "error": "page.goto: Timeout 30000ms exceeded.\n=========================== logs ===========================\nnavigating to \"https://www.jeuxvideo.com/jeux/jeu-1059117/\", waiting until \"load\"\n============================================================\nNote: use DEBUG=pw:api environment variable and rerun to capture Playwright logs."
+      "searchTitle": "<b>Empire</b> <b>of</b> <b>Sin</b>",
+      "gauge": "13",
+      "url": "https://www.jeuxvideo.com/jeux/jeu-1059117/"
     }
   },
   {
@@ -4449,14 +4459,18 @@
     "title": "FINAL FANTASY X/X-2 HD Remaster",
     "releaseDate": "2019-04-16T00:00:00.0000000Z",
     "jvcom": {
-      "error": "page.goto: Timeout 30000ms exceeded.\n=========================== logs ===========================\nnavigating to \"https://www.jeuxvideo.com/jeux/jeu-1360242/\", waiting until \"load\"\n============================================================\nNote: use DEBUG=pw:api environment variable and rerun to capture Playwright logs."
+      "searchTitle": "<b>Final</b> <b>Fantasy</b> XIV : Endwalker",
+      "gauge": "--",
+      "url": "https://www.jeuxvideo.com/jeux/jeu-1360242/"
     }
   },
   {
     "title": "FINAL FANTASY XIII",
     "releaseDate": "2010-03-09T00:00:00.0000000Z",
     "jvcom": {
-      "error": "invalid json response body at https://www.jeuxvideo.com/rechercher.php?a=5&q=FINAL+FANTASY+XIII reason: Unexpected token < in JSON at position 0"
+      "searchTitle": "<b>Final</b> <b>Fantasy</b> <b>XIII</b>",
+      "gauge": "16",
+      "url": "https://www.jeuxvideo.com/jeux/jeu-64671/"
     }
   },
   {
@@ -4544,7 +4558,9 @@
     "title": "Immortal Realms: Vampire Wars",
     "releaseDate": "2020-08-28T00:00:00.0000000Z",
     "jvcom": {
-      "error": "page.goto: Timeout 30000ms exceeded.\n=========================== logs ===========================\nnavigating to \"https://www.jeuxvideo.com/jeux/jeu-929737/\", waiting until \"load\"\n============================================================\nNote: use DEBUG=pw:api environment variable and rerun to capture Playwright logs."
+      "searchTitle": "Vader <b>Immortal</b> : A Star <b>Wars</b> VR Series",
+      "gauge": "15",
+      "url": "https://www.jeuxvideo.com/jeux/jeu-929737/"
     }
   },
   {
@@ -4560,7 +4576,9 @@
     "title": "Katamari Damacy REROLL",
     "releaseDate": "2020-11-19T23:00:00.0000000Z",
     "jvcom": {
-      "error": "invalid json response body at https://www.jeuxvideo.com/rechercher.php?a=5&q=Katamari+Damacy+REROLL reason: Unexpected token < in JSON at position 0"
+      "searchTitle": "<b>Katamari</b> <b>Damacy</b> <b>Reroll</b>",
+      "gauge": "--",
+      "url": "https://www.jeuxvideo.com/jeux/jeu-922139/"
     }
   },
   {
@@ -4612,14 +4630,18 @@
     "title": "LIMBO",
     "releaseDate": "2014-12-05T00:00:00.0000000Z",
     "jvcom": {
-      "error": "page.goto: Timeout 30000ms exceeded.\n=========================== logs ===========================\nnavigating to \"https://www.jeuxvideo.com/jeux/jeu-65256/\", waiting until \"load\"\n============================================================\nNote: use DEBUG=pw:api environment variable and rerun to capture Playwright logs."
+      "searchTitle": "<b>Limbo</b>",
+      "gauge": "17",
+      "url": "https://www.jeuxvideo.com/jeux/jeu-65256/"
     }
   },
   {
     "title": "Lost Words: Beyond the Page",
     "releaseDate": "2021-04-05T22:00:00.0000000Z",
     "jvcom": {
-      "error": "invalid json response body at https://www.jeuxvideo.com/rechercher.php?a=5&q=Lost+Words+%3A+Beyond+the+Page reason: Unexpected token < in JSON at position 0"
+      "searchTitle": "<b>Lost</b> <b>Words</b> : <b>Beyond</b> <b>the</b> <b>Page</b>",
+      "gauge": "16",
+      "url": "https://www.jeuxvideo.com/jeux/jeu-980499/"
     }
   },
   {
@@ -4644,7 +4666,9 @@
     "title": "Madden NFL 21 Xbox Series X|S",
     "releaseDate": "2020-06-15T19:11:50.6322311Z",
     "jvcom": {
-      "error": "page.goto: Timeout 30000ms exceeded.\n=========================== logs ===========================\nnavigating to \"https://www.jeuxvideo.com/jeux/jeu-1427016/\", waiting until \"load\"\n============================================================\nNote: use DEBUG=pw:api environment variable and rerun to capture Playwright logs."
+      "searchTitle": "<b>Madden</b> <b>NFL</b> 22",
+      "gauge": "14",
+      "url": "https://www.jeuxvideo.com/jeux/jeu-1427016/"
     }
   },
   {
@@ -4696,7 +4720,9 @@
     "title": "MLB® The Show™ 21 Xbox Series X | S",
     "releaseDate": "2021-01-31T21:58:04.7237304Z",
     "jvcom": {
-      "error": "page.goto: Timeout 30000ms exceeded.\n=========================== logs ===========================\nnavigating to \"https://www.jeuxvideo.com/jeux/jeu-1357214/\", waiting until \"load\"\n============================================================\nNote: use DEBUG=pw:api environment variable and rerun to capture Playwright logs."
+      "searchTitle": "<b>MLB</b> <b>The</b> <b>Show</b> <b>21</b>",
+      "gauge": "16",
+      "url": "https://www.jeuxvideo.com/jeux/jeu-1357214/"
     }
   },
   {
@@ -4712,7 +4738,9 @@
     "title": "Narita Boy",
     "releaseDate": "2021-03-30T00:00:00.0000000Z",
     "jvcom": {
-      "error": "page.goto: Timeout 30000ms exceeded.\n=========================== logs ===========================\nnavigating to \"https://www.jeuxvideo.com/jeux/jeu-1370443/\", waiting until \"load\"\n============================================================\nNote: use DEBUG=pw:api environment variable and rerun to capture Playwright logs."
+      "searchTitle": "<b>Narita</b> <b>Boy</b>",
+      "gauge": "16",
+      "url": "https://www.jeuxvideo.com/jeux/jeu-1370443/"
     }
   },
   {
@@ -4728,98 +4756,126 @@
     "title": "NHL™ 21",
     "releaseDate": "2020-10-15T22:00:00.0000000Z",
     "jvcom": {
-      "error": "page.goto: Timeout 30000ms exceeded.\n=========================== logs ===========================\nnavigating to \"https://www.jeuxvideo.com/jeux/jeu-1260197/\", waiting until \"load\"\n============================================================\nNote: use DEBUG=pw:api environment variable and rerun to capture Playwright logs."
+      "searchTitle": "<b>NHL</b> <b>21</b>",
+      "gauge": "--",
+      "url": "https://www.jeuxvideo.com/jeux/jeu-1260197/"
     }
   },
   {
     "title": "Nimbus le Trublion | Rain on Your Parade",
     "releaseDate": "2021-04-15T00:00:00.0000000Z",
     "jvcom": {
-      "error": "page.goto: Timeout 30000ms exceeded.\n=========================== logs ===========================\nnavigating to \"https://www.jeuxvideo.com/jeux/jeu-1270053/\", waiting until \"load\"\n============================================================\nNote: use DEBUG=pw:api environment variable and rerun to capture Playwright logs."
+      "searchTitle": "<b>Rain</b> on <b>Your</b> <b>Parade</b>",
+      "gauge": "--",
+      "url": "https://www.jeuxvideo.com/jeux/jeu-1270053/"
     }
   },
   {
     "title": "Nuclear Throne",
     "releaseDate": "2021-09-09T00:00:00.0000000Z",
     "jvcom": {
-      "error": "invalid json response body at https://www.jeuxvideo.com/rechercher.php?a=5&q=Nuclear+Throne reason: Unexpected token < in JSON at position 0"
+      "searchTitle": "<b>Nuclear</b> <b>Throne</b>",
+      "gauge": "18",
+      "url": "https://www.jeuxvideo.com/jeux/jeu-81227/"
     }
   },
   {
     "title": "Oblivion",
     "releaseDate": "2010-06-01T00:00:00.0000000Z",
     "jvcom": {
-      "error": "page.goto: Timeout 30000ms exceeded.\n=========================== logs ===========================\nnavigating to \"https://www.jeuxvideo.com/jeux/jeu-1236620/\", waiting until \"load\"\n============================================================\nNote: use DEBUG=pw:api environment variable and rerun to capture Playwright logs."
+      "searchTitle": "Wraith : The <b>Oblivion</b> - Afterlife",
+      "gauge": "--",
+      "url": "https://www.jeuxvideo.com/jeux/jeu-1236620/"
     }
   },
   {
     "title": "OCTOPATH TRAVELER",
     "releaseDate": "2021-03-25T00:00:00.0000000Z",
     "jvcom": {
-      "error": "page.goto: Timeout 30000ms exceeded.\n=========================== logs ===========================\nnavigating to \"https://www.jeuxvideo.com/jeux/jeu-593701/\", waiting until \"load\"\n============================================================\nNote: use DEBUG=pw:api environment variable and rerun to capture Playwright logs."
+      "searchTitle": "<b>Octopath</b> <b>Traveler</b>",
+      "gauge": "18",
+      "url": "https://www.jeuxvideo.com/jeux/jeu-593701/"
     }
   },
   {
     "title": "Omno",
     "releaseDate": "2021-07-29T00:00:00.0000000Z",
     "jvcom": {
-      "error": "page.goto: Timeout 30000ms exceeded.\n=========================== logs ===========================\nnavigating to \"https://www.jeuxvideo.com/jeux/jeu-956433/\", waiting until \"load\"\n============================================================\nNote: use DEBUG=pw:api environment variable and rerun to capture Playwright logs."
+      "searchTitle": "<b>Omno</b>",
+      "gauge": "13",
+      "url": "https://www.jeuxvideo.com/jeux/jeu-956433/"
     }
   },
   {
     "title": "Outlast 2",
     "releaseDate": "2017-04-25T00:00:00.0000000Z",
     "jvcom": {
-      "error": "invalid json response body at https://www.jeuxvideo.com/rechercher.php?a=5&q=Outlast+2 reason: Unexpected token < in JSON at position 0"
+      "searchTitle": "<b>Outlast</b> <b>2</b>",
+      "gauge": "14",
+      "url": "https://www.jeuxvideo.com/jeux/jeu-83312/"
     }
   },
   {
     "title": "OUTRIDERS",
     "releaseDate": "2021-04-01T00:00:00.0000000Z",
     "jvcom": {
-      "error": "page.goto: Timeout 30000ms exceeded.\n=========================== logs ===========================\nnavigating to \"https://www.jeuxvideo.com/jeux/jeu-1053494/\", waiting until \"load\"\n============================================================\nNote: use DEBUG=pw:api environment variable and rerun to capture Playwright logs."
+      "searchTitle": "<b>Outriders</b>",
+      "gauge": "15",
+      "url": "https://www.jeuxvideo.com/jeux/jeu-1053494/"
     }
   },
   {
     "title": "PUBG: BATTLEGROUNDS",
     "releaseDate": "2018-09-04T00:00:00.0000000Z",
     "jvcom": {
-      "error": "page.goto: Timeout 30000ms exceeded.\n=========================== logs ===========================\nnavigating to \"https://www.jeuxvideo.com/jeux/jeu-1237344/\", waiting until \"load\"\n============================================================\nNote: use DEBUG=pw:api environment variable and rerun to capture Playwright logs."
+      "searchTitle": "Transformers <b>Battlegrounds</b>",
+      "gauge": "--",
+      "url": "https://www.jeuxvideo.com/jeux/jeu-1237344/"
     }
   },
   {
     "title": "Prey",
     "releaseDate": "2017-05-05T00:00:00.0000000Z",
     "jvcom": {
-      "error": "invalid json response body at https://www.jeuxvideo.com/rechercher.php?a=5&q=Prey reason: Unexpected token < in JSON at position 0"
+      "searchTitle": "<b>Prey</b>",
+      "gauge": "16",
+      "url": "https://www.jeuxvideo.com/jeux/jeu-63656/"
     }
   },
   {
     "title": "Psychonauts",
     "releaseDate": "2005-11-04T00:00:00.0000000Z",
     "jvcom": {
-      "error": "page.goto: Timeout 30000ms exceeded.\n=========================== logs ===========================\nnavigating to \"https://www.jeuxvideo.com/jeux/jeu-61294/\", waiting until \"load\"\n============================================================\nNote: use DEBUG=pw:api environment variable and rerun to capture Playwright logs."
+      "searchTitle": "<b>Psychonauts</b>",
+      "gauge": "17",
+      "url": "https://www.jeuxvideo.com/jeux/jeu-61294/"
     }
   },
   {
     "title": "Psychonauts 2",
     "releaseDate": "2021-08-25T00:00:00.0000000Z",
     "jvcom": {
-      "error": "page.goto: Timeout 30000ms exceeded.\n=========================== logs ===========================\nnavigating to \"https://www.jeuxvideo.com/jeux/jeu-451784/\", waiting until \"load\"\n============================================================\nNote: use DEBUG=pw:api environment variable and rerun to capture Playwright logs."
+      "searchTitle": "<b>Psychonauts</b> <b>2</b>",
+      "gauge": "17",
+      "url": "https://www.jeuxvideo.com/jeux/jeu-451784/"
     }
   },
   {
     "title": "Quake",
     "releaseDate": "2021-08-19T00:00:00.0000000Z",
     "jvcom": {
-      "error": "page.goto: Timeout 30000ms exceeded.\n=========================== logs ===========================\nnavigating to \"https://www.jeuxvideo.com/jeux/jeu-55078/\", waiting until \"load\"\n============================================================\nNote: use DEBUG=pw:api environment variable and rerun to capture Playwright logs."
+      "searchTitle": "<b>Quake</b>",
+      "gauge": "18",
+      "url": "https://www.jeuxvideo.com/jeux/jeu-55078/"
     }
   },
   {
     "title": "RAGE",
     "releaseDate": "2011-10-04T00:00:00.0000000Z",
     "jvcom": {
-      "error": "page.goto: Timeout 30000ms exceeded.\n=========================== logs ===========================\nnavigating to \"https://www.jeuxvideo.com/jeux/jeu-66332/\", waiting until \"load\"\n============================================================\nNote: use DEBUG=pw:api environment variable and rerun to capture Playwright logs."
+      "searchTitle": "<b>Rage</b>",
+      "gauge": "18",
+      "url": "https://www.jeuxvideo.com/jeux/jeu-66332/"
     }
   },
   {
@@ -4833,182 +4889,234 @@
     "title": "Recompile",
     "releaseDate": "2021-08-19T14:00:00.0000000Z",
     "jvcom": {
-      "error": "page.goto: Timeout 30000ms exceeded.\n=========================== logs ===========================\nnavigating to \"https://www.jeuxvideo.com/jeux/jeu-1010713/\", waiting until \"load\"\n============================================================\nNote: use DEBUG=pw:api environment variable and rerun to capture Playwright logs."
+      "searchTitle": "<b>Recompile</b>",
+      "gauge": "--",
+      "url": "https://www.jeuxvideo.com/jeux/jeu-1010713/"
     }
   },
   {
     "title": "Ryse : édition légendaire",
     "releaseDate": "2014-09-05T00:00:00.0000000Z",
     "jvcom": {
-      "error": "page.goto: Timeout 30000ms exceeded.\n=========================== logs ===========================\nnavigating to \"https://www.jeuxvideo.com/jeux/pc/00036590-blood-bowl-edition-legendaire.htm\", waiting until \"load\"\n============================================================\nNote: use DEBUG=pw:api environment variable and rerun to capture Playwright logs."
+      "searchTitle": "Blood Bowl : <b>Edition</b> <b>Légendaire</b>",
+      "gauge": "17",
+      "url": "https://www.jeuxvideo.com/jeux/pc/00036590-blood-bowl-edition-legendaire.htm"
     }
   },
   {
     "title": "Sable",
     "releaseDate": "2021-09-23T00:00:00.0000000Z",
     "jvcom": {
-      "error": "page.goto: Timeout 30000ms exceeded.\n=========================== logs ===========================\nnavigating to \"https://www.jeuxvideo.com/jeux/jeu-858102/\", waiting until \"load\"\n============================================================\nNote: use DEBUG=pw:api environment variable and rerun to capture Playwright logs."
+      "searchTitle": "<b>Sable</b>",
+      "gauge": "14",
+      "url": "https://www.jeuxvideo.com/jeux/jeu-858102/"
     }
   },
   {
     "title": "SCARLET NEXUS",
     "releaseDate": "2021-06-25T00:00:00.0000000Z",
     "jvcom": {
-      "error": "page.goto: Timeout 30000ms exceeded.\n=========================== logs ===========================\nnavigating to \"https://www.jeuxvideo.com/jeux/jeu-1222579/\", waiting until \"load\"\n============================================================\nNote: use DEBUG=pw:api environment variable and rerun to capture Playwright logs."
+      "searchTitle": "<b>Scarlet</b> <b>Nexus</b>",
+      "gauge": "15",
+      "url": "https://www.jeuxvideo.com/jeux/jeu-1222579/"
     }
   },
   {
     "title": "Second Extinction™ (Game Preview)",
     "releaseDate": "2799-01-01T00:00:00.0000000Z",
     "jvcom": {
-      "error": "page.goto: Timeout 30000ms exceeded.\n=========================== logs ===========================\nnavigating to \"https://www.jeuxvideo.com/jeux/jeu-1222598/\", waiting until \"load\"\n============================================================\nNote: use DEBUG=pw:api environment variable and rerun to capture Playwright logs."
+      "searchTitle": "<b>Second</b> <b>Extinction</b>",
+      "gauge": "14",
+      "url": "https://www.jeuxvideo.com/jeux/jeu-1222598/"
     }
   },
   {
     "title": "Signs of the Sojourner",
     "releaseDate": "2021-03-18T23:00:00.0000000Z",
     "jvcom": {
-      "error": "page.goto: Timeout 30000ms exceeded.\n=========================== logs ===========================\nnavigating to \"https://www.jeuxvideo.com/jeux/pc/jeu-1161460/\", waiting until \"load\"\n============================================================\nNote: use DEBUG=pw:api environment variable and rerun to capture Playwright logs."
+      "searchTitle": "Sons <b>of</b> <b>the</b> Forest",
+      "gauge": "--",
+      "url": "https://www.jeuxvideo.com/jeux/pc/jeu-1161460/"
     }
   },
   {
     "title": "skate.",
     "releaseDate": "2010-01-20T00:00:00.0000000Z",
     "jvcom": {
-      "error": "page.goto: Timeout 30000ms exceeded.\n=========================== logs ===========================\nnavigating to \"https://www.jeuxvideo.com/jeux/jeu-1060545/\", waiting until \"load\"\n============================================================\nNote: use DEBUG=pw:api environment variable and rerun to capture Playwright logs."
+      "searchTitle": "SkateBird",
+      "gauge": "--",
+      "url": "https://www.jeuxvideo.com/jeux/jeu-1060545/"
     }
   },
   {
     "title": "SkateBIRD",
     "releaseDate": "2021-09-16T00:00:00.0000000Z",
     "jvcom": {
-      "error": "page.goto: Timeout 30000ms exceeded.\n=========================== logs ===========================\nnavigating to \"https://www.jeuxvideo.com/jeux/jeu-1060545/\", waiting until \"load\"\n============================================================\nNote: use DEBUG=pw:api environment variable and rerun to capture Playwright logs."
+      "searchTitle": "<b>SkateBird</b>",
+      "gauge": "--",
+      "url": "https://www.jeuxvideo.com/jeux/jeu-1060545/"
     }
   },
   {
     "title": "SnowRunner",
     "releaseDate": "2021-05-18T00:00:00.0000000Z",
     "jvcom": {
-      "error": "page.goto: Timeout 30000ms exceeded.\n=========================== logs ===========================\nnavigating to \"https://www.jeuxvideo.com/jeux/jeu-904118/\", waiting until \"load\"\n============================================================\nNote: use DEBUG=pw:api environment variable and rerun to capture Playwright logs."
+      "searchTitle": "<b>SnowRunner</b>",
+      "gauge": "16",
+      "url": "https://www.jeuxvideo.com/jeux/jeu-904118/"
     }
   },
   {
     "title": "STAR WARS™: Squadrons",
     "releaseDate": "2020-10-01T22:00:00.0000000Z",
     "jvcom": {
-      "error": "page.goto: Timeout 30000ms exceeded.\n=========================== logs ===========================\nnavigating to \"https://www.jeuxvideo.com/jeux/jeu-1238340/\", waiting until \"load\"\n============================================================\nNote: use DEBUG=pw:api environment variable and rerun to capture Playwright logs."
+      "searchTitle": "<b>Star</b> <b>Wars</b> : <b>Squadrons</b>",
+      "gauge": "16",
+      "url": "https://www.jeuxvideo.com/jeux/jeu-1238340/"
     }
   },
   {
     "title": "STEEP",
     "releaseDate": "2016-12-02T00:00:00.0000000Z",
     "jvcom": {
-      "error": "invalid json response body at https://www.jeuxvideo.com/rechercher.php?a=5&q=STEEP reason: Unexpected token < in JSON at position 0"
+      "searchTitle": "<b>Steep</b>",
+      "gauge": "13",
+      "url": "https://www.jeuxvideo.com/jeux/jeu-501170/"
     }
   },
   {
     "title": "Subnautica: Below Zero",
     "releaseDate": "2021-05-13T22:00:00.0000000Z",
     "jvcom": {
-      "error": "page.goto: Timeout 30000ms exceeded.\n=========================== logs ===========================\nnavigating to \"https://www.jeuxvideo.com/jeux/jeu-912373/\", waiting until \"load\"\n============================================================\nNote: use DEBUG=pw:api environment variable and rerun to capture Playwright logs."
+      "searchTitle": "<b>Subnautica</b> : <b>Below</b> <b>Zero</b>",
+      "gauge": "16",
+      "url": "https://www.jeuxvideo.com/jeux/jeu-912373/"
     }
   },
   {
     "title": "Superliminal",
     "releaseDate": "2020-07-06T23:00:00.0000000Z",
     "jvcom": {
-      "error": "invalid json response body at https://www.jeuxvideo.com/rechercher.php?a=5&q=Superliminal reason: Unexpected token < in JSON at position 0"
+      "searchTitle": "<b>Superliminal</b>",
+      "gauge": "13",
+      "url": "https://www.jeuxvideo.com/jeux/jeu-1060014/"
     }
   },
   {
     "title": "Surgeon Simulator 2",
     "releaseDate": "2021-09-02T16:00:00.0000000Z",
     "jvcom": {
-      "error": "invalid json response body at https://www.jeuxvideo.com/rechercher.php?a=5&q=Surgeon+Simulator+2 reason: Unexpected token < in JSON at position 0"
+      "searchTitle": "<b>Surgeon</b> <b>Simulator</b> <b>2</b>",
+      "gauge": "16",
+      "url": "https://www.jeuxvideo.com/jeux/pc/jeu-1161647/"
     }
   },
   {
     "title": "Tell Me Why: Chapitre 1-3",
     "releaseDate": "2020-08-27T16:00:00.0000000Z",
     "jvcom": {
-      "error": "page.goto: Timeout 30000ms exceeded.\n=========================== logs ===========================\nnavigating to \"https://www.jeuxvideo.com/jeux/jeu-1143603/\", waiting until \"load\"\n============================================================\nNote: use DEBUG=pw:api environment variable and rerun to capture Playwright logs."
+      "searchTitle": "<b>Tell</b> Me <b>Why</b>",
+      "gauge": "14",
+      "url": "https://www.jeuxvideo.com/jeux/jeu-1143603/"
     }
   },
   {
     "title": "The Artful Escape",
     "releaseDate": "2021-09-09T16:00:00.0000000Z",
     "jvcom": {
-      "error": "invalid json response body at https://www.jeuxvideo.com/rechercher.php?a=5&q=The+Artful+Escape reason: Unexpected token < in JSON at position 0"
+      "searchTitle": "<b>The</b> <b>Artful</b> <b>Escape</b>",
+      "gauge": "15",
+      "url": "https://www.jeuxvideo.com/jeux/jeu-461313/"
     }
   },
   {
     "title": "The Ascent",
     "releaseDate": "2021-07-29T17:00:00.0000000Z",
     "jvcom": {
-      "error": "invalid json response body at https://www.jeuxvideo.com/rechercher.php?a=5&q=The+Ascent reason: Unexpected token < in JSON at position 0"
+      "searchTitle": "<b>The</b> <b>Ascent</b>",
+      "gauge": "16",
+      "url": "https://www.jeuxvideo.com/jeux/jeu-1222557/"
     }
   },
   {
     "title": "The Catch: Carp & Coarse Fishing",
     "releaseDate": "2020-06-29T22:00:00.0000000Z",
     "jvcom": {
-      "error": "page.goto: Timeout 30000ms exceeded.\n=========================== logs ===========================\nnavigating to \"https://www.jeuxvideo.com/jeux/jeu-1268106/\", waiting until \"load\"\n============================================================\nNote: use DEBUG=pw:api environment variable and rerun to capture Playwright logs."
+      "searchTitle": "<b>The</b> <b>Catch</b>: <b>Carp</b> & <b>Coarse</b> - Jezioro Bestii",
+      "gauge": "--",
+      "url": "https://www.jeuxvideo.com/jeux/jeu-1268106/"
     }
   },
   {
     "title": "The Elder Scrolls III: Morrowind",
     "releaseDate": "2018-04-17T00:00:00.0000000Z",
     "jvcom": {
-      "error": "page.goto: Timeout 30000ms exceeded.\n=========================== logs ===========================\nnavigating to \"https://www.jeuxvideo.com/jeux/jeu-59222/\", waiting until \"load\"\n============================================================\nNote: use DEBUG=pw:api environment variable and rerun to capture Playwright logs."
+      "searchTitle": "<b>The</b> <b>Elder</b> <b>Scrolls</b> <b>III</b> : <b>Morrowind</b>",
+      "gauge": "18",
+      "url": "https://www.jeuxvideo.com/jeux/jeu-59222/"
     }
   },
   {
     "title": "The Evil Within",
     "releaseDate": "2014-10-14T00:00:00.0000000Z",
     "jvcom": {
-      "error": "invalid json response body at https://www.jeuxvideo.com/rechercher.php?a=5&q=The+Evil+Within reason: Unexpected token < in JSON at position 0"
+      "searchTitle": "<b>The</b> <b>Evil</b> <b>Within</b>",
+      "gauge": "16",
+      "url": "https://www.jeuxvideo.com/jeux/jeu-78784/"
     }
   },
   {
     "title": "The Evil Within® 2",
     "releaseDate": "2017-10-13T00:00:00.0000000Z",
     "jvcom": {
-      "error": "page.goto: Timeout 30000ms exceeded.\n=========================== logs ===========================\nnavigating to \"https://www.jeuxvideo.com/jeux/jeu-670020/\", waiting until \"load\"\n============================================================\nNote: use DEBUG=pw:api environment variable and rerun to capture Playwright logs."
+      "searchTitle": "<b>The</b> <b>Evil</b> <b>Within</b> <b>2</b>",
+      "gauge": "15",
+      "url": "https://www.jeuxvideo.com/jeux/jeu-670020/"
     }
   },
   {
     "title": "The Procession to Calvary",
     "releaseDate": "2021-07-02T00:00:00.0000000Z",
     "jvcom": {
-      "error": "page.goto: Timeout 30000ms exceeded.\n=========================== logs ===========================\nnavigating to \"https://www.jeuxvideo.com/jeux/jeu-1210699/\", waiting until \"load\"\n============================================================\nNote: use DEBUG=pw:api environment variable and rerun to capture Playwright logs."
+      "searchTitle": "<b>The</b> <b>Procession</b> <b>to</b> <b>Calvary</b>",
+      "gauge": "--",
+      "url": "https://www.jeuxvideo.com/jeux/jeu-1210699/"
     }
   },
   {
     "title": "The Wild at Heart",
     "releaseDate": "2021-05-20T00:00:00.0000000Z",
     "jvcom": {
-      "error": "page.goto: Timeout 30000ms exceeded.\n=========================== logs ===========================\nnavigating to \"https://www.jeuxvideo.com/jeux/jeu-1384295/\", waiting until \"load\"\n============================================================\nNote: use DEBUG=pw:api environment variable and rerun to capture Playwright logs."
+      "searchTitle": "<b>The</b> <b>Wild</b> <b>at</b> <b>Heart</b>",
+      "gauge": "--",
+      "url": "https://www.jeuxvideo.com/jeux/jeu-1384295/"
     }
   },
   {
     "title": "Tom Clancy's Rainbow Six Siege - Deluxe Edition",
     "releaseDate": "2020-02-18T14:00:00.0000000Z",
     "jvcom": {
-      "error": "invalid json response body at https://www.jeuxvideo.com/rechercher.php?a=5&q=Tom+Clancy%27s+Rainbow+Six+Siege+-+Deluxe+Edition reason: Unexpected token < in JSON at position 0"
+      "searchTitle": "<b>Tom</b> <b>Clancy</b>'s <b>Rainbow</b> <b>Six</b> : Extraction",
+      "gauge": "--",
+      "url": "https://www.jeuxvideo.com/jeux/jeu-1058108/"
     }
   },
   {
     "title": "Totally Accurate Battle Simulator",
     "releaseDate": "2799-12-31T00:00:00.0000000Z",
     "jvcom": {
-      "error": "page.goto: Timeout 30000ms exceeded.\n=========================== logs ===========================\nnavigating to \"https://www.jeuxvideo.com/jeux/pc/jeu-1025020/\", waiting until \"load\"\n============================================================\nNote: use DEBUG=pw:api environment variable and rerun to capture Playwright logs."
+      "searchTitle": "<b>Totally</b> <b>Accurate</b> <b>Battle</b> <b>Simulator</b>",
+      "gauge": "--",
+      "url": "https://www.jeuxvideo.com/jeux/pc/jeu-1025020/"
     }
   },
   {
     "title": "Train Sim World® 2",
     "releaseDate": "2020-08-19T22:00:00.0000000Z",
     "jvcom": {
-      "error": "invalid json response body at https://www.jeuxvideo.com/rechercher.php?a=5&q=Train+Sim+World+2 reason: Unexpected token < in JSON at position 0"
+      "searchTitle": "<b>Train</b> <b>Sim</b> <b>World</b> <b>2</b>",
+      "gauge": "--",
+      "url": "https://www.jeuxvideo.com/jeux/jeu-1236516/"
     }
   },
   {
@@ -5024,259 +5132,333 @@
     "title": "Twelve Minutes",
     "releaseDate": "2021-08-19T16:00:00.0000000Z",
     "jvcom": {
-      "error": "page.goto: Timeout 30000ms exceeded.\n=========================== logs ===========================\nnavigating to \"https://www.jeuxvideo.com/jeux/jeu-1056680/\", waiting until \"load\"\n============================================================\nNote: use DEBUG=pw:api environment variable and rerun to capture Playwright logs."
+      "searchTitle": "12 <b>Minutes</b>",
+      "gauge": "14",
+      "url": "https://www.jeuxvideo.com/jeux/jeu-1056680/"
     }
   },
   {
     "title": "UFC® 4",
     "releaseDate": "2020-08-13T22:00:00.0000000Z",
     "jvcom": {
-      "error": "page.goto: Timeout 30000ms exceeded.\n=========================== logs ===========================\nnavigating to \"https://www.jeuxvideo.com/jeux/jeu-1254062/\", waiting until \"load\"\n============================================================\nNote: use DEBUG=pw:api environment variable and rerun to capture Playwright logs."
+      "searchTitle": "EA Sports <b>UFC</b> <b>4</b>",
+      "gauge": "16",
+      "url": "https://www.jeuxvideo.com/jeux/jeu-1254062/"
     }
   },
   {
     "title": "Undertale",
     "releaseDate": "2021-03-16T00:00:00.0000000Z",
     "jvcom": {
-      "error": "invalid json response body at https://www.jeuxvideo.com/rechercher.php?a=5&q=Undertale reason: Unexpected token < in JSON at position 0"
+      "searchTitle": "<b>Undertale</b>",
+      "gauge": "16",
+      "url": "https://www.jeuxvideo.com/jeux/jeu-445512/"
     }
   },
   {
     "title": "UNSIGHTED",
     "releaseDate": "2021-09-30T16:00:00.0000000Z",
     "jvcom": {
-      "error": "page.goto: Timeout 30000ms exceeded.\n=========================== logs ===========================\nnavigating to \"https://www.jeuxvideo.com/jeux/jeu-1425612/\", waiting until \"load\"\n============================================================\nNote: use DEBUG=pw:api environment variable and rerun to capture Playwright logs."
+      "searchTitle": "<b>UNSIGHTED</b>",
+      "gauge": "--",
+      "url": "https://www.jeuxvideo.com/jeux/jeu-1425612/"
     }
   },
   {
     "title": "Visage",
     "releaseDate": "2020-10-30T00:00:00.0000000Z",
     "jvcom": {
-      "error": "page.goto: Timeout 30000ms exceeded.\n=========================== logs ===========================\nnavigating to \"https://www.jeuxvideo.com/jeux/jeu-458181/\", waiting until \"load\"\n============================================================\nNote: use DEBUG=pw:api environment variable and rerun to capture Playwright logs."
+      "searchTitle": "<b>Visage</b>",
+      "gauge": "16",
+      "url": "https://www.jeuxvideo.com/jeux/jeu-458181/"
     }
   },
   {
     "title": "Wasteland 3",
     "releaseDate": "2020-08-28T00:00:00.0000000Z",
     "jvcom": {
-      "error": "page.goto: Timeout 30000ms exceeded.\n=========================== logs ===========================\nnavigating to \"https://www.jeuxvideo.com/jeux/jeu-1452182/\", waiting until \"load\"\n============================================================\nNote: use DEBUG=pw:api environment variable and rerun to capture Playwright logs."
+      "searchTitle": "<b>Wasteland</b> <b>3</b> : The Cult of the Holy Detonation",
+      "gauge": "--",
+      "url": "https://www.jeuxvideo.com/jeux/jeu-1452182/"
     }
   },
   {
     "title": "Wolfenstein: The New Order",
     "releaseDate": "2014-05-20T00:00:00.0000000Z",
     "jvcom": {
-      "error": "page.goto: Timeout 30000ms exceeded.\n=========================== logs ===========================\nnavigating to \"https://www.jeuxvideo.com/jeux/jeu-80655/\", waiting until \"load\"\n============================================================\nNote: use DEBUG=pw:api environment variable and rerun to capture Playwright logs."
+      "searchTitle": "<b>Wolfenstein</b> : <b>The</b> <b>New</b> <b>Order</b>",
+      "gauge": "16",
+      "url": "https://www.jeuxvideo.com/jeux/jeu-80655/"
     }
   },
   {
     "title": "Wolfenstein: The Old Blood",
     "releaseDate": "2015-05-05T00:00:00.0000000Z",
     "jvcom": {
-      "error": "invalid json response body at https://www.jeuxvideo.com/rechercher.php?a=5&q=Wolfenstein+%3A+The+Old+Blood reason: Unexpected token < in JSON at position 0"
+      "searchTitle": "<b>Wolfenstein</b> : <b>The</b> <b>Old</b> <b>Blood</b>",
+      "gauge": "15",
+      "url": "https://www.jeuxvideo.com/jeux/jeu-418762/"
     }
   },
   {
     "title": "Wolfenstein® II: The New Colossus™",
     "releaseDate": "2017-10-27T00:00:00.0000000Z",
     "jvcom": {
-      "error": "page.goto: Timeout 30000ms exceeded.\n=========================== logs ===========================\nnavigating to \"https://www.jeuxvideo.com/jeux/jeu-670039/\", waiting until \"load\"\n============================================================\nNote: use DEBUG=pw:api environment variable and rerun to capture Playwright logs."
+      "searchTitle": "<b>Wolfenstein</b> <b>II</b> : <b>The</b> <b>New</b> <b>Colossus</b>",
+      "gauge": "17",
+      "url": "https://www.jeuxvideo.com/jeux/jeu-670039/"
     }
   },
   {
     "title": "Worms Rumble",
     "releaseDate": "2021-06-23T07:00:00.0000000Z",
     "jvcom": {
-      "error": "page.goto: Timeout 30000ms exceeded.\n=========================== logs ===========================\nnavigating to \"https://www.jeuxvideo.com/jeux/jeu-1191467/\", waiting until \"load\"\n============================================================\nNote: use DEBUG=pw:api environment variable and rerun to capture Playwright logs."
+      "searchTitle": "<b>Worms</b> <b>Rumble</b>",
+      "gauge": "14",
+      "url": "https://www.jeuxvideo.com/jeux/jeu-1191467/"
     }
   },
   {
     "title": "Yakuza 6: The Song of Life",
     "releaseDate": "2021-03-25T00:00:00.0000000Z",
     "jvcom": {
-      "error": "page.goto: Timeout 30000ms exceeded.\n=========================== logs ===========================\nnavigating to \"https://www.jeuxvideo.com/jeux/jeu-442753/\", waiting until \"load\"\n============================================================\nNote: use DEBUG=pw:api environment variable and rerun to capture Playwright logs."
+      "searchTitle": "<b>Yakuza</b> <b>6</b> : <b>The</b> <b>Song</b> <b>of</b> <b>Life</b>",
+      "gauge": "18",
+      "url": "https://www.jeuxvideo.com/jeux/jeu-442753/"
     }
   },
   {
     "title": "Yakuza: Like a Dragon",
     "releaseDate": "2020-11-10T00:00:00.0000000Z",
     "jvcom": {
-      "error": "page.goto: Timeout 30000ms exceeded.\n=========================== logs ===========================\nnavigating to \"https://www.jeuxvideo.com/jeux/jeu-646559/\", waiting until \"load\"\n============================================================\nNote: use DEBUG=pw:api environment variable and rerun to capture Playwright logs."
+      "searchTitle": "<b>Yakuza</b> : <b>Like</b> <b>a</b> <b>Dragon</b>",
+      "gauge": "16",
+      "url": "https://www.jeuxvideo.com/jeux/jeu-646559/"
     }
   },
   {
     "title": "Zombie Army 4: Dead War",
     "releaseDate": "2020-02-04T00:00:00.0000000Z",
     "jvcom": {
-      "error": "invalid json response body at https://www.jeuxvideo.com/rechercher.php?a=5&q=Zombie+Army+4+%3A+Dead+War reason: Unexpected token < in JSON at position 0"
+      "searchTitle": "<b>Zombie</b> <b>Army</b> <b>4</b> : <b>Dead</b> <b>War</b>",
+      "gauge": "14",
+      "url": "https://www.jeuxvideo.com/jeux/jeu-1054875/"
     }
   },
   {
     "title": "Arx Fatalis",
     "releaseDate": "2021-06-13T19:00:00.0000000Z",
     "jvcom": {
-      "error": "page.goto: Timeout 30000ms exceeded.\n=========================== logs ===========================\nnavigating to \"https://www.jeuxvideo.com/jeux/jeu-60967/\", waiting until \"load\"\n============================================================\nNote: use DEBUG=pw:api environment variable and rerun to capture Playwright logs."
+      "searchTitle": "<b>Arx</b> <b>Fatalis</b>",
+      "gauge": "19",
+      "url": "https://www.jeuxvideo.com/jeux/jeu-60967/"
     }
   },
   {
     "title": "Backbone",
     "releaseDate": "2021-06-08T00:00:00.0000000Z",
     "jvcom": {
-      "error": "page.goto: Timeout 30000ms exceeded.\n=========================== logs ===========================\nnavigating to \"https://www.jeuxvideo.com/jeux/jeu-1027981/\", waiting until \"load\"\n============================================================\nNote: use DEBUG=pw:api environment variable and rerun to capture Playwright logs."
+      "searchTitle": "<b>Backbone</b>",
+      "gauge": "--",
+      "url": "https://www.jeuxvideo.com/jeux/jeu-1027981/"
     }
   },
   {
     "title": "Comanche",
     "releaseDate": "2021-08-26T13:00:00.0000000Z",
     "jvcom": {
-      "error": "page.goto: Timeout 30000ms exceeded.\n=========================== logs ===========================\nnavigating to \"https://www.jeuxvideo.com/jeux/pc/jeu-1093441/\", waiting until \"load\"\n============================================================\nNote: use DEBUG=pw:api environment variable and rerun to capture Playwright logs."
+      "searchTitle": "<b>Comanche</b>",
+      "gauge": "--",
+      "url": "https://www.jeuxvideo.com/jeux/pc/jeu-1093441/"
     }
   },
   {
     "title": "Cricket 19 Windows 10",
     "releaseDate": "2021-02-25T00:00:00.0000000Z",
     "jvcom": {
-      "error": "page.goto: Timeout 30000ms exceeded.\n=========================== logs ===========================\nnavigating to \"https://www.jeuxvideo.com/jeux/jeu-1018460/\", waiting until \"load\"\n============================================================\nNote: use DEBUG=pw:api environment variable and rerun to capture Playwright logs."
+      "searchTitle": "Ashes <b>Cricket</b> <b>19</b>",
+      "gauge": "--",
+      "url": "https://www.jeuxvideo.com/jeux/jeu-1018460/"
     }
   },
   {
     "title": "Curse of the Dead Gods (PC)",
     "releaseDate": "2021-08-05T00:00:00.0000000Z",
     "jvcom": {
-      "error": "page.goto: Timeout 30000ms exceeded.\n=========================== logs ===========================\nnavigating to \"https://www.jeuxvideo.com/jeux/jeu-1232787/\", waiting until \"load\"\n============================================================\nNote: use DEBUG=pw:api environment variable and rerun to capture Playwright logs."
+      "searchTitle": "<b>Curse</b> <b>of</b> <b>the</b> Sea Rats",
+      "gauge": "--",
+      "url": "https://www.jeuxvideo.com/jeux/jeu-1232787/"
     }
   },
   {
     "title": "Darkest Dungeon PC",
     "releaseDate": "2021-06-10T00:00:00.0000000Z",
     "jvcom": {
-      "error": "page.goto: Timeout 30000ms exceeded.\n=========================== logs ===========================\nnavigating to \"https://www.jeuxvideo.com/jeux/pc/jeu-1392385/\", waiting until \"load\"\n============================================================\nNote: use DEBUG=pw:api environment variable and rerun to capture Playwright logs."
+      "searchTitle": "<b>Darkest</b> Valley",
+      "gauge": "--",
+      "url": "https://www.jeuxvideo.com/jeux/pc/jeu-1392385/"
     }
   },
   {
     "title": "Dishonored® : La mort de l'Outsider™ (PC)",
     "releaseDate": "2021-06-13T19:00:00.0000000Z",
     "jvcom": {
-      "error": "page.goto: Timeout 30000ms exceeded.\n=========================== logs ===========================\nnavigating to \"https://www.jeuxvideo.com/jeux/jeu-670026/\", waiting until \"load\"\n============================================================\nNote: use DEBUG=pw:api environment variable and rerun to capture Playwright logs."
+      "searchTitle": "<b>Dishonored</b> : La <b>Mort</b> de l'<b>Outsider</b>",
+      "gauge": "17",
+      "url": "https://www.jeuxvideo.com/jeux/jeu-670026/"
     }
   },
   {
     "title": "Dishonored® Definitive Edition (PC)",
     "releaseDate": "2021-03-12T00:00:00.0000000Z",
     "jvcom": {
-      "error": "invalid json response body at https://www.jeuxvideo.com/rechercher.php?a=5&q=Dishonored+Definitive+Edition+%28PC%29 reason: Unexpected token < in JSON at position 0"
+      "searchTitle": "Grand Theft Auto : The Trilogy – The <b>Definitive</b> <b>Edition</b>",
+      "gauge": "--",
+      "url": "https://www.jeuxvideo.com/jeux/jeu-1474058/"
     }
   },
   {
     "title": "Europa Universalis IV - Microsoft Store Edition",
     "releaseDate": "2019-12-04T14:00:00.0000000Z",
     "jvcom": {
-      "error": "page.goto: Timeout 30000ms exceeded.\n=========================== logs ===========================\nnavigating to \"https://www.jeuxvideo.com/jeux/jeu-1397971/\", waiting until \"load\"\n============================================================\nNote: use DEBUG=pw:api environment variable and rerun to capture Playwright logs."
+      "searchTitle": "<b>Europa</b> <b>Universalis</b> <b>IV</b> : Leviathan",
+      "gauge": "--",
+      "url": "https://www.jeuxvideo.com/jeux/jeu-1397971/"
     }
   },
   {
     "title": "Fallout",
     "releaseDate": "2021-06-13T19:00:00.0000000Z",
     "jvcom": {
-      "error": "page.goto: Timeout 30000ms exceeded.\n=========================== logs ===========================\nnavigating to \"https://www.jeuxvideo.com/jeux/jeu-55411/\", waiting until \"load\"\n============================================================\nNote: use DEBUG=pw:api environment variable and rerun to capture Playwright logs."
+      "searchTitle": "<b>Fallout</b>",
+      "gauge": "19",
+      "url": "https://www.jeuxvideo.com/jeux/jeu-55411/"
     }
   },
   {
     "title": "Fallout 2",
     "releaseDate": "2021-06-13T19:00:00.0000000Z",
     "jvcom": {
-      "error": "page.goto: Timeout 30000ms exceeded.\n=========================== logs ===========================\nnavigating to \"https://www.jeuxvideo.com/jeux/jeu-55412/\", waiting until \"load\"\n============================================================\nNote: use DEBUG=pw:api environment variable and rerun to capture Playwright logs."
+      "searchTitle": "<b>Fallout</b> <b>2</b>",
+      "gauge": "16",
+      "url": "https://www.jeuxvideo.com/jeux/jeu-55412/"
     }
   },
   {
     "title": "Fallout 3: Game of the Year Edition",
     "releaseDate": "2021-06-13T19:00:00.0000000Z",
     "jvcom": {
-      "error": "invalid json response body at https://www.jeuxvideo.com/rechercher.php?a=5&q=Fallout+3+%3A+Game+of+the+Year+Edition reason: Unexpected token < in JSON at position 0"
+      "searchTitle": "<b>The</b> Falconeer : Warrior <b>Edition</b>",
+      "gauge": "13",
+      "url": "https://www.jeuxvideo.com/jeux/jeu-1091329/"
     }
   },
   {
     "title": "Fallout 4 (PC)",
     "releaseDate": "2021-03-11T20:00:00.0000000Z",
     "jvcom": {
-      "error": "invalid json response body at https://www.jeuxvideo.com/rechercher.php?a=5&q=Fallout+4+%28PC%29 reason: Unexpected token < in JSON at position 0"
+      "searchTitle": "<b>Fallout</b> 76",
+      "gauge": "9",
+      "url": "https://www.jeuxvideo.com/jeux/jeu-853129/"
     }
   },
   {
     "title": "Fallout Tactics",
     "releaseDate": "2021-06-13T19:00:00.0000000Z",
     "jvcom": {
-      "error": "page.goto: Timeout 30000ms exceeded.\n=========================== logs ===========================\nnavigating to \"https://www.jeuxvideo.com/jeux/pc/00003764-fallout-tactics.htm\", waiting until \"load\"\n============================================================\nNote: use DEBUG=pw:api environment variable and rerun to capture Playwright logs."
+      "searchTitle": "<b>Fallout</b> <b>Tactics</b>",
+      "gauge": "16",
+      "url": "https://www.jeuxvideo.com/jeux/pc/00003764-fallout-tactics.htm"
     }
   },
   {
     "title": "Fallout: New Vegas Ultimate Edition",
     "releaseDate": "2021-06-13T19:00:00.0000000Z",
     "jvcom": {
-      "error": "page.goto: Timeout 30000ms exceeded.\n=========================== logs ===========================\nnavigating to \"https://www.jeuxvideo.com/jeux/jeu-1465300/\", waiting until \"load\"\n============================================================\nNote: use DEBUG=pw:api environment variable and rerun to capture Playwright logs."
+      "searchTitle": "Gear.Club Unlimited 2 - <b>Ultimate</b> <b>Edition</b>",
+      "gauge": "--",
+      "url": "https://www.jeuxvideo.com/jeux/jeu-1465300/"
     }
   },
   {
     "title": "Farming Simulator 19 (Windows 10)",
     "releaseDate": "2021-07-15T00:00:00.0000000Z",
     "jvcom": {
-      "error": "page.goto: Timeout 30000ms exceeded.\n=========================== logs ===========================\nnavigating to \"https://www.jeuxvideo.com/jeux/jeu-1396083/\", waiting until \"load\"\n============================================================\nNote: use DEBUG=pw:api environment variable and rerun to capture Playwright logs."
+      "searchTitle": "<b>Farming</b> <b>Simulator</b> 22",
+      "gauge": "--",
+      "url": "https://www.jeuxvideo.com/jeux/jeu-1396083/"
     }
   },
   {
     "title": "Football Manager 2021",
     "releaseDate": "2021-03-04T00:00:00.0000000Z",
     "jvcom": {
-      "error": "invalid json response body at https://www.jeuxvideo.com/rechercher.php?a=5&q=Football+Manager+2021 reason: Unexpected token < in JSON at position 0"
+      "searchTitle": "<b>Football</b> <b>Manager</b> <b>2021</b>",
+      "gauge": "16",
+      "url": "https://www.jeuxvideo.com/jeux/jeu-1293536/"
     }
   },
   {
     "title": "Genesis Noir: Windows Edition",
     "releaseDate": "2021-03-26T00:00:00.0000000Z",
     "jvcom": {
-      "error": "invalid json response body at https://www.jeuxvideo.com/rechercher.php?a=5&q=Genesis+Noir+%3A+Windows+Edition reason: Unexpected token < in JSON at position 0"
+      "searchTitle": "<b>Genesis</b> <b>Noir</b>",
+      "gauge": "13",
+      "url": "https://www.jeuxvideo.com/jeux/jeu-781123/"
     }
   },
   {
     "title": "HUMANKIND™",
     "releaseDate": "2021-08-17T14:00:00.0000000Z",
     "jvcom": {
-      "error": "page.goto: Timeout 30000ms exceeded.\n=========================== logs ===========================\nnavigating to \"https://www.jeuxvideo.com/jeux/jeu-1093478/\", waiting until \"load\"\n============================================================\nNote: use DEBUG=pw:api environment variable and rerun to capture Playwright logs."
+      "searchTitle": "<b>Humankind</b>",
+      "gauge": "16",
+      "url": "https://www.jeuxvideo.com/jeux/jeu-1093478/"
     }
   },
   {
     "title": "Iron Harvest",
     "releaseDate": "2021-06-24T00:00:00.0000000Z",
     "jvcom": {
-      "error": "invalid json response body at https://www.jeuxvideo.com/rechercher.php?a=5&q=Iron+Harvest reason: Unexpected token < in JSON at position 0"
+      "searchTitle": "<b>Iron</b> <b>Harvest</b>",
+      "gauge": "--",
+      "url": "https://www.jeuxvideo.com/jeux/jeu-770871/"
     }
   },
   {
     "title": "Lemnis Gate : Édition Windows",
     "releaseDate": "2021-09-28T00:00:00.0000000Z",
     "jvcom": {
-      "error": "page.goto: Timeout 30000ms exceeded.\n=========================== logs ===========================\nnavigating to \"https://www.jeuxvideo.com/jeux/jeu-1372548/\", waiting until \"load\"\n============================================================\nNote: use DEBUG=pw:api environment variable and rerun to capture Playwright logs."
+      "searchTitle": "<b>Lemnis</b> <b>Gate</b>",
+      "gauge": "16",
+      "url": "https://www.jeuxvideo.com/jeux/jeu-1372548/"
     }
   },
   {
     "title": "Medieval Dynasty",
     "releaseDate": "2021-09-23T00:00:00.0000000Z",
     "jvcom": {
-      "error": "page.goto: Timeout 30000ms exceeded.\n=========================== logs ===========================\nnavigating to \"https://www.jeuxvideo.com/jeux/pc/jeu-1275827/\", waiting until \"load\"\n============================================================\nNote: use DEBUG=pw:api environment variable and rerun to capture Playwright logs."
+      "searchTitle": "<b>Medieval</b> <b>Dynasty</b>",
+      "gauge": "--",
+      "url": "https://www.jeuxvideo.com/jeux/pc/jeu-1275827/"
     }
   },
   {
     "title": "Microsoft Solitaire Collection",
     "releaseDate": "2012-07-28T01:27:59.0000000Z",
     "jvcom": {
-      "error": "invalid json response body at https://www.jeuxvideo.com/rechercher.php?a=5&q=Microsoft+Solitaire+Collection reason: Unexpected token < in JSON at position 0"
+      "searchTitle": "Nioh <b>Collection</b>",
+      "gauge": "15",
+      "url": "https://www.jeuxvideo.com/jeux/ps5/jeu-1321788/"
     }
   },
   {
     "title": "NieR:Automata BECOME AS GODS Edition",
     "releaseDate": "2021-03-18T00:00:00.0000000Z",
     "jvcom": {
-      "error": "invalid json response body at https://www.jeuxvideo.com/rechercher.php?a=5&q=NieR+%3AAutomata+BECOME+AS+GODS+Edition reason: Unexpected token < in JSON at position 0"
+      "searchTitle": "<b>NieR</b> <b>Automata</b>",
+      "gauge": "19",
+      "url": "https://www.jeuxvideo.com/jeux/jeu-429839/"
     }
   },
   {
@@ -5292,7 +5474,9 @@
     "title": "Pillars of Eternity 2: Deadfire - Ultimate Edition (PC)",
     "releaseDate": "2021-03-25T00:00:00.0000000Z",
     "jvcom": {
-      "error": "invalid json response body at https://www.jeuxvideo.com/rechercher.php?a=5&q=Pillars+of+Eternity+2+%3A+Deadfire+-+Ultimate+Edition+%28PC%29 reason: Unexpected token < in JSON at position 0"
+      "searchTitle": "Gears 5 <b>Ultimate</b> <b>Edition</b>",
+      "gauge": "--",
+      "url": "https://www.jeuxvideo.com/jeux/jeu-1121730/"
     }
   },
   {
@@ -5308,28 +5492,36 @@
     "title": "Project Wingman",
     "releaseDate": "2021-07-29T00:00:00.0000000Z",
     "jvcom": {
-      "error": "invalid json response body at https://www.jeuxvideo.com/rechercher.php?a=5&q=Project+Wingman reason: Unexpected token < in JSON at position 0"
+      "searchTitle": "<b>Project</b> <b>Wingman</b>",
+      "gauge": "--",
+      "url": "https://www.jeuxvideo.com/jeux/pc/jeu-854631/"
     }
   },
   {
     "title": "Psychonauts (Windows 10)",
     "releaseDate": "2021-05-13T00:00:00.0000000Z",
     "jvcom": {
-      "error": "invalid json response body at https://www.jeuxvideo.com/rechercher.php?a=5&q=Psychonauts+%28Windows+10%29 reason: Unexpected token < in JSON at position 0"
+      "searchTitle": "<b>Psychonauts</b> 2",
+      "gauge": "17",
+      "url": "https://www.jeuxvideo.com/jeux/jeu-451784/"
     }
   },
   {
     "title": "QUAKE® II",
     "releaseDate": "2021-08-19T17:00:00.0000000Z",
     "jvcom": {
-      "error": "invalid json response body at https://www.jeuxvideo.com/rechercher.php?a=5&q=QUAKE+II reason: Unexpected token < in JSON at position 0"
+      "searchTitle": "<b>Quake</b> <b>II</b>",
+      "gauge": "19",
+      "url": "https://www.jeuxvideo.com/jeux/jeu-55743/"
     }
   },
   {
     "title": "QUAKE® III Arena",
     "releaseDate": "2021-08-19T17:00:00.0000000Z",
     "jvcom": {
-      "error": "invalid json response body at https://www.jeuxvideo.com/rechercher.php?a=5&q=QUAKE+III+Arena reason: Unexpected token < in JSON at position 0"
+      "searchTitle": "<b>Quake</b> <b>III</b> <b>Arena</b>",
+      "gauge": "19",
+      "url": "https://www.jeuxvideo.com/jeux/jeu-55079/"
     }
   },
   {
@@ -5354,7 +5546,9 @@
     "title": "SpellForce 3: Soul Harvest",
     "releaseDate": "2021-05-27T00:00:00.0000000Z",
     "jvcom": {
-      "error": "invalid json response body at https://www.jeuxvideo.com/rechercher.php?a=5&q=SpellForce+3+%3A+Soul+Harvest reason: Unexpected token < in JSON at position 0"
+      "searchTitle": "<b>SpellForce</b> <b>3</b> : <b>Soul</b> <b>Harvest</b>",
+      "gauge": "--",
+      "url": "https://www.jeuxvideo.com/jeux/pc/jeu-975643/"
     }
   },
   {
@@ -5370,7 +5564,9 @@
     "title": "Tainted Grail: Conquest",
     "releaseDate": "2021-09-23T00:00:00.0000000Z",
     "jvcom": {
-      "error": "invalid json response body at https://www.jeuxvideo.com/rechercher.php?a=5&q=Tainted+Grail+%3A+Conquest reason: Unexpected token < in JSON at position 0"
+      "searchTitle": "<b>Tainted</b> <b>Grail</b> : <b>Conquest</b>",
+      "gauge": "--",
+      "url": "https://www.jeuxvideo.com/jeux/pc/jeu-1437566/"
     }
   },
   {
@@ -5386,14 +5582,18 @@
     "title": "The Elder Scrolls IV: Oblivion Game of the Year Edition (PC)",
     "releaseDate": "2021-03-12T00:00:00.0000000Z",
     "jvcom": {
-      "error": "invalid json response body at https://www.jeuxvideo.com/rechercher.php?a=5&q=The+Elder+Scrolls+IV+%3A+Oblivion+Game+of+the+Year+Edition+%28PC%29 reason: Unexpected token < in JSON at position 0"
+      "searchTitle": "<b>The</b> <b>Elder</b> <b>Scrolls</b> V : Skyrim : Anniversary <b>Edition</b>",
+      "gauge": "--",
+      "url": "https://www.jeuxvideo.com/jeux/jeu-1450472/"
     }
   },
   {
     "title": "The Elder Scrolls V: Skyrim Special Edition (PC)",
     "releaseDate": "2021-03-11T20:00:00.0000000Z",
     "jvcom": {
-      "error": "page.goto: Timeout 30000ms exceeded.\n=========================== logs ===========================\nnavigating to \"https://www.jeuxvideo.com/jeux/jeu-1450472/\", waiting until \"load\"\n============================================================\nNote: use DEBUG=pw:api environment variable and rerun to capture Playwright logs."
+      "searchTitle": "<b>The</b> <b>Elder</b> <b>Scrolls</b> <b>V</b> : <b>Skyrim</b> : Anniversary <b>Edition</b>",
+      "gauge": "--",
+      "url": "https://www.jeuxvideo.com/jeux/jeu-1450472/"
     }
   },
   {
@@ -5409,7 +5609,9 @@
     "title": "The Evil Within® 2 (PC)",
     "releaseDate": "2021-06-13T19:00:00.0000000Z",
     "jvcom": {
-      "error": "invalid json response body at https://www.jeuxvideo.com/rechercher.php?a=5&q=The+Evil+Within+2+%28PC%29 reason: Unexpected token < in JSON at position 0"
+      "searchTitle": "<b>Within</b> <b>the</b> Blade",
+      "gauge": "14",
+      "url": "https://www.jeuxvideo.com/jeux/jeu-1435547/"
     }
   },
   {
@@ -5443,7 +5645,9 @@
     "title": "Wolfenstein: The Old Blood (PC)",
     "releaseDate": "2021-03-12T00:00:00.0000000Z",
     "jvcom": {
-      "error": "page.goto: Timeout 30000ms exceeded.\n=========================== logs ===========================\nnavigating to \"https://www.jeuxvideo.com/jeux/jeu-859913/\", waiting until \"load\"\n============================================================\nNote: use DEBUG=pw:api environment variable and rerun to capture Playwright logs."
+      "searchTitle": "<b>Wolfenstein</b> Cyberpilot",
+      "gauge": "10",
+      "url": "https://www.jeuxvideo.com/jeux/jeu-859913/"
     }
   },
   {
