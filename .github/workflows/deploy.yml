@@ -17,6 +17,8 @@ jobs:
         uses: actions/checkout@v2 # If you're using actions/checkout@v2 you must set persist-credentials to false in most cases for the deployment to work correctly.
         with:
           persist-credentials: false
+          node-version: 14.x
+          cache: 'npm'
 
       - name: Cache  💾
         uses: actions/cache@v2
