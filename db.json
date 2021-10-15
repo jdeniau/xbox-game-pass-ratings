@@ -5658,5 +5658,41 @@
       "gauge": "18",
       "url": "https://www.jeuxvideo.com/jeux/jeu-442753/"
     }
+  },
+  {
+    "title": "Ring of Pain",
+    "releaseDate": "2021-10-14T00:00:00.0000000Z",
+    "jvcom": {
+      "searchTitle": "Risk <b>of</b> Rain 2",
+      "gauge": "17",
+      "url": "https://www.jeuxvideo.com/jeux/jeu-653814/"
+    }
+  },
+  {
+    "title": "The Good Life",
+    "releaseDate": "2021-10-14T22:00:00.0000000Z",
+    "jvcom": {
+      "searchTitle": "<b>The</b> <b>Good</b> <b>Life</b>",
+      "gauge": "--",
+      "url": "https://www.jeuxvideo.com/jeux/jeu-697653/"
+    }
+  },
+  {
+    "title": "The Riftbreaker",
+    "releaseDate": "2021-10-14T00:00:00.0000000Z",
+    "jvcom": {
+      "searchTitle": "<b>The</b> <b>Riftbreaker</b>",
+      "gauge": "--",
+      "url": "https://www.jeuxvideo.com/jeux/jeu-1012622/"
+    }
+  },
+  {
+    "title": "The Riftbreaker PC",
+    "releaseDate": "2021-10-14T00:00:00.0000000Z",
+    "jvcom": {
+      "searchTitle": "<b>The</b> <b>Riftbreaker</b>",
+      "gauge": "--",
+      "url": "https://www.jeuxvideo.com/jeux/jeu-1012622/"
+    }
   }
 ]
