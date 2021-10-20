@@ -5694,5 +5694,23 @@
       "gauge": "--",
       "url": "https://www.jeuxvideo.com/jeux/jeu-1012622/"
     }
+  },
+  {
+    "title": "Back 4 Blood",
+    "releaseDate": "2021-10-12T00:00:00.0000000Z",
+    "jvcom": {
+      "searchTitle": "<b>Back</b> <b>4</b> <b>Blood</b>",
+      "gauge": "15",
+      "url": "https://www.jeuxvideo.com/jeux/jeu-1015237/"
+    }
+  },
+  {
+    "title": "Into the Pit",
+    "releaseDate": "2021-10-19T16:00:00.0000000Z",
+    "jvcom": {
+      "searchTitle": "<b>Into</b> <b>The</b> <b>Pit</b>",
+      "gauge": "--",
+      "url": "https://www.jeuxvideo.com/jeux/jeu-1452233/"
+    }
   }
 ]
