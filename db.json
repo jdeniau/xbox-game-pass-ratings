@@ -5712,5 +5712,32 @@
       "gauge": "--",
       "url": "https://www.jeuxvideo.com/jeux/jeu-1452233/"
     }
+  },
+  {
+    "title": "DRAGON BALL FIGHTERZ",
+    "releaseDate": "2018-01-26T00:00:00.0000000Z",
+    "jvcom": {
+      "searchTitle": "<b>Dragon</b> <b>Ball</b> <b>FighterZ</b>",
+      "gauge": "18",
+      "url": "https://www.jeuxvideo.com/jeux/jeu-669755/"
+    }
+  },
+  {
+    "title": "Echo Generation",
+    "releaseDate": "2021-10-21T00:00:00.0000000Z",
+    "jvcom": {
+      "searchTitle": "<b>Echo</b> <b>Generation</b>",
+      "gauge": "--",
+      "url": "https://www.jeuxvideo.com/jeux/jeu-1262337/"
+    }
+  },
+  {
+    "title": "EVERSPACE™ 2 (Game Preview)",
+    "releaseDate": "2799-12-31T00:00:00.0000000Z",
+    "jvcom": {
+      "searchTitle": "<b>Everspace</b> <b>2</b>",
+      "gauge": "15",
+      "url": "https://www.jeuxvideo.com/jeux/jeu-1093492/"
+    }
   }
 ]
