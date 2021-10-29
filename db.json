@@ -5739,5 +5739,75 @@
       "gauge": "15",
       "url": "https://www.jeuxvideo.com/jeux/jeu-1093492/"
     }
+  },
+  {
+    "title": "Alan Wake's American Nightmare ®",
+    "releaseDate": "2012-02-22T00:00:00.0000000Z",
+    "jvcom": {
+      "searchTitle": "<b>Alan</b> <b>Wake</b>'s <b>American</b> <b>Nightmare</b>",
+      "gauge": "14",
+      "url": "https://www.jeuxvideo.com/jeux/jeu-74904/"
+    }
+  },
+  {
+    "title": "Bassmaster® Fishing 2022",
+    "releaseDate": "2021-10-28T00:00:00.0000000Z",
+    "jvcom": {
+      "searchTitle": "Reel <b>Fishing</b> : Master’s Challenge",
+      "gauge": "--",
+      "url": "https://www.jeuxvideo.com/jeux/vita/jeu-419377/"
+    }
+  },
+  {
+    "title": "Moonglow Bay",
+    "releaseDate": "2021-10-26T00:00:00.0000000Z",
+    "jvcom": {
+      "searchTitle": "<b>Moonglow</b> <b>Bay</b>",
+      "gauge": "--",
+      "url": "https://www.jeuxvideo.com/jeux/pc/jeu-1427826/"
+    }
+  },
+  {
+    "title": "Nongunz: Doppelganger Edition",
+    "releaseDate": "2021-05-07T00:00:00.0000000Z",
+    "jvcom": {
+      "searchTitle": "<b>Nongunz</b> : <b>Doppelganger</b> <b>Edition</b>",
+      "gauge": "--",
+      "url": "https://www.jeuxvideo.com/jeux/jeu-1236799/"
+    }
+  },
+  {
+    "title": "The Forgotten City",
+    "releaseDate": "2021-07-28T07:00:00.0000000Z",
+    "jvcom": {
+      "searchTitle": "<b>The</b> <b>Forgotten</b> <b>City</b>",
+      "gauge": "16",
+      "url": "https://www.jeuxvideo.com/jeux/jeu-860969/"
+    }
+  },
+  {
+    "title": "Age of Empires IV",
+    "releaseDate": "2021-10-28T00:00:00.0000000Z",
+    "jvcom": {
+      "searchTitle": "<b>Age</b> <b>of</b> <b>Empires</b> <b>IV</b>",
+      "gauge": "16",
+      "url": "https://www.jeuxvideo.com/jeux/pc/jeu-699721/"
+    }
+  },
+  {
+    "title": "Alan Wake's American Nightmare",
+    "releaseDate": "2021-10-28T16:00:00.0000000Z",
+    "jvcom": {
+      "searchTitle": "<b>Alan</b> <b>Wake</b>'s <b>American</b> <b>Nightmare</b>",
+      "gauge": "14",
+      "url": "https://www.jeuxvideo.com/jeux/jeu-74904/"
+    }
+  },
+  {
+    "title": "Minecraft Dungeons for Windows",
+    "releaseDate": "2020-05-26T08:00:00.0000000Z",
+    "jvcom": {
+      "error": "request to https://www.jeuxvideo.com/rechercher.php?a=5&q=Minecraft+Dungeons+for+Windows failed, reason: read ETIMEDOUT"
+    }
   }
 ]
