@@ -5809,5 +5809,50 @@
     "jvcom": {
       "error": "request to https://www.jeuxvideo.com/rechercher.php?a=5&q=Minecraft+Dungeons+for+Windows failed, reason: read ETIMEDOUT"
     }
+  },
+  {
+    "title": "It Takes Two - Version numérique",
+    "releaseDate": "2021-03-25T23:00:00.0000000Z",
+    "jvcom": {
+      "searchTitle": "<b>It</b> <b>Takes</b> <b>Two</b>",
+      "gauge": "18",
+      "url": "https://www.jeuxvideo.com/jeux/jeu-1243180/"
+    }
+  },
+  {
+    "title": "Kill It With Fire",
+    "releaseDate": "2021-03-04T18:00:00.0000000Z",
+    "jvcom": {
+      "searchTitle": "<b>Kill</b> <b>it</b> <b>With</b> <b>Fire</b>",
+      "gauge": "--",
+      "url": "https://www.jeuxvideo.com/jeux/pc/jeu-1268366/"
+    }
+  },
+  {
+    "title": "Unpacking",
+    "releaseDate": "2021-11-02T07:00:00.0000000Z",
+    "jvcom": {
+      "searchTitle": "<b>Unpacking</b>",
+      "gauge": "--",
+      "url": "https://www.jeuxvideo.com/jeux/jeu-1425693/"
+    }
+  },
+  {
+    "title": "Minecraft Dungeons for Windows + Launcher",
+    "releaseDate": "2021-11-02T13:00:00.0000000Z",
+    "jvcom": {
+      "searchTitle": "<b>Minecraft</b> <b>Dungeons</b> : Echoing Void",
+      "gauge": "--",
+      "url": "https://www.jeuxvideo.com/jeux/jeu-1436612/"
+    }
+  },
+  {
+    "title": "Minecraft PC Bundle",
+    "releaseDate": "9998-12-30T00:00:00.0000000Z",
+    "jvcom": {
+      "searchTitle": "<b>Minecraft</b> Dungeons : Echoing Void",
+      "gauge": "--",
+      "url": "https://www.jeuxvideo.com/jeux/jeu-1436612/"
+    }
   }
 ]
