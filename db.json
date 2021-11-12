@@ -5854,5 +5854,59 @@
       "gauge": "--",
       "url": "https://www.jeuxvideo.com/jeux/jeu-1436612/"
     }
+  },
+  {
+    "title": "Dicey Dungeons",
+    "releaseDate": "2021-11-11T00:00:00.0000000Z",
+    "jvcom": {
+      "searchTitle": "<b>Dicey</b> <b>Dungeons</b>",
+      "gauge": "17",
+      "url": "https://www.jeuxvideo.com/jeux/jeu-884215/"
+    }
+  },
+  {
+    "title": "Football Manager 2022 Xbox Edition",
+    "releaseDate": "2021-11-08T20:00:00.0000000Z",
+    "jvcom": {
+      "searchTitle": "<b>Football</b> <b>Manager</b> <b>2022</b> <b>Xbox</b> <b>Edition</b>",
+      "gauge": "15",
+      "url": "https://www.jeuxvideo.com/jeux/jeu-1459380/"
+    }
+  },
+  {
+    "title": "Forza Horizon 5 Édition standard",
+    "releaseDate": "2021-11-08T23:00:00.0000000Z",
+    "jvcom": {
+      "searchTitle": "<b>Forza</b> <b>Horizon</b> <b>5</b>",
+      "gauge": "19",
+      "url": "https://www.jeuxvideo.com/jeux/jeu-1422286/"
+    }
+  },
+  {
+    "title": "Grand Theft Auto: San Andreas – The Definitive Edition",
+    "releaseDate": "2021-10-15T17:38:57.1532637Z",
+    "jvcom": {
+      "searchTitle": "<b>Grand</b> <b>Theft</b> <b>Auto</b> : <b>The</b> Trilogy – <b>The</b> <b>Definitive</b> <b>Edition</b>",
+      "gauge": "--",
+      "url": "https://www.jeuxvideo.com/jeux/jeu-1474058/"
+    }
+  },
+  {
+    "title": "One Step From Eden",
+    "releaseDate": "2021-11-11T00:00:00.0000000Z",
+    "jvcom": {
+      "searchTitle": "<b>One</b> <b>Step</b> <b>from</b> <b>Eden</b>",
+      "gauge": "--",
+      "url": "https://www.jeuxvideo.com/jeux/jeu-983194/"
+    }
+  },
+  {
+    "title": "Football Manager 2022",
+    "releaseDate": "2021-11-09T00:00:00.0000000Z",
+    "jvcom": {
+      "searchTitle": "<b>Football</b> <b>Manager</b> <b>2022</b>",
+      "gauge": "--",
+      "url": "https://www.jeuxvideo.com/jeux/jeu-1459337/"
+    }
   }
 ]
