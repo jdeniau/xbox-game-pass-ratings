@@ -5908,5 +5908,75 @@
       "gauge": "--",
       "url": "https://www.jeuxvideo.com/jeux/jeu-1459337/"
     }
+  },
+  {
+    "title": "Exo One",
+    "releaseDate": "2021-11-18T15:00:00.0000000Z",
+    "jvcom": {
+      "searchTitle": "<b>Exo</b> <b>One</b>",
+      "gauge": "--",
+      "url": "https://www.jeuxvideo.com/jeux/jeu-1262530/"
+    }
+  },
+  {
+    "title": "Fae Tactics",
+    "releaseDate": "2021-11-18T00:00:00.0000000Z",
+    "jvcom": {
+      "searchTitle": "<b>Fae</b> <b>Tactics</b>",
+      "gauge": "--",
+      "url": "https://www.jeuxvideo.com/jeux/jeu-971855/"
+    }
+  },
+  {
+    "title": "Halo Infinite",
+    "releaseDate": "2021-11-15T18:00:00.0000000Z",
+    "jvcom": {
+      "searchTitle": "<b>Halo</b> <b>Infinite</b>",
+      "gauge": "--",
+      "url": "https://www.jeuxvideo.com/jeux/jeu-859368/"
+    }
+  },
+  {
+    "title": "Microsoft Flight Simulator: Standard Game of the Year Edition",
+    "releaseDate": "2021-11-18T16:00:00.0000000Z",
+    "jvcom": {
+      "searchTitle": "<b>Microsoft</b> <b>Flight</b> <b>Simulator</b>",
+      "gauge": "18",
+      "url": "https://www.jeuxvideo.com/jeux/jeu-1056648/"
+    }
+  },
+  {
+    "title": "My Friend Pedro",
+    "releaseDate": "2019-12-05T00:00:00.0000000Z",
+    "jvcom": {
+      "searchTitle": "<b>My</b> <b>Friend</b> <b>Pedro</b>",
+      "gauge": "14",
+      "url": "https://www.jeuxvideo.com/jeux/jeu-859986/"
+    }
+  },
+  {
+    "title": "Next Space Rebels",
+    "releaseDate": "2021-11-17T17:00:00.0000000Z",
+    "jvcom": {
+      "searchTitle": "<b>Next</b> <b>Space</b> <b>Rebels</b>",
+      "gauge": "--",
+      "url": "https://www.jeuxvideo.com/jeux/jeu-1452248/"
+    }
+  },
+  {
+    "title": "Undungeon",
+    "releaseDate": "2021-11-18T17:00:00.0000000Z",
+    "jvcom": {
+      "error": "request to https://www.jeuxvideo.com/rechercher.php?a=5&q=Undungeon failed, reason: read ETIMEDOUT"
+    }
+  },
+  {
+    "title": "My Friend Pedro Win10",
+    "releaseDate": "2019-12-05T00:00:00.0000000Z",
+    "jvcom": {
+      "searchTitle": "<b>My</b> <b>Friend</b> <b>Pedro</b> : Ripe for Revenge",
+      "gauge": "--",
+      "url": "https://www.jeuxvideo.com/jeux/jeu-1433855/"
+    }
   }
 ]
