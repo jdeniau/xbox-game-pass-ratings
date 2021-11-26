@@ -5978,5 +5978,30 @@
       "gauge": "--",
       "url": "https://www.jeuxvideo.com/jeux/jeu-1433855/"
     }
+  },
+  {
+    "title": "Before We Leave",
+    "releaseDate": "2021-11-23T00:00:00.0000000Z",
+    "jvcom": {
+      "searchTitle": "<b>Before</b> <b>We</b> <b>Leave</b>",
+      "gauge": "13",
+      "url": "https://www.jeuxvideo.com/jeux/pc/jeu-1212920/"
+    }
+  },
+  {
+    "title": "DEEEER Simulator: Votre jeu de cerf de tous les jours",
+    "releaseDate": "2021-11-23T23:00:00.0000000Z",
+    "jvcom": {
+      "error": "Unable to find DEEEER Simulator: Votre jeu de cerf de tous les jours on jvcom"
+    }
+  },
+  {
+    "title": "Mortal Shell: Enhanced Edition",
+    "releaseDate": "2020-08-18T07:00:00.0000000Z",
+    "jvcom": {
+      "searchTitle": "Metro Exodus - <b>Enhanced</b> <b>Edition</b>",
+      "gauge": "16",
+      "url": "https://www.jeuxvideo.com/jeux/pc/jeu-1403247/"
+    }
   }
 ]
