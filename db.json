@@ -6003,5 +6003,99 @@
       "gauge": "16",
       "url": "https://www.jeuxvideo.com/jeux/pc/jeu-1403247/"
     }
+  },
+  {
+    "title": "ANVIL : Vault Breaker (Game Preview)",
+    "releaseDate": "2021-11-23T02:00:00.0000000Z",
+    "jvcom": {
+      "error": "Unable to find ANVIL : Vault Breaker (Game Preview) on jvcom"
+    }
+  },
+  {
+    "title": "Archvale",
+    "releaseDate": "2021-12-02T17:00:00.0000000Z",
+    "jvcom": {
+      "searchTitle": "<b>Archvale</b>",
+      "gauge": "--",
+      "url": "https://www.jeuxvideo.com/jeux/jeu-1452203/"
+    }
+  },
+  {
+    "title": "Evil Genius 2: World Domination",
+    "releaseDate": "2021-11-30T00:00:00.0000000Z",
+    "jvcom": {
+      "searchTitle": "<b>Evil</b> <b>Genius</b> <b>2</b> : <b>World</b> <b>Domination</b>",
+      "gauge": "15",
+      "url": "https://www.jeuxvideo.com/jeux/jeu-63459/"
+    }
+  },
+  {
+    "title": "FINAL FANTASY XIII-2",
+    "releaseDate": "2012-02-03T00:00:00.0000000Z",
+    "jvcom": {
+      "error": "request to https://www.jeuxvideo.com/rechercher.php?a=5&q=FINAL+FANTASY+XIII-2 failed, reason: read ETIMEDOUT"
+    }
+  },
+  {
+    "title": "Generation Zero®",
+    "releaseDate": "2019-03-26T00:00:00.0000000Z",
+    "jvcom": {
+      "searchTitle": "<b>Generation</b> <b>Zero</b>",
+      "gauge": "9",
+      "url": "https://www.jeuxvideo.com/jeux/jeu-858236/"
+    }
+  },
+  {
+    "title": "Lawn Mowing Simulator",
+    "releaseDate": "2021-08-10T00:00:00.0000000Z",
+    "jvcom": {
+      "searchTitle": "<b>Lawn</b> <b>Mowing</b> <b>Simulator</b>",
+      "gauge": "--",
+      "url": "https://www.jeuxvideo.com/jeux/jeu-1384438/"
+    }
+  },
+  {
+    "title": "Mind Scanners",
+    "releaseDate": "2021-11-30T00:00:00.0000000Z",
+    "jvcom": {
+      "searchTitle": "<b>Mind</b> <b>Scanners</b>",
+      "gauge": "--",
+      "url": "https://www.jeuxvideo.com/jeux/pc/jeu-1400920/"
+    }
+  },
+  {
+    "title": "Rubber Bandits",
+    "releaseDate": "2021-12-02T00:00:00.0000000Z",
+    "jvcom": {
+      "error": "request to https://www.jeuxvideo.com/rechercher.php?a=5&q=Rubber+Bandits failed, reason: read ETIMEDOUT"
+    }
+  },
+  {
+    "title": "Stardew Valley",
+    "releaseDate": "2016-12-14T00:00:00.0000000Z",
+    "jvcom": {
+      "error": "request to https://www.jeuxvideo.com/rechercher.php?a=5&q=Stardew+Valley failed, reason: read ETIMEDOUT"
+    }
+  },
+  {
+    "title": "Townscaper",
+    "releaseDate": "2021-11-30T23:00:00.0000000Z",
+    "jvcom": {
+      "error": "request to https://www.jeuxvideo.com/rechercher.php?a=5&q=Townscaper failed, reason: read ETIMEDOUT"
+    }
+  },
+  {
+    "title": "Warhammer 40,000: Battlesector",
+    "releaseDate": "2021-12-02T00:00:00.0000000Z",
+    "jvcom": {
+      "error": "request to https://www.jeuxvideo.com/rechercher.php?a=5&q=Warhammer+40%2C000+%3A+Battlesector failed, reason: read ETIMEDOUT"
+    }
+  },
+  {
+    "title": "theHunter: Call of the Wild™ - Windows 10",
+    "releaseDate": "2021-11-30T10:00:00.0000000Z",
+    "jvcom": {
+      "error": "request to https://www.jeuxvideo.com/rechercher.php?a=5&q=theHunter+%3A+Call+of+the+Wild+-+Windows+10 failed, reason: read ETIMEDOUT"
+    }
   }
 ]
