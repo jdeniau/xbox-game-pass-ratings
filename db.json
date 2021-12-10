@@ -6097,5 +6097,50 @@
     "jvcom": {
       "error": "request to https://www.jeuxvideo.com/rechercher.php?a=5&q=theHunter+%3A+Call+of+the+Wild+-+Windows+10 failed, reason: read ETIMEDOUT"
     }
+  },
+  {
+    "title": "Halo Infinite (campagne)",
+    "releaseDate": "2021-12-08T18:00:00.0000000Z",
+    "jvcom": {
+      "searchTitle": "<b>Halo</b> <b>Infinite</b> Multiplayer",
+      "gauge": "17",
+      "url": "https://www.jeuxvideo.com/jeux/jeu-1490787/"
+    }
+  },
+  {
+    "title": "ONE PIECE: PIRATE WARRIORS 4",
+    "releaseDate": "2020-04-27T22:00:00.0000000Z",
+    "jvcom": {
+      "searchTitle": "<b>One</b> <b>Piece</b> : <b>Pirate</b> <b>Warriors</b> <b>4</b>",
+      "gauge": "12",
+      "url": "https://www.jeuxvideo.com/jeux/jeu-1071996/"
+    }
+  },
+  {
+    "title": "Serious Sam 4",
+    "releaseDate": "2021-12-07T00:00:00.0000000Z",
+    "jvcom": {
+      "searchTitle": "<b>Serious</b> <b>Sam</b> <b>4</b>",
+      "gauge": "10",
+      "url": "https://www.jeuxvideo.com/jeux/jeu-80787/"
+    }
+  },
+  {
+    "title": "Space Warlord Organ Trading Simulator",
+    "releaseDate": "2021-12-07T14:00:00.0000000Z",
+    "jvcom": {
+      "searchTitle": "Speaking <b>Simulator</b>",
+      "gauge": "--",
+      "url": "https://www.jeuxvideo.com/jeux/jeu-1168492/"
+    }
+  },
+  {
+    "title": "ONE PIECE: PIRATE WARRIORS 4 (Windows)",
+    "releaseDate": "2021-12-09T00:00:00.0000000Z",
+    "jvcom": {
+      "searchTitle": "<b>One</b> <b>Piece</b> : <b>Pirate</b> <b>Warriors</b> <b>4</b>",
+      "gauge": "12",
+      "url": "https://www.jeuxvideo.com/jeux/jeu-1071996/"
+    }
   }
 ]
