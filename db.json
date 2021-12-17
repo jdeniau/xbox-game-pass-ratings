@@ -6142,5 +6142,103 @@
       "gauge": "12",
       "url": "https://www.jeuxvideo.com/jeux/jeu-1071996/"
     }
+  },
+  {
+    "title": "Aliens: Fireteam Elite",
+    "releaseDate": "2021-08-24T04:00:00.0000000Z",
+    "jvcom": {
+      "searchTitle": "<b>Aliens</b> : <b>Fireteam</b> <b>Elite</b>",
+      "gauge": "14",
+      "url": "https://www.jeuxvideo.com/jeux/jeu-1372052/"
+    }
+  },
+  {
+    "title": "Ben 10 : La chasse aux pouvoirs",
+    "releaseDate": "2020-10-09T00:00:00.0000000Z",
+    "jvcom": {
+      "searchTitle": "<b>Ben</b> <b>10</b> : La <b>Chasse</b> aux <b>Pouvoirs</b>",
+      "gauge": "--",
+      "url": "https://www.jeuxvideo.com/jeux/jeu-1248197/"
+    }
+  },
+  {
+    "title": "Broken Age",
+    "releaseDate": "2017-06-23T00:00:00.0000000Z",
+    "jvcom": {
+      "error": "request to https://www.jeuxvideo.com/rechercher.php?a=5&q=Broken+Age failed, reason: read ETIMEDOUT"
+    }
+  },
+  {
+    "title": "Course avec Ryan",
+    "releaseDate": "2019-11-01T00:00:00.0000000Z",
+    "jvcom": {
+      "searchTitle": "Dare <b>Course</b>",
+      "gauge": "--",
+      "url": "https://www.jeuxvideo.com/jeux/jeu-893510/"
+    }
+  },
+  {
+    "title": "Firewatch",
+    "releaseDate": "2016-09-23T00:00:00.0000000Z",
+    "jvcom": {
+      "searchTitle": "<b>Firewatch</b>",
+      "gauge": "17",
+      "url": "https://www.jeuxvideo.com/jeux/jeu-82043/"
+    }
+  },
+  {
+    "title": "Lake",
+    "releaseDate": "2021-09-01T07:00:00.0000000Z",
+    "jvcom": {
+      "searchTitle": "<b>Lake</b>",
+      "gauge": "--",
+      "url": "https://www.jeuxvideo.com/jeux/jeu-1189058/"
+    }
+  },
+  {
+    "title": "Les Chroniques de la guerre de Lodoss : Deedlit au Labyrinthe des merveilles",
+    "releaseDate": "2021-12-15T23:00:00.0000000Z",
+    "jvcom": {
+      "searchTitle": "Record of <b>Lodoss</b> War",
+      "gauge": "15",
+      "url": "https://www.jeuxvideo.com/jeux/jeu-58366/"
+    }
+  },
+  {
+    "title": "Mortal Kombat 11",
+    "releaseDate": "2019-04-23T00:00:00.0000000Z",
+    "jvcom": {
+      "searchTitle": "<b>Mortal</b> <b>Kombat</b> <b>11</b>",
+      "gauge": "18",
+      "url": "https://www.jeuxvideo.com/jeux/jeu-970555/"
+    }
+  },
+  {
+    "title": "Pat' Patrouille : La Super Patrouille sauve la Grande Vallée",
+    "releaseDate": "2020-11-06T00:00:00.0000000Z",
+    "jvcom": {
+      "error": "request to https://www.jeuxvideo.com/rechercher.php?a=5&q=Pat%27+Patrouille+%3A+La+Super+Patrouille+sauve+la+Grande+Vall%C3%A9e failed, reason: read ETIMEDOUT"
+    }
+  },
+  {
+    "title": "Spiritfarer : édition Farewell",
+    "releaseDate": "2020-08-18T17:00:00.0000000Z",
+    "jvcom": {
+      "error": "request to https://www.jeuxvideo.com/rechercher.php?a=5&q=Spiritfarer+%3A+%C3%A9dition+Farewell failed, reason: read ETIMEDOUT"
+    }
+  },
+  {
+    "title": "The Gunk",
+    "releaseDate": "2021-12-16T14:00:00.0000000Z",
+    "jvcom": {
+      "error": "request to https://www.jeuxvideo.com/rechercher.php?a=5&q=The+Gunk failed, reason: read ETIMEDOUT"
+    }
+  },
+  {
+    "title": "TRANSFORMERS : BATTLEGROUNDS",
+    "releaseDate": "2020-10-23T00:00:00.0000000Z",
+    "jvcom": {
+      "error": "request to https://www.jeuxvideo.com/rechercher.php?a=5&q=TRANSFORMERS+%3A+BATTLEGROUNDS failed, reason: read ETIMEDOUT"
+    }
   }
 ]
