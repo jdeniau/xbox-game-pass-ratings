@@ -6240,5 +6240,50 @@
     "jvcom": {
       "error": "request to https://www.jeuxvideo.com/rechercher.php?a=5&q=TRANSFORMERS+%3A+BATTLEGROUNDS failed, reason: read ETIMEDOUT"
     }
+  },
+  {
+    "title": "Embr",
+    "releaseDate": "2021-09-23T00:00:00.0000000Z",
+    "jvcom": {
+      "searchTitle": "<b>Embr</b>",
+      "gauge": "--",
+      "url": "https://www.jeuxvideo.com/jeux/jeu-1217904/"
+    }
+  },
+  {
+    "title": "Gorogoa",
+    "releaseDate": "2018-05-22T00:00:00.0000000Z",
+    "jvcom": {
+      "searchTitle": "<b>Gorogoa</b>",
+      "gauge": "17",
+      "url": "https://www.jeuxvideo.com/jeux/jeu-82904/"
+    }
+  },
+  {
+    "title": "Mass Effect™ Édition Légendaire",
+    "releaseDate": "2021-05-13T22:00:00.0000000Z",
+    "jvcom": {
+      "searchTitle": "<b>Mass</b> <b>Effect</b> : Legendary <b>Edition</b>",
+      "gauge": "16",
+      "url": "https://www.jeuxvideo.com/jeux/jeu-1316997/"
+    }
+  },
+  {
+    "title": "Olija",
+    "releaseDate": "2021-01-28T14:00:00.0000000Z",
+    "jvcom": {
+      "searchTitle": "<b>Olija</b>",
+      "gauge": "16",
+      "url": "https://www.jeuxvideo.com/jeux/jeu-1254019/"
+    }
+  },
+  {
+    "title": "The Pedestrian",
+    "releaseDate": "2022-01-04T00:00:00.0000000Z",
+    "jvcom": {
+      "searchTitle": "<b>The</b> <b>Pedestrian</b>",
+      "gauge": "--",
+      "url": "https://www.jeuxvideo.com/jeux/jeu-600423/"
+    }
   }
 ]
