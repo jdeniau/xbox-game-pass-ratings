@@ -6285,5 +6285,23 @@
       "gauge": "--",
       "url": "https://www.jeuxvideo.com/jeux/jeu-600423/"
     }
+  },
+  {
+    "title": "Spelunky 2",
+    "releaseDate": "2022-01-13T00:00:00.0000000Z",
+    "jvcom": {
+      "searchTitle": "<b>Spelunky</b> <b>2</b>",
+      "gauge": "--",
+      "url": "https://www.jeuxvideo.com/jeux/jeu-736358/"
+    }
+  },
+  {
+    "title": "The Anacrusis (Accès anticipé)",
+    "releaseDate": "2799-12-31T18:00:00.0000000Z",
+    "jvcom": {
+      "searchTitle": "<b>The</b> <b>Anacrusis</b>",
+      "gauge": "--",
+      "url": "https://www.jeuxvideo.com/jeux/jeu-1420771/"
+    }
   }
 ]
