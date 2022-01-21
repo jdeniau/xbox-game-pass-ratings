@@ -6303,5 +6303,73 @@
       "gauge": "--",
       "url": "https://www.jeuxvideo.com/jeux/jeu-1420771/"
     }
+  },
+  {
+    "title": "Danganronpa: Trigger Happy Havoc Anniversary Edition",
+    "releaseDate": "2022-01-18T00:00:00.0000000Z",
+    "jvcom": {
+      "searchTitle": "<b>Danganronpa</b> : <b>Trigger</b> <b>Happy</b> <b>Havoc</b> <b>Anniversary</b> <b>Edition</b>",
+      "gauge": "17",
+      "url": "https://www.jeuxvideo.com/jeux/jeu-87799/"
+    }
+  },
+  {
+    "title": "Death's Door [Xbox]",
+    "releaseDate": "2021-07-20T13:00:00.0000000Z",
+    "jvcom": {
+      "searchTitle": "<b>Death</b>'s <b>Door</b>",
+      "gauge": "16",
+      "url": "https://www.jeuxvideo.com/jeux/jeu-1383386/"
+    }
+  },
+  {
+    "title": "HITMAN Trilogy",
+    "releaseDate": "2022-01-20T13:00:00.0000000Z",
+    "jvcom": {
+      "error": "request to https://www.jeuxvideo.com/rechercher.php?a=5&q=HITMAN+Trilogy failed, reason: read ETIMEDOUT"
+    }
+  },
+  {
+    "title": "Nobody Saves the World",
+    "releaseDate": "2022-01-18T13:00:00.0000000Z",
+    "jvcom": {
+      "searchTitle": "<b>Nobody</b> <b>Saves</b> <b>The</b> <b>World</b>",
+      "gauge": "15",
+      "url": "https://www.jeuxvideo.com/jeux/jeu-1381247/"
+    }
+  },
+  {
+    "title": "Pupperazzi",
+    "releaseDate": "2022-01-20T14:00:00.0000000Z",
+    "jvcom": {
+      "searchTitle": "<b>Pupperazzi</b>",
+      "gauge": "--",
+      "url": "https://www.jeuxvideo.com/jeux/jeu-1515364/"
+    }
+  },
+  {
+    "title": "Tom Clancy’s Rainbow Six® Extraction",
+    "releaseDate": "2022-01-20T00:00:00.0000000Z",
+    "jvcom": {
+      "searchTitle": "<b>Tom</b> <b>Clancy</b>'s <b>Rainbow</b> <b>Six</b> : <b>Extraction</b>",
+      "gauge": "16",
+      "url": "https://www.jeuxvideo.com/jeux/jeu-1058108/"
+    }
+  },
+  {
+    "title": "Windjammers 2",
+    "releaseDate": "2022-01-20T14:00:00.0000000Z",
+    "jvcom": {
+      "searchTitle": "<b>Windjammers</b> <b>2</b>",
+      "gauge": "--",
+      "url": "https://www.jeuxvideo.com/jeux/jeu-903696/"
+    }
+  },
+  {
+    "title": "Death's Door [Win10]",
+    "releaseDate": "2021-07-20T13:00:00.0000000Z",
+    "jvcom": {
+      "error": "request to https://www.jeuxvideo.com/rechercher.php?a=5&q=Death%27s+Door+%5BWin10%5D failed, reason: read ETIMEDOUT"
+    }
   }
 ]
