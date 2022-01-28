@@ -6371,5 +6371,14 @@
     "jvcom": {
       "error": "request to https://www.jeuxvideo.com/rechercher.php?a=5&q=Death%27s+Door+%5BWin10%5D failed, reason: read ETIMEDOUT"
     }
+  },
+  {
+    "title": "Taiko no Tatsujin: The Drum Master!",
+    "releaseDate": "2022-01-27T00:00:00.0000000Z",
+    "jvcom": {
+      "searchTitle": "<b>Taiko</b> <b>no</b> <b>Tatsujin</b> Pop Tap Bea‪t",
+      "gauge": "--",
+      "url": "https://www.jeuxvideo.com/jeux/ios/jeu-1388746/"
+    }
   }
 ]
