@@ -6380,5 +6380,32 @@
       "gauge": "--",
       "url": "https://www.jeuxvideo.com/jeux/ios/jeu-1388746/"
     }
+  },
+  {
+    "title": "Contrast",
+    "releaseDate": "2014-06-26T00:00:00.0000000Z",
+    "jvcom": {
+      "searchTitle": "<b>Contrast</b>",
+      "gauge": "15",
+      "url": "https://www.jeuxvideo.com/jeux/jeu-80536/"
+    }
+  },
+  {
+    "title": "Dreamscaper",
+    "releaseDate": "2022-02-03T00:00:00.0000000Z",
+    "jvcom": {
+      "searchTitle": "<b>Dreamscaper</b>",
+      "gauge": "--",
+      "url": "https://www.jeuxvideo.com/jeux/jeu-1162829/"
+    }
+  },
+  {
+    "title": "Telling Lies",
+    "releaseDate": "2020-04-28T07:00:00.0000000Z",
+    "jvcom": {
+      "searchTitle": "<b>Telling</b> <b>Lies</b>",
+      "gauge": "16",
+      "url": "https://www.jeuxvideo.com/jeux/jeu-686472/"
+    }
   }
 ]
