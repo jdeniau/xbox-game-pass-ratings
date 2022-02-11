@@ -6407,5 +6407,48 @@
       "gauge": "16",
       "url": "https://www.jeuxvideo.com/jeux/jeu-686472/"
     }
+  },
+  {
+    "title": "Besiege Console (Game Preview)",
+    "releaseDate": "2799-12-31T00:00:00.0000000Z",
+    "jvcom": {
+      "error": "Unable to find Besiege Console (Game Preview) on jvcom"
+    }
+  },
+  {
+    "title": "Edge of Eternity",
+    "releaseDate": "2022-02-10T14:00:00.0000000Z",
+    "jvcom": {
+      "searchTitle": "<b>Edge</b> <b>of</b> <b>Eternity</b>",
+      "gauge": "14",
+      "url": "https://www.jeuxvideo.com/jeux/jeu-417251/"
+    }
+  },
+  {
+    "title": "Skul: The Hero Slayer",
+    "releaseDate": "2021-10-20T22:00:00.0000000Z",
+    "jvcom": {
+      "searchTitle": "<b>Skul</b> : <b>The</b> <b>Hero</b> <b>Slayer</b>",
+      "gauge": "--",
+      "url": "https://www.jeuxvideo.com/jeux/pc/jeu-1178713/"
+    }
+  },
+  {
+    "title": "The Last Kids on Earth et le Sceptre Maudit !",
+    "releaseDate": "2021-06-03T22:00:00.0000000Z",
+    "jvcom": {
+      "searchTitle": "<b>Last</b> <b>Kids</b> on <b>Earth</b> et le <b>Sceptre</b> <b>Maudit</b>",
+      "gauge": "--",
+      "url": "https://www.jeuxvideo.com/jeux/jeu-1328950/"
+    }
+  },
+  {
+    "title": "Besiege (Game Preview)",
+    "releaseDate": "2799-12-31T00:00:00.0000000Z",
+    "jvcom": {
+      "searchTitle": "<b>Besiege</b>",
+      "gauge": "--",
+      "url": "https://www.jeuxvideo.com/jeux/jeu-431075/"
+    }
   }
 ]
