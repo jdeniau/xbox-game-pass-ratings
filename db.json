@@ -6450,5 +6450,59 @@
       "gauge": "--",
       "url": "https://www.jeuxvideo.com/jeux/jeu-431075/"
     }
+  },
+  {
+    "title": "ARK: Ultimate Survivor Edition",
+    "releaseDate": "2021-05-27T00:00:00.0000000Z",
+    "jvcom": {
+      "searchTitle": "Gear.Club Unlimited 2 - <b>Ultimate</b> <b>Edition</b>",
+      "gauge": "--",
+      "url": "https://www.jeuxvideo.com/jeux/jeu-1465300/"
+    }
+  },
+  {
+    "title": "CrossfireX: Opération Catalyseur",
+    "releaseDate": "9998-12-30T00:00:00.0000000Z",
+    "jvcom": {
+      "searchTitle": "<b>CrossfireX</b>",
+      "gauge": "--",
+      "url": "https://www.jeuxvideo.com/jeux/jeu-1056733/"
+    }
+  },
+  {
+    "title": "Infernax",
+    "releaseDate": "2022-02-14T14:00:00.0000000Z",
+    "jvcom": {
+      "searchTitle": "<b>Infernax</b>",
+      "gauge": "--",
+      "url": "https://www.jeuxvideo.com/jeux/jeu-1523269/"
+    }
+  },
+  {
+    "title": "Madden NFL 22 Xbox One",
+    "releaseDate": "2021-08-19T22:00:00.0000000Z",
+    "jvcom": {
+      "searchTitle": "<b>Madden</b> <b>NFL</b> <b>22</b>",
+      "gauge": "14",
+      "url": "https://www.jeuxvideo.com/jeux/jeu-1427016/"
+    }
+  },
+  {
+    "title": "Madden NFL 22 Xbox Series X|S",
+    "releaseDate": "2021-08-19T22:00:00.0000000Z",
+    "jvcom": {
+      "searchTitle": "<b>Madden</b> <b>NFL</b> <b>22</b>",
+      "gauge": "14",
+      "url": "https://www.jeuxvideo.com/jeux/jeu-1427016/"
+    }
+  },
+  {
+    "title": "Total War: Warhammer III",
+    "releaseDate": "2022-02-17T15:00:00.0000000Z",
+    "jvcom": {
+      "searchTitle": "<b>Total</b> <b>War</b> : <b>Warhammer</b> <b>III</b>",
+      "gauge": "--",
+      "url": "https://www.jeuxvideo.com/jeux/pc/jeu-1358416/"
+    }
   }
 ]
