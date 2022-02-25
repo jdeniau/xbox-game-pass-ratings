@@ -6504,5 +6504,41 @@
       "gauge": "--",
       "url": "https://www.jeuxvideo.com/jeux/pc/jeu-1358416/"
     }
+  },
+  {
+    "title": "Super Mega Baseball 3",
+    "releaseDate": "2020-05-13T16:00:00.0000000Z",
+    "jvcom": {
+      "searchTitle": "<b>Super</b> <b>Mega</b> <b>Baseball</b> <b>3</b>",
+      "gauge": "--",
+      "url": "https://www.jeuxvideo.com/jeux/jeu-1192405/"
+    }
+  },
+  {
+    "title": "DRAGON BALL FIGHTERZ (Windows)",
+    "releaseDate": "2022-02-24T09:00:00.0000000Z",
+    "jvcom": {
+      "searchTitle": "<b>Dragon</b> <b>Ball</b> Z Kakarot",
+      "gauge": "13",
+      "url": "https://www.jeuxvideo.com/jeux/jeu-993087/"
+    }
+  },
+  {
+    "title": "Galactic Civilizations III",
+    "releaseDate": "2022-02-24T00:00:00.0000000Z",
+    "jvcom": {
+      "searchTitle": "<b>Galactic</b> <b>Civilizations</b> <b>III</b>",
+      "gauge": "--",
+      "url": "https://www.jeuxvideo.com/jeux/pc/00051000-galactic-civilizations-iii.htm"
+    }
+  },
+  {
+    "title": "Roboquest (Aperçu)",
+    "releaseDate": "2022-02-22T09:00:00.0000000Z",
+    "jvcom": {
+      "searchTitle": "<b>Roboquest</b>",
+      "gauge": "--",
+      "url": "https://www.jeuxvideo.com/jeux/pc/jeu-1427821/"
+    }
   }
 ]
