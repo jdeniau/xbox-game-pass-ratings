@@ -6540,5 +6540,41 @@
       "gauge": "--",
       "url": "https://www.jeuxvideo.com/jeux/pc/jeu-1427821/"
     }
+  },
+  {
+    "title": "FAR: Changing Tides",
+    "releaseDate": "2022-03-01T14:00:00.0000000Z",
+    "jvcom": {
+      "searchTitle": "<b>Far</b> : <b>Changing</b> <b>Tides</b>",
+      "gauge": "--",
+      "url": "https://www.jeuxvideo.com/jeux/jeu-1422472/"
+    }
+  },
+  {
+    "title": "LIGHTNING RETURNS FFXIII",
+    "releaseDate": "2014-02-14T00:00:00.0000000Z",
+    "jvcom": {
+      "searchTitle": "<b>Lightning</b> Duru",
+      "gauge": "--",
+      "url": "https://www.jeuxvideo.com/jeux/ios/jeu-439626/"
+    }
+  },
+  {
+    "title": "FAR: Changing Tides - Édition Windows",
+    "releaseDate": "2022-03-01T14:00:00.0000000Z",
+    "jvcom": {
+      "searchTitle": "<b>Far</b> : <b>Changing</b> <b>Tides</b>",
+      "gauge": "--",
+      "url": "https://www.jeuxvideo.com/jeux/jeu-1422472/"
+    }
+  },
+  {
+    "title": "LIGHTNING RETURNS: FINAL FANTASY XIII",
+    "releaseDate": "2022-03-03T00:00:00.0000000Z",
+    "jvcom": {
+      "searchTitle": "<b>Lightning</b> <b>Returns</b> : <b>Final</b> <b>Fantasy</b> <b>XIII</b>",
+      "gauge": "15",
+      "url": "https://www.jeuxvideo.com/jeux/jeu-79600/"
+    }
   }
 ]
