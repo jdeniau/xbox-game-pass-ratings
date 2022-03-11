@@ -6576,5 +6576,32 @@
       "gauge": "15",
       "url": "https://www.jeuxvideo.com/jeux/jeu-79600/"
     }
+  },
+  {
+    "title": "Kentucky Route Zero: TV Edition",
+    "releaseDate": "2020-01-28T00:00:00.0000000Z",
+    "jvcom": {
+      "searchTitle": "<b>Kentucky</b> <b>Route</b> <b>Zero</b> : <b>TV</b> <b>Edition</b>",
+      "gauge": "15",
+      "url": "https://www.jeuxvideo.com/jeux/jeu-82287/"
+    }
+  },
+  {
+    "title": "Marvel's Guardians of the Galaxy",
+    "releaseDate": "2021-10-25T22:00:00.0000000Z",
+    "jvcom": {
+      "searchTitle": "Les Gardiens de la Galaxie",
+      "gauge": "16",
+      "url": "https://www.jeuxvideo.com/jeux/jeu-1422336/"
+    }
+  },
+  {
+    "title": "Young Souls",
+    "releaseDate": "2022-03-10T14:00:00.0000000Z",
+    "jvcom": {
+      "searchTitle": "<b>Young</b> <b>Souls</b>",
+      "gauge": "--",
+      "url": "https://www.jeuxvideo.com/jeux/jeu-898360/"
+    }
   }
 ]
