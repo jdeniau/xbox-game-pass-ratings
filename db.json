@@ -6603,5 +6603,50 @@
       "gauge": "--",
       "url": "https://www.jeuxvideo.com/jeux/jeu-898360/"
     }
+  },
+  {
+    "title": "Le Donjon de Naheulbeuk : L'Amulette du Désordre - Chicken Edition",
+    "releaseDate": "2021-06-24T00:00:00.0000000Z",
+    "jvcom": {
+      "searchTitle": "Le <b>Donjon</b> de <b>Naheulbeuk</b> : Ruines de Limis",
+      "gauge": "--",
+      "url": "https://www.jeuxvideo.com/jeux/jeu-1412664/"
+    }
+  },
+  {
+    "title": "Paradise Killer",
+    "releaseDate": "2022-03-16T17:00:00.0000000Z",
+    "jvcom": {
+      "searchTitle": "<b>Paradise</b> <b>Killer</b>",
+      "gauge": "--",
+      "url": "https://www.jeuxvideo.com/jeux/jeu-1216325/"
+    }
+  },
+  {
+    "title": "Shredders",
+    "releaseDate": "2022-03-17T00:00:00.0000000Z",
+    "jvcom": {
+      "searchTitle": "<b>Shredders</b>",
+      "gauge": "--",
+      "url": "https://www.jeuxvideo.com/jeux/jeu-1262552/"
+    }
+  },
+  {
+    "title": "TUNIC",
+    "releaseDate": "2022-03-16T17:00:00.0000000Z",
+    "jvcom": {
+      "searchTitle": "<b>TUNIC</b>",
+      "gauge": "17",
+      "url": "https://www.jeuxvideo.com/jeux/jeu-670564/"
+    }
+  },
+  {
+    "title": "Minecraft Preview for Windows",
+    "releaseDate": "2022-02-09T09:00:00.0000000Z",
+    "jvcom": {
+      "searchTitle": "<b>Minecraft</b> Dungeons : Hidden Depths",
+      "gauge": "--",
+      "url": "https://www.jeuxvideo.com/jeux/jeu-1413429/"
+    }
   }
 ]
