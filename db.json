@@ -6702,5 +6702,41 @@
       "gauge": "17",
       "url": "https://www.jeuxvideo.com/jeux/jeu-1161496/"
     }
+  },
+  {
+    "title": "Chinatown Detective Agency",
+    "releaseDate": "2022-04-07T17:00:00.0000000Z",
+    "jvcom": {
+      "searchTitle": "<b>Chinatown</b> <b>Detective</b> <b>Agency</b>",
+      "gauge": "--",
+      "url": "https://www.jeuxvideo.com/jeux/jeu-1125185/"
+    }
+  },
+  {
+    "title": "Cricket 22",
+    "releaseDate": "2021-12-02T00:00:00.0000000Z",
+    "jvcom": {
+      "searchTitle": "<b>cricket</b> <b>22</b>",
+      "gauge": "--",
+      "url": "https://www.jeuxvideo.com/jeux/jeu-1557427/"
+    }
+  },
+  {
+    "title": "MLB® The Show™ 22 Xbox One",
+    "releaseDate": "2022-01-26T17:08:52.1082858Z",
+    "jvcom": {
+      "searchTitle": "<b>MLB</b> <b>The</b> <b>Show</b> <b>22</b>",
+      "gauge": "--",
+      "url": "https://www.jeuxvideo.com/jeux/jeu-1529241/"
+    }
+  },
+  {
+    "title": "MLB® The Show™ 22 Xbox Series X | S",
+    "releaseDate": "2022-01-26T21:40:28.7505717Z",
+    "jvcom": {
+      "searchTitle": "<b>MLB</b> <b>The</b> <b>Show</b> <b>22</b>",
+      "gauge": "--",
+      "url": "https://www.jeuxvideo.com/jeux/jeu-1529241/"
+    }
   }
 ]
