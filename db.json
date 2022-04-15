@@ -6738,5 +6738,32 @@
       "gauge": "--",
       "url": "https://www.jeuxvideo.com/jeux/jeu-1529241/"
     }
+  },
+  {
+    "title": "Life is Strange: True Colors",
+    "releaseDate": "2021-09-09T16:00:00.0000000Z",
+    "jvcom": {
+      "searchTitle": "<b>Life</b> <b>is</b> <b>Strange</b> : <b>True</b> <b>Colors</b>",
+      "gauge": "14",
+      "url": "https://www.jeuxvideo.com/jeux/jeu-1379244/"
+    }
+  },
+  {
+    "title": "Lost in Random™",
+    "releaseDate": "2021-09-10T09:00:00.0000000Z",
+    "jvcom": {
+      "searchTitle": "<b>Lost</b> <b>in</b> <b>Random</b>",
+      "gauge": "16",
+      "url": "https://www.jeuxvideo.com/jeux/jeu-1056564/"
+    }
+  },
+  {
+    "title": "Panzer Corps 2",
+    "releaseDate": "2022-04-12T00:00:00.0000000Z",
+    "jvcom": {
+      "searchTitle": "<b>Panzer</b> <b>Corps</b> <b>2</b>",
+      "gauge": "--",
+      "url": "https://www.jeuxvideo.com/jeux/pc/jeu-1087840/"
+    }
   }
 ]
