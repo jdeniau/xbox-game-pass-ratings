@@ -6774,5 +6774,68 @@
       "gauge": "15",
       "url": "https://www.jeuxvideo.com/jeux/jeu-1400793/"
     }
+  },
+  {
+    "title": "7 Days to Die",
+    "releaseDate": "2016-07-01T00:00:00.0000000Z",
+    "jvcom": {
+      "searchTitle": "<b>7</b> <b>Days</b> <b>to</b> <b>Die</b>",
+      "gauge": "--",
+      "url": "https://www.jeuxvideo.com/jeux/jeu-80701/"
+    }
+  },
+  {
+    "title": "Bugsnax",
+    "releaseDate": "2022-04-28T13:00:00.0000000Z",
+    "jvcom": {
+      "searchTitle": "<b>Bugsnax</b>",
+      "gauge": "14",
+      "url": "https://www.jeuxvideo.com/jeux/jeu-1237811/"
+    }
+  },
+  {
+    "title": "NBA 2K22 pour Xbox One",
+    "releaseDate": "2021-09-09T22:00:00.0000000Z",
+    "jvcom": {
+      "searchTitle": "<b>NBA</b> <b>2K22</b>",
+      "gauge": "17",
+      "url": "https://www.jeuxvideo.com/jeux/jeu-1437339/"
+    }
+  },
+  {
+    "title": "NBA 2K22 pour Xbox Series X|S",
+    "releaseDate": "2021-09-09T22:00:00.0000000Z",
+    "jvcom": {
+      "searchTitle": "<b>NBA</b> <b>2K22</b>",
+      "gauge": "17",
+      "url": "https://www.jeuxvideo.com/jeux/jeu-1437339/"
+    }
+  },
+  {
+    "title": "RESEARCH and DESTROY",
+    "releaseDate": "2022-04-26T00:00:00.0000000Z",
+    "jvcom": {
+      "searchTitle": "<b>Destroy</b> All Humans! - Remake",
+      "gauge": "14",
+      "url": "https://www.jeuxvideo.com/jeux/jeu-1056220/"
+    }
+  },
+  {
+    "title": "Unsouled",
+    "releaseDate": "2799-12-31T00:00:00.0000000Z",
+    "jvcom": {
+      "searchTitle": "<b>Unsouled</b>",
+      "gauge": "--",
+      "url": "https://www.jeuxvideo.com/jeux/pc/jeu-1126219/"
+    }
+  },
+  {
+    "title": "7 Days to Die (Game Preview)",
+    "releaseDate": "2799-12-31T00:00:00.0000000Z",
+    "jvcom": {
+      "searchTitle": "<b>7</b> <b>Days</b> <b>to</b> <b>Die</b>",
+      "gauge": "--",
+      "url": "https://www.jeuxvideo.com/jeux/jeu-80701/"
+    }
   }
 ]
