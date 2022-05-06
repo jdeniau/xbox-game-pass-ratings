@@ -6837,5 +6837,32 @@
       "gauge": "--",
       "url": "https://www.jeuxvideo.com/jeux/jeu-80701/"
     }
+  },
+  {
+    "title": "Citizen Sleeper",
+    "releaseDate": "2022-05-05T15:00:00.0000000Z",
+    "jvcom": {
+      "searchTitle": "<b>Citizen</b> <b>Sleeper</b>",
+      "gauge": "--",
+      "url": "https://www.jeuxvideo.com/jeux/jeu-1423875/"
+    }
+  },
+  {
+    "title": "Loot River",
+    "releaseDate": "2022-05-03T00:00:00.0000000Z",
+    "jvcom": {
+      "searchTitle": "<b>Loot</b> <b>River</b>",
+      "gauge": "--",
+      "url": "https://www.jeuxvideo.com/jeux/jeu-1384094/"
+    }
+  },
+  {
+    "title": "Trek to Yomi",
+    "releaseDate": "2022-05-05T13:00:00.0000000Z",
+    "jvcom": {
+      "searchTitle": "<b>Trek</b> <b>to</b> <b>Yomi</b>",
+      "gauge": "14",
+      "url": "https://www.jeuxvideo.com/jeux/jeu-1421737/"
+    }
   }
 ]
