@@ -6864,5 +6864,50 @@
       "gauge": "14",
       "url": "https://www.jeuxvideo.com/jeux/jeu-1421737/"
     }
+  },
+  {
+    "title": "Danganronpa 2: Goodbye Despair Anniversary Edition",
+    "releaseDate": "2022-05-10T00:00:00.0000000Z",
+    "jvcom": {
+      "searchTitle": "<b>Danganronpa</b> <b>2</b> : <b>Goodbye</b> <b>Despair</b> <b>Anniversary</b> <b>Edition</b>",
+      "gauge": "17",
+      "url": "https://www.jeuxvideo.com/jeux/jeu-82876/"
+    }
+  },
+  {
+    "title": "Eiyuden Chronicle: Rising",
+    "releaseDate": "2022-05-10T16:00:00.0000000Z",
+    "jvcom": {
+      "searchTitle": "<b>Eiyuden</b> <b>Chronicle</b> : Hundred Heroes",
+      "gauge": "--",
+      "url": "https://www.jeuxvideo.com/jeux/jeu-1263605/"
+    }
+  },
+  {
+    "title": "NHL™ 22 Xbox One",
+    "releaseDate": "2021-10-14T22:00:00.0000000Z",
+    "jvcom": {
+      "searchTitle": "<b>NHL</b> <b>22</b>",
+      "gauge": "--",
+      "url": "https://www.jeuxvideo.com/jeux/jeu-1450251/"
+    }
+  },
+  {
+    "title": "NHL™ 22 Xbox Series X|S",
+    "releaseDate": "2021-10-14T22:00:00.0000000Z",
+    "jvcom": {
+      "searchTitle": "<b>NHL</b> <b>22</b>",
+      "gauge": "--",
+      "url": "https://www.jeuxvideo.com/jeux/jeu-1450251/"
+    }
+  },
+  {
+    "title": "This War of Mine: Final Cut",
+    "releaseDate": "2022-05-10T00:00:00.0000000Z",
+    "jvcom": {
+      "searchTitle": "<b>This</b> <b>War</b> <b>of</b> <b>Mine</b> : <b>Final</b> <b>Cut</b>",
+      "gauge": "17",
+      "url": "https://www.jeuxvideo.com/jeux/jeu-1568139/"
+    }
   }
 ]
