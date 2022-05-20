@@ -6909,5 +6909,68 @@
       "gauge": "17",
       "url": "https://www.jeuxvideo.com/jeux/jeu-1568139/"
     }
+  },
+  {
+    "title": "Farming Simulator 22",
+    "releaseDate": "2021-11-21T23:00:00.0000000Z",
+    "jvcom": {
+      "searchTitle": "<b>Farming</b> <b>Simulator</b> <b>22</b>",
+      "gauge": "15",
+      "url": "https://www.jeuxvideo.com/jeux/jeu-1396083/"
+    }
+  },
+  {
+    "title": "Jurassic World Evolution 2",
+    "releaseDate": "2021-11-09T14:00:00.0000000Z",
+    "jvcom": {
+      "searchTitle": "<b>Jurassic</b> <b>World</b> <b>Evolution</b> <b>2</b>",
+      "gauge": "16",
+      "url": "https://www.jeuxvideo.com/jeux/jeu-1420502/"
+    }
+  },
+  {
+    "title": "Little Witch in the Woods (Game Preview)",
+    "releaseDate": "2022-05-17T00:00:00.0000000Z",
+    "jvcom": {
+      "searchTitle": "<b>Little</b> <b>Witch</b> <b>in</b> <b>the</b> <b>Woods</b>",
+      "gauge": "--",
+      "url": "https://www.jeuxvideo.com/jeux/jeu-1141039/"
+    }
+  },
+  {
+    "title": "Umurangi Generation - Édition spéciale",
+    "releaseDate": "2022-05-17T00:00:00.0000000Z",
+    "jvcom": {
+      "searchTitle": "<b>Umurangi</b> <b>Generation</b> <b>Special</b> <b>Edition</b>",
+      "gauge": "--",
+      "url": "https://www.jeuxvideo.com/jeux/jeu-1576061/"
+    }
+  },
+  {
+    "title": "Farming Simulator 22 PC",
+    "releaseDate": "2022-05-19T00:00:00.0000000Z",
+    "jvcom": {
+      "searchTitle": "Car Detailing <b>Simulator</b>",
+      "gauge": "--",
+      "url": "https://www.jeuxvideo.com/jeux/pc/jeu-1558439/"
+    }
+  },
+  {
+    "title": "Her Story",
+    "releaseDate": "2022-05-17T00:00:00.0000000Z",
+    "jvcom": {
+      "searchTitle": "<b>Her</b> <b>Story</b>",
+      "gauge": "16",
+      "url": "https://www.jeuxvideo.com/jeux/jeu-430983/"
+    }
+  },
+  {
+    "title": "Vampire Survivors (Game Preview)",
+    "releaseDate": "2799-12-31T00:00:00.0000000Z",
+    "jvcom": {
+      "searchTitle": "<b>Vampire</b> <b>Survivors</b>",
+      "gauge": "15",
+      "url": "https://www.jeuxvideo.com/jeux/pc/jeu-1519330/"
+    }
   }
 ]
