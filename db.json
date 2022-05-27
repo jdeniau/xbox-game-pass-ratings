@@ -6972,5 +6972,41 @@
       "gauge": "15",
       "url": "https://www.jeuxvideo.com/jeux/pc/jeu-1519330/"
     }
+  },
+  {
+    "title": "Floppy Knights",
+    "releaseDate": "2022-05-24T00:00:00.0000000Z",
+    "jvcom": {
+      "searchTitle": "<b>Floppy</b> <b>Knights</b>",
+      "gauge": "--",
+      "url": "https://www.jeuxvideo.com/jeux/jeu-1180863/"
+    }
+  },
+  {
+    "title": "PAC-MAN MUSEUM+",
+    "releaseDate": "2022-05-27T00:00:00.0000000Z",
+    "jvcom": {
+      "searchTitle": "<b>Pac</b>-<b>Man</b> <b>Museum</b> +",
+      "gauge": "--",
+      "url": "https://www.jeuxvideo.com/jeux/jeu-1493427/"
+    }
+  },
+  {
+    "title": "Sniper Elite 5",
+    "releaseDate": "2022-05-26T00:00:00.0000000Z",
+    "jvcom": {
+      "searchTitle": "<b>Sniper</b> <b>Elite</b> <b>5</b>",
+      "gauge": "--",
+      "url": "https://www.jeuxvideo.com/jeux/jeu-1505484/"
+    }
+  },
+  {
+    "title": "Hardspace: Shipbreaker",
+    "releaseDate": "2022-05-24T16:00:00.0000000Z",
+    "jvcom": {
+      "searchTitle": "<b>Hardspace</b> : <b>Shipbreaker</b>",
+      "gauge": "14",
+      "url": "https://www.jeuxvideo.com/jeux/jeu-1184181/"
+    }
   }
 ]
