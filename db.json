@@ -7008,5 +7008,37 @@
       "gauge": "14",
       "url": "https://www.jeuxvideo.com/jeux/jeu-1184181/"
     }
+  },
+  {
+    "title": "FOR HONOR : MARCHING FIRE EDITION",
+    "releaseDate": "2018-10-16T00:00:00.0000000Z",
+    "jvcom": {
+      "searchTitle": "<b>For</b> <b>Honor</b> : <b>Marching</b> <b>Fire</b>",
+      "gauge": "15",
+      "url": "https://www.jeuxvideo.com/jeux/jeu-930743/"
+    }
+  },
+  {
+    "title": "NINJA GAIDEN 3: Razor's Edge",
+    "releaseDate": "2021-06-10T00:00:00.0000000Z",
+    "jvcom": {
+      "searchTitle": "<b>Ninja</b> <b>Gaiden</b> <b>3</b> : <b>Razor</b>'s <b>Edge</b>",
+      "gauge": "15",
+      "url": "https://www.jeuxvideo.com/jeux/add-on/jeu-109687/"
+    }
+  },
+  {
+    "title": "NINJA GAIDEN Σ",
+    "releaseDate": "2021-06-10T00:00:00.0000000Z",
+    "jvcom": {
+      "error": "Unexpected token < in JSON at position 2"
+    }
+  },
+  {
+    "title": "NINJA GAIDEN Σ2",
+    "releaseDate": "2021-06-10T00:00:00.0000000Z",
+    "jvcom": {
+      "error": "Unexpected token < in JSON at position 2"
+    }
   }
 ]
