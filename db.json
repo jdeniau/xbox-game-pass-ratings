@@ -7040,5 +7040,41 @@
     "jvcom": {
       "error": "Unexpected token < in JSON at position 2"
     }
+  },
+  {
+    "title": "Assassin's Creed® Origins",
+    "releaseDate": "2017-10-27T00:00:00.0000000Z",
+    "jvcom": {
+      "searchTitle": "<b>Assassin</b>'s <b>Creed</b> <b>Origins</b>",
+      "gauge": "18",
+      "url": "https://www.jeuxvideo.com/jeux/jeu-669186/"
+    }
+  },
+  {
+    "title": "Chorus",
+    "releaseDate": "2021-12-02T23:00:00.0000000Z",
+    "jvcom": {
+      "searchTitle": "<b>Chorus</b>",
+      "gauge": "14",
+      "url": "https://www.jeuxvideo.com/jeux/jeu-1222521/"
+    }
+  },
+  {
+    "title": "Disc Room",
+    "releaseDate": "2022-06-07T00:00:00.0000000Z",
+    "jvcom": {
+      "searchTitle": "<b>Disc</b> <b>Room</b>",
+      "gauge": "--",
+      "url": "https://www.jeuxvideo.com/jeux/jeu-1186305/"
+    }
+  },
+  {
+    "title": "Spacelines from the Far Out",
+    "releaseDate": "2022-06-07T00:00:00.0000000Z",
+    "jvcom": {
+      "searchTitle": "<b>Spacelines</b> <b>from</b> <b>the</b> <b>Far</b> <b>Out</b>: Flight School",
+      "gauge": "--",
+      "url": "https://www.jeuxvideo.com/jeux/pc/jeu-1534448/"
+    }
   }
 ]
