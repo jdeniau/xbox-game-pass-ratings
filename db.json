@@ -7076,5 +7076,23 @@
       "gauge": "--",
       "url": "https://www.jeuxvideo.com/jeux/pc/jeu-1534448/"
     }
+  },
+  {
+    "title": "OMORI",
+    "releaseDate": "2022-06-17T00:00:00.0000000Z",
+    "jvcom": {
+      "searchTitle": "<b>Omori</b>",
+      "gauge": "--",
+      "url": "https://www.jeuxvideo.com/jeux/jeu-1332005/"
+    }
+  },
+  {
+    "title": "Teenage Mutant Ninja Turtles: Shredder's Revenge",
+    "releaseDate": "2022-06-16T13:00:00.0000000Z",
+    "jvcom": {
+      "searchTitle": "<b>Teenage</b> <b>Mutant</b> <b>Ninja</b> <b>Turtles</b> : <b>Shredder</b>’s <b>Revenge</b>",
+      "gauge": "16",
+      "url": "https://www.jeuxvideo.com/jeux/jeu-1375910/"
+    }
   }
 ]
