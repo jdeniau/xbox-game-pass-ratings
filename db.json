@@ -7094,5 +7094,77 @@
       "gauge": "16",
       "url": "https://www.jeuxvideo.com/jeux/jeu-1375910/"
     }
+  },
+  {
+    "title": "FIFA 22 Xbox One",
+    "releaseDate": "2021-09-30T22:00:00.0000000Z",
+    "jvcom": {
+      "searchTitle": "<b>FIFA</b> <b>22</b> - Edition Essentielle",
+      "gauge": "15",
+      "url": "https://www.jeuxvideo.com/jeux/jeu-1394650/"
+    }
+  },
+  {
+    "title": "FIFA 22 Xbox Series X|S",
+    "releaseDate": "2021-09-30T22:00:00.0000000Z",
+    "jvcom": {
+      "searchTitle": "<b>FIFA</b> <b>22</b> - Edition Essentielle",
+      "gauge": "15",
+      "url": "https://www.jeuxvideo.com/jeux/jeu-1394650/"
+    }
+  },
+  {
+    "title": "NARAKA: BLADEPOINT - Édition Standard",
+    "releaseDate": "2022-06-23T03:00:00.0000000Z",
+    "jvcom": {
+      "searchTitle": "<b>Naraka</b> : <b>Bladepoint</b>",
+      "gauge": "15",
+      "url": "https://www.jeuxvideo.com/jeux/jeu-1161511/"
+    }
+  },
+  {
+    "title": "NINJA GAIDEN: Master Collection",
+    "releaseDate": "2021-06-10T00:00:00.0000000Z",
+    "jvcom": {
+      "searchTitle": "<b>Ninja</b> <b>Gaiden</b> <b>Master</b> <b>Collection</b>",
+      "gauge": "14",
+      "url": "https://www.jeuxvideo.com/jeux/jeu-1365376/"
+    }
+  },
+  {
+    "title": "Shadowrun Returns",
+    "releaseDate": "2022-06-21T16:00:00.0000000Z",
+    "jvcom": {
+      "searchTitle": "<b>Shadowrun</b> <b>Returns</b>",
+      "gauge": "15",
+      "url": "https://www.jeuxvideo.com/jeux/jeu-78620/"
+    }
+  },
+  {
+    "title": "Shadowrun: Dragonfall - Director's Cut",
+    "releaseDate": "2022-06-21T16:00:00.0000000Z",
+    "jvcom": {
+      "searchTitle": "Death Stranding <b>Director</b>'s <b>Cut</b>",
+      "gauge": "19",
+      "url": "https://www.jeuxvideo.com/jeux/jeu-501371/"
+    }
+  },
+  {
+    "title": "Shadowrun: Hong Kong - Extended Edition",
+    "releaseDate": "2022-06-21T16:00:00.0000000Z",
+    "jvcom": {
+      "searchTitle": "Aragami : Shadow <b>Edition</b>",
+      "gauge": "--",
+      "url": "https://www.jeuxvideo.com/jeux/jeu-841237/"
+    }
+  },
+  {
+    "title": "Total War: THREE KINGDOMS",
+    "releaseDate": "2022-06-21T14:00:00.0000000Z",
+    "jvcom": {
+      "searchTitle": "<b>Total</b> <b>War</b> : <b>Three</b> <b>Kingdoms</b>",
+      "gauge": "16",
+      "url": "https://www.jeuxvideo.com/jeux/pc/jeu-774820/"
+    }
   }
 ]
