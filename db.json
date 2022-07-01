@@ -7166,5 +7166,23 @@
       "gauge": "16",
       "url": "https://www.jeuxvideo.com/jeux/pc/jeu-774820/"
     }
+  },
+  {
+    "title": "Far Cry® 5",
+    "releaseDate": "2018-03-27T00:00:00.0000000Z",
+    "jvcom": {
+      "searchTitle": "<b>Far</b> <b>Cry</b> Primal",
+      "gauge": "16",
+      "url": "https://www.jeuxvideo.com/jeux/jeu-445290/"
+    }
+  },
+  {
+    "title": "House Flipper",
+    "releaseDate": "2020-02-26T19:00:00.0000000Z",
+    "jvcom": {
+      "searchTitle": "<b>House</b> <b>Flipper</b>",
+      "gauge": "--",
+      "url": "https://www.jeuxvideo.com/jeux/jeu-849135/"
+    }
   }
 ]
