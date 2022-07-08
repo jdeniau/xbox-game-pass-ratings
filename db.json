@@ -7184,5 +7184,50 @@
       "gauge": "--",
       "url": "https://www.jeuxvideo.com/jeux/jeu-849135/"
     }
+  },
+  {
+    "title": "DJMAX RESPECT V",
+    "releaseDate": "2022-07-07T00:00:00.0000000Z",
+    "jvcom": {
+      "searchTitle": "<b>DJMax</b> <b>Respect</b> <b>V</b>",
+      "gauge": "--",
+      "url": "https://www.jeuxvideo.com/jeux/pc/jeu-1146107/"
+    }
+  },
+  {
+    "title": "Matchpoint - Tennis Championships",
+    "releaseDate": "2022-07-07T00:00:00.0000000Z",
+    "jvcom": {
+      "searchTitle": "<b>Matchpoint</b> - <b>Tennis</b> <b>Championships</b>",
+      "gauge": "--",
+      "url": "https://www.jeuxvideo.com/jeux/jeu-1589054/"
+    }
+  },
+  {
+    "title": "Road 96",
+    "releaseDate": "2022-04-13T22:00:00.0000000Z",
+    "jvcom": {
+      "searchTitle": "<b>Road</b> <b>96</b>",
+      "gauge": "15",
+      "url": "https://www.jeuxvideo.com/jeux/jeu-1338838/"
+    }
+  },
+  {
+    "title": "Last Call BBS",
+    "releaseDate": "2022-07-05T00:00:00.0000000Z",
+    "jvcom": {
+      "searchTitle": "<b>Last</b> <b>Call</b> <b>BBS</b>",
+      "gauge": "--",
+      "url": "https://www.jeuxvideo.com/jeux/pc/jeu-1599161/"
+    }
+  },
+  {
+    "title": "Matchpoint - Tennis Championships (Win)",
+    "releaseDate": "2022-07-07T00:00:00.0000000Z",
+    "jvcom": {
+      "searchTitle": "World Hockey <b>Championships</b>",
+      "gauge": "--",
+      "url": "https://www.jeuxvideo.com/jeux/jeu-885685/"
+    }
   }
 ]
