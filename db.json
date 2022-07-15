@@ -7229,5 +7229,77 @@
       "gauge": "--",
       "url": "https://www.jeuxvideo.com/jeux/jeu-885685/"
     }
+  },
+  {
+    "title": "Escape Academy",
+    "releaseDate": "2022-07-14T04:00:00.0000000Z",
+    "jvcom": {
+      "searchTitle": "<b>Escape</b> From Asura",
+      "gauge": "--",
+      "url": "https://www.jeuxvideo.com/jeux/jeu-1245368/"
+    }
+  },
+  {
+    "title": "Garden Story",
+    "releaseDate": "2022-07-12T00:00:00.0000000Z",
+    "jvcom": {
+      "searchTitle": "<b>Garden</b> <b>Story</b>",
+      "gauge": "--",
+      "url": "https://www.jeuxvideo.com/jeux/jeu-1274967/"
+    }
+  },
+  {
+    "title": "Minecraft Preview",
+    "releaseDate": "2021-06-30T23:24:06.2826178Z",
+    "jvcom": {
+      "searchTitle": "<b>Minecraft</b> Dungeons : Echoing Void",
+      "gauge": "--",
+      "url": "https://www.jeuxvideo.com/jeux/jeu-1436612/"
+    }
+  },
+  {
+    "title": "Mon Amie Peppa Pig",
+    "releaseDate": "2021-10-21T22:00:00.0000000Z",
+    "jvcom": {
+      "searchTitle": "Mon <b>Amie</b> <b>Peppa</b> <b>Pig</b>",
+      "gauge": "--",
+      "url": "https://www.jeuxvideo.com/jeux/jeu-1410620/"
+    }
+  },
+  {
+    "title": "Paw Patrol, la Pat'Patrouille - le film À la rescousse d'Adventure City",
+    "releaseDate": "2021-08-12T22:00:00.0000000Z",
+    "jvcom": {
+      "searchTitle": "<b>Pat</b>' <b>Patrouille</b> - le <b>film</b> : <b>A</b> la <b>rescousse</b> d'<b>Adventure</b> <b>City</b>",
+      "gauge": "--",
+      "url": "https://www.jeuxvideo.com/jeux/jeu-1448862/"
+    }
+  },
+  {
+    "title": "PowerWash Simulator",
+    "releaseDate": "2022-07-14T16:00:00.0000000Z",
+    "jvcom": {
+      "searchTitle": "Goat <b>Simulator</b> 3",
+      "gauge": "--",
+      "url": "https://www.jeuxvideo.com/jeux/jeu-1586112/"
+    }
+  },
+  {
+    "title": "Minecraft: Java & Bedrock Edition for PC",
+    "releaseDate": "2022-06-06T22:00:00.0000000Z",
+    "jvcom": {
+      "searchTitle": "<b>Minecraft</b> : Gear VR <b>Edition</b>",
+      "gauge": "--",
+      "url": "https://www.jeuxvideo.com/jeux/android/jeu-479292/"
+    }
+  },
+  {
+    "title": "OVERWHELM",
+    "releaseDate": "2022-07-14T00:00:00.0000000Z",
+    "jvcom": {
+      "searchTitle": "<b>Overwhelm</b>",
+      "gauge": "--",
+      "url": "https://www.jeuxvideo.com/jeux/jeu-861033/"
+    }
   }
 ]
