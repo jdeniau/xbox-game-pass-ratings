@@ -7301,5 +7301,50 @@
       "gauge": "--",
       "url": "https://www.jeuxvideo.com/jeux/jeu-861033/"
     }
+  },
+  {
+    "title": "As Dusk Falls",
+    "releaseDate": "2022-07-19T16:00:00.0000000Z",
+    "jvcom": {
+      "searchTitle": "As <b>Dusk</b> <b>Falls</b>",
+      "gauge": "15",
+      "url": "https://www.jeuxvideo.com/jeux/jeu-1262564/"
+    }
+  },
+  {
+    "title": "MotoGP™22",
+    "releaseDate": "2022-04-20T22:00:00.0000000Z",
+    "jvcom": {
+      "searchTitle": "MotoGP 22",
+      "gauge": "14",
+      "url": "https://www.jeuxvideo.com/jeux/jeu-1538778/"
+    }
+  },
+  {
+    "title": "Watch Dogs®2",
+    "releaseDate": "2016-11-15T00:00:00.0000000Z",
+    "jvcom": {
+      "searchTitle": "<b>Watch</b> Dogs Legion",
+      "gauge": "16",
+      "url": "https://www.jeuxvideo.com/jeux/jeu-831746/"
+    }
+  },
+  {
+    "title": "MotoGP™22 - Windows Edition",
+    "releaseDate": "2022-07-07T00:00:00.0000000Z",
+    "jvcom": {
+      "searchTitle": "Minecraft <b>Windows</b> 10 <b>Edition</b>",
+      "gauge": "--",
+      "url": "https://www.jeuxvideo.com/jeux/pc/jeu-432665/"
+    }
+  },
+  {
+    "title": "Sins of a Solar Empire: Rebellion",
+    "releaseDate": "2022-07-21T00:00:00.0000000Z",
+    "jvcom": {
+      "searchTitle": "<b>Sins</b> <b>of</b> <b>a</b> <b>Solar</b> <b>Empire</b> : <b>Rebellion</b>",
+      "gauge": "16",
+      "url": "https://www.jeuxvideo.com/jeux/pc/00040158-sins-of-a-solar-empire-rebellion.htm"
+    }
   }
 ]
