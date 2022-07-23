@@ -1,8 +1,12 @@
-const isProd = process.env.NODE_ENV === 'production';
-
-module.exports = {
+/**
+ * @type {import('next').NextConfig}
+ */
+const nextConfig = {
   // Use the CDN in production and localhost for development.
-  basePath: isProd ? '/xbox-game-pass-ratings' : '',
+  basePath:
+    process.env.NODE_ENV === 'production'
+      ? '/xbox-game-pass-ratings'
+      : undefined,
 
   async redirects() {
     return [
@@ -14,3 +18,5 @@ module.exports = {
     ];
   },
 };
+
+module.exports = nextConfig;
