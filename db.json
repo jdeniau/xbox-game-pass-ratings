@@ -7346,5 +7346,32 @@
       "gauge": "16",
       "url": "https://www.jeuxvideo.com/jeux/pc/00040158-sins-of-a-solar-empire-rebellion.htm"
     }
+  },
+  {
+    "title": "INSIDE",
+    "releaseDate": "2016-06-29T00:00:00.0000000Z",
+    "jvcom": {
+      "searchTitle": "<b>Inside</b>",
+      "gauge": "19",
+      "url": "https://www.jeuxvideo.com/jeux/jeu-82690/"
+    }
+  },
+  {
+    "title": "Raji: An Ancient Epic Enhanced Edition",
+    "releaseDate": "2020-10-15T17:00:00.0000000Z",
+    "jvcom": {
+      "searchTitle": "Metro Exodus - <b>Enhanced</b> <b>Edition</b>",
+      "gauge": "16",
+      "url": "https://www.jeuxvideo.com/jeux/pc/jeu-1403247/"
+    }
+  },
+  {
+    "title": "skate. (2007)",
+    "releaseDate": "2010-01-20T00:00:00.0000000Z",
+    "jvcom": {
+      "searchTitle": "SkateBird",
+      "gauge": "--",
+      "url": "https://www.jeuxvideo.com/jeux/jeu-1060545/"
+    }
   }
 ]
