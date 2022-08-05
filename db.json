@@ -7373,5 +7373,32 @@
       "gauge": "--",
       "url": "https://www.jeuxvideo.com/jeux/jeu-1060545/"
     }
+  },
+  {
+    "title": "Tom Clancy’s Ghost Recon® Wildlands - Standard Edition",
+    "releaseDate": "2017-03-07T00:00:00.0000000Z",
+    "jvcom": {
+      "searchTitle": "<b>Ghost</b> <b>Recon</b> <b>Wildlands</b> : <b>Ghost</b> War",
+      "gauge": "--",
+      "url": "https://www.jeuxvideo.com/jeux/jeu-702395/"
+    }
+  },
+  {
+    "title": "Turbo Golf Racing (Game Preview)",
+    "releaseDate": "2022-08-04T14:00:00.0000000Z",
+    "jvcom": {
+      "searchTitle": "GTR : FIA GT <b>Racing</b> <b>Game</b>",
+      "gauge": "--",
+      "url": "https://www.jeuxvideo.com/jeux/pc/00047715-gtr-fia-gt-racing-game.htm"
+    }
+  },
+  {
+    "title": "SHENZHEN I/O",
+    "releaseDate": "2016-11-17T00:00:00.0000000Z",
+    "jvcom": {
+      "searchTitle": "<b>SHENZHEN</b> <b>I/O</b>",
+      "gauge": "--",
+      "url": "https://www.jeuxvideo.com/jeux/pc/jeu-549640/"
+    }
   }
 ]
