@@ -7400,5 +7400,50 @@
       "gauge": "--",
       "url": "https://www.jeuxvideo.com/jeux/pc/jeu-549640/"
     }
+  },
+  {
+    "title": "Cooking Simulator",
+    "releaseDate": "2020-08-14T14:00:00.0000000Z",
+    "jvcom": {
+      "searchTitle": "<b>Cooking</b> <b>Simulator</b>",
+      "gauge": "--",
+      "url": "https://www.jeuxvideo.com/jeux/jeu-942205/"
+    }
+  },
+  {
+    "title": "Two Point Campus",
+    "releaseDate": "2022-08-09T14:00:00.0000000Z",
+    "jvcom": {
+      "searchTitle": "<b>Two</b> <b>Point</b> <b>Campus</b>",
+      "gauge": "18",
+      "url": "https://www.jeuxvideo.com/jeux/jeu-1420579/"
+    }
+  },
+  {
+    "title": "Cooking Simulator Windows",
+    "releaseDate": "2022-08-11T14:00:00.0000000Z",
+    "jvcom": {
+      "searchTitle": "Winter Survival <b>Simulator</b>",
+      "gauge": "--",
+      "url": "https://www.jeuxvideo.com/jeux/pc/jeu-1518650/"
+    }
+  },
+  {
+    "title": "Expeditions: Rome",
+    "releaseDate": "2022-08-11T00:00:00.0000000Z",
+    "jvcom": {
+      "searchTitle": "<b>Expeditions</b> : <b>Rome</b>",
+      "gauge": "15",
+      "url": "https://www.jeuxvideo.com/jeux/pc/jeu-1399004/"
+    }
+  },
+  {
+    "title": "Offworld Trading Company",
+    "releaseDate": "2022-08-11T00:00:00.0000000Z",
+    "jvcom": {
+      "searchTitle": "<b>Offworld</b> <b>Trading</b> <b>Company</b>",
+      "gauge": "16",
+      "url": "https://www.jeuxvideo.com/jeux/jeu-532029/"
+    }
   }
 ]
