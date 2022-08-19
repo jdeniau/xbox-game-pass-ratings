@@ -7445,5 +7445,59 @@
       "gauge": "16",
       "url": "https://www.jeuxvideo.com/jeux/jeu-532029/"
     }
+  },
+  {
+    "title": "Coffee Talk",
+    "releaseDate": "2020-01-30T23:00:00.0000000Z",
+    "jvcom": {
+      "searchTitle": "<b>Coffee</b> <b>Talk</b>",
+      "gauge": "--",
+      "url": "https://www.jeuxvideo.com/jeux/jeu-900558/"
+    }
+  },
+  {
+    "title": "An Elder Scrolls Legend: Battlespire",
+    "releaseDate": "2022-08-18T00:00:00.0000000Z",
+    "jvcom": {
+      "searchTitle": "The <b>Elder</b> <b>Scrolls</b> V : Skyrim : Anniversary Edition",
+      "gauge": "--",
+      "url": "https://www.jeuxvideo.com/jeux/jeu-1450472/"
+    }
+  },
+  {
+    "title": "Quake 4",
+    "releaseDate": "2022-08-18T00:00:00.0000000Z",
+    "jvcom": {
+      "searchTitle": "<b>Quake</b> <b>4</b>",
+      "gauge": "12",
+      "url": "https://www.jeuxvideo.com/jeux/jeu-59606/"
+    }
+  },
+  {
+    "title": "Return to Castle Wolfenstein",
+    "releaseDate": "2022-08-18T00:00:00.0000000Z",
+    "jvcom": {
+      "searchTitle": "<b>Return</b> <b>to</b> <b>Castle</b> <b>Wolfenstein</b>",
+      "gauge": "17",
+      "url": "https://www.jeuxvideo.com/jeux/jeu-57579/"
+    }
+  },
+  {
+    "title": "The Elder Scrolls Adventures: Redguard",
+    "releaseDate": "2022-08-18T00:00:00.0000000Z",
+    "jvcom": {
+      "searchTitle": "<b>The</b> <b>Elder</b> <b>Scrolls</b> <b>Adventures</b> : <b>Redguard</b>",
+      "gauge": "15",
+      "url": "https://www.jeuxvideo.com/jeux/pc/00002568-the-elder-scrolls-adventures-redguard.htm"
+    }
+  },
+  {
+    "title": "Wolfenstein 3D",
+    "releaseDate": "2022-08-18T00:00:00.0000000Z",
+    "jvcom": {
+      "searchTitle": "<b>Wolfenstein</b> <b>3D</b>",
+      "gauge": "18",
+      "url": "https://www.jeuxvideo.com/jeux/jeu-56011/"
+    }
   }
 ]
