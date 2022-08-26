@@ -7499,5 +7499,57 @@
       "gauge": "18",
       "url": "https://www.jeuxvideo.com/jeux/jeu-56011/"
     }
+  },
+  {
+    "title": "Midnight Fight Express",
+    "releaseDate": "2022-08-23T16:00:00.0000000Z",
+    "jvcom": {
+      "searchTitle": "<b>Midnight</b> <b>Fight</b> <b>Express</b>",
+      "gauge": "--",
+      "url": "https://www.jeuxvideo.com/jeux/jeu-1452264/"
+    }
+  },
+  {
+    "title": "OPUS: Echo of Starsong - Full Bloom Edition",
+    "releaseDate": "2022-08-25T00:00:00.0000000Z",
+    "jvcom": {
+      "searchTitle": "<b>OPUS</b> : <b>Echo</b> <b>of</b> <b>Starsong</b>",
+      "gauge": "--",
+      "url": "https://www.jeuxvideo.com/jeux/pc/jeu-1316366/"
+    }
+  },
+  {
+    "title": "Death Stranding",
+    "releaseDate": "2022-08-23T00:00:00.0000000Z",
+    "jvcom": {
+      "searchTitle": "<b>Death</b> <b>Stranding</b>",
+      "gauge": "19",
+      "url": "https://www.jeuxvideo.com/jeux/jeu-501371/"
+    }
+  },
+  {
+    "title": "EXAPUNKS",
+    "releaseDate": "2022-08-25T00:00:00.0000000Z",
+    "jvcom": {
+      "error": "Unable to find EXAPUNKS on jvcom"
+    }
+  },
+  {
+    "title": "Quake II",
+    "releaseDate": "2021-08-19T17:00:00.0000000Z",
+    "jvcom": {
+      "searchTitle": "<b>Quake</b> <b>II</b>",
+      "gauge": "19",
+      "url": "https://www.jeuxvideo.com/jeux/jeu-55743/"
+    }
+  },
+  {
+    "title": "Quake III Arena",
+    "releaseDate": "2021-08-19T17:00:00.0000000Z",
+    "jvcom": {
+      "searchTitle": "<b>Quake</b> <b>III</b> <b>Arena</b>",
+      "gauge": "19",
+      "url": "https://www.jeuxvideo.com/jeux/jeu-55079/"
+    }
   }
 ]
