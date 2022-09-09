@@ -7596,5 +7596,32 @@
       "gauge": "17",
       "url": "https://www.jeuxvideo.com/jeux/jeu-1422514/"
     }
+  },
+  {
+    "title": "Disney Dreamlight Valley",
+    "releaseDate": "2022-09-06T13:00:00.0000000Z",
+    "jvcom": {
+      "searchTitle": "<b>Disney</b> <b>Dreamlight</b> <b>Valley</b>",
+      "gauge": "14",
+      "url": "https://www.jeuxvideo.com/jeux/jeu-1567913/"
+    }
+  },
+  {
+    "title": "Train Sim World® 3: Standard Edition",
+    "releaseDate": "2022-09-06T09:00:00.0000000Z",
+    "jvcom": {
+      "searchTitle": "<b>Train</b> <b>Sim</b> <b>World</b> <b>3</b>",
+      "gauge": "--",
+      "url": "https://www.jeuxvideo.com/jeux/jeu-1615864/"
+    }
+  },
+  {
+    "title": "Opus Magnum",
+    "releaseDate": "2019-06-09T07:00:00.0000000Z",
+    "jvcom": {
+      "searchTitle": "<b>Opus</b> <b>Magnum</b>",
+      "gauge": "--",
+      "url": "https://www.jeuxvideo.com/jeux/pc/jeu-764625/"
+    }
   }
 ]
