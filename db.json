@@ -7623,5 +7623,95 @@
       "gauge": "--",
       "url": "https://www.jeuxvideo.com/jeux/pc/jeu-764625/"
     }
+  },
+  {
+    "title": "Assassin's Creed® Odyssey",
+    "releaseDate": "2018-10-05T00:00:00.0000000Z",
+    "jvcom": {
+      "searchTitle": "<b>Assassin</b>'s <b>Creed</b> <b>Odyssey</b>",
+      "gauge": "18",
+      "url": "https://www.jeuxvideo.com/jeux/jeu-854067/"
+    }
+  },
+  {
+    "title": "Danganronpa V3: Killing Harmony Anniversary Edition",
+    "releaseDate": "2022-09-15T10:00:00.0000000Z",
+    "jvcom": {
+      "searchTitle": "<b>Danganronpa</b> <b>V3</b> : <b>Killing</b> <b>Harmony</b> <b>Anniversary</b> <b>Edition</b>",
+      "gauge": "15",
+      "url": "https://www.jeuxvideo.com/jeux/jeu-442831/"
+    }
+  },
+  {
+    "title": "DC Krypto Super-Chien: Les aventures de Krypto et Ace",
+    "releaseDate": "2022-07-14T22:00:00.0000000Z",
+    "jvcom": {
+      "searchTitle": "<b>DC</b> <b>Krypto</b> <b>Super</b>-<b>Chien</b> : <b>Les</b> <b>Aventures</b> de <b>Krypto</b> et <b>Ace</b>",
+      "gauge": "--",
+      "url": "https://www.jeuxvideo.com/jeux/jeu-1589033/"
+    }
+  },
+  {
+    "title": "Fuga: Melodies of Steel",
+    "releaseDate": "2021-07-29T01:00:00.0000000Z",
+    "jvcom": {
+      "searchTitle": "<b>Fuga</b> : <b>Melodies</b> <b>of</b> <b>Steel</b>",
+      "gauge": "15",
+      "url": "https://www.jeuxvideo.com/jeux/jeu-789408/"
+    }
+  },
+  {
+    "title": "Metal: Hellsinger",
+    "releaseDate": "2022-09-15T08:00:00.0000000Z",
+    "jvcom": {
+      "searchTitle": "<b>Metal</b> : <b>Hellsinger</b>",
+      "gauge": "15",
+      "url": "https://www.jeuxvideo.com/jeux/jeu-1237046/"
+    }
+  },
+  {
+    "title": "Ni no Kuni La vengeance de la Sorcière céleste™ Remastered",
+    "releaseDate": "2022-09-15T10:00:00.0000000Z",
+    "jvcom": {
+      "searchTitle": "<b>Ni</b> <b>no</b> <b>Kuni</b> : La <b>Vengeance</b> de la <b>Sorcière</b> <b>Céleste</b>",
+      "gauge": "17",
+      "url": "https://www.jeuxvideo.com/jeux/jeu-110699/"
+    }
+  },
+  {
+    "title": "You Suck at Parking",
+    "releaseDate": "2022-09-14T17:00:00.0000000Z",
+    "jvcom": {
+      "searchTitle": "<b>Parking</b> Star 3D",
+      "gauge": "--",
+      "url": "https://www.jeuxvideo.com/jeux/nintendo-3ds/00053293-parking-star-3d.htm"
+    }
+  },
+  {
+    "title": "Amazing Cultivation Simulator",
+    "releaseDate": "2022-09-14T15:00:00.0000000Z",
+    "jvcom": {
+      "searchTitle": "Construction <b>Simulator</b>",
+      "gauge": "--",
+      "url": "https://www.jeuxvideo.com/jeux/pc/jeu-1634958/"
+    }
+  },
+  {
+    "title": "Ashes of the Singularity: Escalation",
+    "releaseDate": "2022-09-13T00:00:00.0000000Z",
+    "jvcom": {
+      "searchTitle": "<b>Ashes</b> <b>of</b> <b>the</b> <b>Singularity</b> : <b>Escalation</b>",
+      "gauge": "--",
+      "url": "https://www.jeuxvideo.com/jeux/pc/jeu-982691/"
+    }
+  },
+  {
+    "title": "Hardspace: Shipbreaker (PC Version)",
+    "releaseDate": "2022-05-24T16:00:00.0000000Z",
+    "jvcom": {
+      "searchTitle": "<b>Hardspace</b> : <b>Shipbreaker</b>",
+      "gauge": "14",
+      "url": "https://www.jeuxvideo.com/jeux/jeu-1184181/"
+    }
   }
 ]
