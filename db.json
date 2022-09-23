@@ -7713,5 +7713,50 @@
       "gauge": "14",
       "url": "https://www.jeuxvideo.com/jeux/jeu-1184181/"
     }
+  },
+  {
+    "title": "Beacon Pines",
+    "releaseDate": "2022-09-22T15:00:00.0000000Z",
+    "jvcom": {
+      "searchTitle": "<b>Beacon</b> <b>Pines</b>",
+      "gauge": "--",
+      "url": "https://www.jeuxvideo.com/jeux/jeu-1546239/"
+    }
+  },
+  {
+    "title": "DEATHLOOP",
+    "releaseDate": "2022-09-20T16:00:00.0000000Z",
+    "jvcom": {
+      "searchTitle": "<b>Deathloop</b>",
+      "gauge": "16",
+      "url": "https://www.jeuxvideo.com/jeux/jeu-1056986/"
+    }
+  },
+  {
+    "title": "Prodeus",
+    "releaseDate": "2799-12-31T00:00:00.0000000Z",
+    "jvcom": {
+      "searchTitle": "<b>Prodeus</b>",
+      "gauge": "15",
+      "url": "https://www.jeuxvideo.com/jeux/jeu-963607/"
+    }
+  },
+  {
+    "title": "Slime Rancher 2",
+    "releaseDate": "2022-09-22T17:00:00.0000000Z",
+    "jvcom": {
+      "searchTitle": "<b>Slime</b> <b>Rancher</b> <b>2</b>",
+      "gauge": "--",
+      "url": "https://www.jeuxvideo.com/jeux/jeu-1422212/"
+    }
+  },
+  {
+    "title": "SpiderHeck",
+    "releaseDate": "2022-09-22T16:00:00.0000000Z",
+    "jvcom": {
+      "searchTitle": "busy spider",
+      "gauge": "--",
+      "url": "https://www.jeuxvideo.com/jeux/pc/jeu-1052457/"
+    }
   }
 ]
