@@ -7758,5 +7758,59 @@
       "gauge": "--",
       "url": "https://www.jeuxvideo.com/jeux/pc/jeu-1052457/"
     }
+  },
+  {
+    "title": "Despot's Game",
+    "releaseDate": "2022-09-29T16:00:00.0000000Z",
+    "jvcom": {
+      "searchTitle": "<b>Despot</b>'s <b>Game</b> : Dystopian Army",
+      "gauge": "--",
+      "url": "https://www.jeuxvideo.com/jeux/pc/jeu-1473084/"
+    }
+  },
+  {
+    "title": "Grounded",
+    "releaseDate": "2022-09-27T17:00:00.0000000Z",
+    "jvcom": {
+      "searchTitle": "<b>Grounded</b>",
+      "gauge": "15",
+      "url": "https://www.jeuxvideo.com/jeux/jeu-1143518/"
+    }
+  },
+  {
+    "title": "Let's Build a Zoo",
+    "releaseDate": "2022-09-29T00:00:00.0000000Z",
+    "jvcom": {
+      "searchTitle": "M.A.S.S. <b>Builder</b>",
+      "gauge": "--",
+      "url": "https://www.jeuxvideo.com/jeux/pc/jeu-1094877/"
+    }
+  },
+  {
+    "title": "Moonscars",
+    "releaseDate": "2022-09-27T16:00:00.0000000Z",
+    "jvcom": {
+      "searchTitle": "<b>Moonscars</b>",
+      "gauge": "--",
+      "url": "https://www.jeuxvideo.com/jeux/jeu-1623715/"
+    }
+  },
+  {
+    "title": "Paw Patrol, la Pat'Patrouille : Grand Prix",
+    "releaseDate": "2022-09-30T00:00:00.0000000Z",
+    "jvcom": {
+      "searchTitle": "<b>Pat</b>' <b>Patrouille</b> - le film : A la rescousse d'Adventure City",
+      "gauge": "--",
+      "url": "https://www.jeuxvideo.com/jeux/jeu-1448862/"
+    }
+  },
+  {
+    "title": "Valheim (Aperçu)",
+    "releaseDate": "2022-09-16T12:48:13.7291923Z",
+    "jvcom": {
+      "searchTitle": "<b>Valheim</b>",
+      "gauge": "15",
+      "url": "https://www.jeuxvideo.com/jeux/jeu-1238511/"
+    }
   }
 ]
