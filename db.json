@@ -7812,5 +7812,41 @@
       "gauge": "15",
       "url": "https://www.jeuxvideo.com/jeux/jeu-1238511/"
     }
+  },
+  {
+    "title": "Chivalry 2",
+    "releaseDate": "2021-06-08T15:00:00.0000000Z",
+    "jvcom": {
+      "searchTitle": "<b>Chivalry</b> <b>2</b>",
+      "gauge": "16",
+      "url": "https://www.jeuxvideo.com/jeux/jeu-1057861/"
+    }
+  },
+  {
+    "title": "Dead Space (2008)",
+    "releaseDate": "2010-08-03T00:00:00.0000000Z",
+    "jvcom": {
+      "searchTitle": "<b>Dead</b> <b>Space</b> (2023)",
+      "gauge": "--",
+      "url": "https://www.jeuxvideo.com/jeux/jeu-1441654/"
+    }
+  },
+  {
+    "title": "The Walking Dead: Season 1",
+    "releaseDate": "2017-02-23T18:52:15.4179663Z",
+    "jvcom": {
+      "searchTitle": "<b>The</b> <b>Walking</b> <b>Dead</b> : All Stars",
+      "gauge": "--",
+      "url": "https://www.jeuxvideo.com/jeux/jeu-1636210/"
+    }
+  },
+  {
+    "title": "The Walking Dead: Season 2",
+    "releaseDate": "2017-03-08T20:07:59.8807415Z",
+    "jvcom": {
+      "searchTitle": "<b>The</b> <b>Walking</b> <b>Dead</b> : All Stars",
+      "gauge": "--",
+      "url": "https://www.jeuxvideo.com/jeux/jeu-1636210/"
+    }
   }
 ]
