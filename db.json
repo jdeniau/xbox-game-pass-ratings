@@ -7848,5 +7848,50 @@
       "gauge": "--",
       "url": "https://www.jeuxvideo.com/jeux/jeu-1636210/"
     }
+  },
+  {
+    "title": "Costume Quest",
+    "releaseDate": "2010-10-20T00:00:00.0000000Z",
+    "jvcom": {
+      "searchTitle": "<b>Costume</b> <b>Quest</b>",
+      "gauge": "14",
+      "url": "https://www.jeuxvideo.com/jeux/jeu-75511/"
+    }
+  },
+  {
+    "title": "Eville",
+    "releaseDate": "2022-10-11T08:00:00.0000000Z",
+    "jvcom": {
+      "searchTitle": "Evil West",
+      "gauge": "--",
+      "url": "https://www.jeuxvideo.com/jeux/jeu-1338876/"
+    }
+  },
+  {
+    "title": "Scorn",
+    "releaseDate": "2022-10-14T10:00:00.0000000Z",
+    "jvcom": {
+      "searchTitle": "<b>Scorn</b>",
+      "gauge": "--",
+      "url": "https://www.jeuxvideo.com/jeux/jeu-509570/"
+    }
+  },
+  {
+    "title": "Coral Island (Game Preview)",
+    "releaseDate": "2022-10-07T23:47:11.5751947Z",
+    "jvcom": {
+      "searchTitle": "<b>Games</b> <b>Island</b>",
+      "gauge": "--",
+      "url": "https://www.jeuxvideo.com/jeux/wii/00036694-games-island.htm"
+    }
+  },
+  {
+    "title": "Dyson Sphere Program (Game Preview)",
+    "releaseDate": "2022-10-13T00:00:00.0000000Z",
+    "jvcom": {
+      "searchTitle": "<b>Dyson</b> <b>Sphere</b> <b>Program</b>",
+      "gauge": "--",
+      "url": "https://www.jeuxvideo.com/jeux/pc/jeu-1353719/"
+    }
   }
 ]
