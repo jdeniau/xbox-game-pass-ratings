@@ -7893,5 +7893,86 @@
       "gauge": "--",
       "url": "https://www.jeuxvideo.com/jeux/pc/jeu-1353719/"
     }
+  },
+  {
+    "title": "A Plague Tale: Requiem",
+    "releaseDate": "2022-10-17T22:00:00.0000000Z",
+    "jvcom": {
+      "searchTitle": "<b>A</b> <b>Plague</b> <b>Tale</b> : <b>Requiem</b>",
+      "gauge": "18",
+      "url": "https://www.jeuxvideo.com/jeux/jeu-1422238/"
+    }
+  },
+  {
+    "title": "Amnesia: Collection",
+    "releaseDate": "2018-09-28T00:00:00.0000000Z",
+    "jvcom": {
+      "searchTitle": "<b>Amnesia</b> : <b>Collection</b>",
+      "gauge": "--",
+      "url": "https://www.jeuxvideo.com/jeux/jeu-554613/"
+    }
+  },
+  {
+    "title": "Amnesia: Rebirth",
+    "releaseDate": "2022-10-20T00:00:00.0000000Z",
+    "jvcom": {
+      "searchTitle": "<b>Amnesia</b> : <b>Rebirth</b>",
+      "gauge": "17",
+      "url": "https://www.jeuxvideo.com/jeux/jeu-1190837/"
+    }
+  },
+  {
+    "title": "Les Sims™ 4 Édition EA Play",
+    "releaseDate": "9998-12-30T00:00:00.0000000Z",
+    "jvcom": {
+      "searchTitle": "<b>Les</b> <b>Sims</b> <b>4</b> : Mariage",
+      "gauge": "--",
+      "url": "https://www.jeuxvideo.com/jeux/jeu-1532449/"
+    }
+  },
+  {
+    "title": "Persona 5 Royal",
+    "releaseDate": "2022-10-20T22:00:00.0000000Z",
+    "jvcom": {
+      "searchTitle": "<b>Persona</b> <b>5</b> <b>Royal</b>",
+      "gauge": "18",
+      "url": "https://www.jeuxvideo.com/jeux/jeu-1034998/"
+    }
+  },
+  {
+    "title": "Phantom Abyss (Game Preview)",
+    "releaseDate": "2022-10-20T00:00:00.0000000Z",
+    "jvcom": {
+      "searchTitle": "<b>Phantom</b> <b>Abyss</b>",
+      "gauge": "14",
+      "url": "https://www.jeuxvideo.com/jeux/pc/jeu-1411312/"
+    }
+  },
+  {
+    "title": "SOMA",
+    "releaseDate": "2017-12-01T00:00:00.0000000Z",
+    "jvcom": {
+      "searchTitle": "<b>SOMA</b>",
+      "gauge": "16",
+      "url": "https://www.jeuxvideo.com/jeux/jeu-81425/"
+    }
+  },
+  {
+    "title": "A Plague Tale: Requiem - Windows",
+    "releaseDate": "2022-10-17T22:00:00.0000000Z",
+    "jvcom": {
+      "searchTitle": "<b>A</b> <b>Plague</b> <b>Tale</b> : <b>Requiem</b>",
+      "gauge": "18",
+      "url": "https://www.jeuxvideo.com/jeux/jeu-1422238/"
+    }
+  },
+  {
+    "title": "Vampire Survivors",
+    "releaseDate": "2022-10-20T00:00:00.0000000Z",
+    "jvcom": {
+      "searchTitle": "<b>Vampire</b> <b>Survivors</b>",
+      "gauge": "15",
+      "url": "https://www.jeuxvideo.com/jeux/pc/jeu-1519330/"
+    }
   }
 ]
