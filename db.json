@@ -7974,5 +7974,41 @@
       "gauge": "15",
       "url": "https://www.jeuxvideo.com/jeux/pc/jeu-1519330/"
     }
+  },
+  {
+    "title": "Gunfire Reborn",
+    "releaseDate": "2022-10-27T14:00:00.0000000Z",
+    "jvcom": {
+      "searchTitle": "<b>GunFire</b> <b>Reborn</b>",
+      "gauge": "--",
+      "url": "https://www.jeuxvideo.com/jeux/jeu-1431577/"
+    }
+  },
+  {
+    "title": "SIGNALIS",
+    "releaseDate": "2022-10-27T14:00:00.0000000Z",
+    "jvcom": {
+      "searchTitle": "<b>Signalis</b>",
+      "gauge": "--",
+      "url": "https://www.jeuxvideo.com/jeux/jeu-1206108/"
+    }
+  },
+  {
+    "title": "Age of Empires IV : Édition anniversaire",
+    "releaseDate": "2021-10-28T00:00:00.0000000Z",
+    "jvcom": {
+      "searchTitle": "<b>Age</b> <b>of</b> <b>Empires</b> <b>IV</b>",
+      "gauge": "16",
+      "url": "https://www.jeuxvideo.com/jeux/jeu-699718/"
+    }
+  },
+  {
+    "title": "Frog Detective: The Entire Mystery",
+    "releaseDate": "2022-10-27T00:00:00.0000000Z",
+    "jvcom": {
+      "searchTitle": "<b>The</b> Haunted Island, a <b>Frog</b> <b>Detective</b> Game",
+      "gauge": "--",
+      "url": "https://www.jeuxvideo.com/jeux/pc/jeu-963167/"
+    }
   }
 ]
