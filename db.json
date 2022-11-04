@@ -8010,5 +8010,41 @@
       "gauge": "--",
       "url": "https://www.jeuxvideo.com/jeux/pc/jeu-963167/"
     }
+  },
+  {
+    "title": "Ghost Song",
+    "releaseDate": "2022-11-03T16:00:00.0000000Z",
+    "jvcom": {
+      "searchTitle": "<b>Ghost</b> <b>Song</b>",
+      "gauge": "--",
+      "url": "https://www.jeuxvideo.com/jeux/jeu-454814/"
+    }
+  },
+  {
+    "title": "The Legend of Tianding",
+    "releaseDate": "2022-11-01T00:00:00.0000000Z",
+    "jvcom": {
+      "searchTitle": "<b>The</b> <b>Legend</b> <b>of</b> <b>Tianding</b>",
+      "gauge": "--",
+      "url": "https://www.jeuxvideo.com/jeux/jeu-1482247/"
+    }
+  },
+  {
+    "title": "The Walking Dead: A New Frontier",
+    "releaseDate": "2022-11-01T00:00:00.0000000Z",
+    "jvcom": {
+      "searchTitle": "<b>The</b> <b>Walking</b> <b>Dead</b> : <b>A</b> <b>New</b> <b>Frontier</b>",
+      "gauge": "13",
+      "url": "https://www.jeuxvideo.com/jeux/jeu-82942/"
+    }
+  },
+  {
+    "title": "The Walking Dead: Michonne",
+    "releaseDate": "2016-09-07T00:35:49.3933838Z",
+    "jvcom": {
+      "searchTitle": "<b>The</b> <b>Walking</b> <b>Dead</b> : All Stars",
+      "gauge": "--",
+      "url": "https://www.jeuxvideo.com/jeux/jeu-1636210/"
+    }
   }
 ]
