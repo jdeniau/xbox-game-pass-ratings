@@ -8046,5 +8046,41 @@
       "gauge": "--",
       "url": "https://www.jeuxvideo.com/jeux/jeu-1636210/"
     }
+  },
+  {
+    "title": "Football Manager 2023 Console",
+    "releaseDate": "2022-11-08T00:00:00.0000000Z",
+    "jvcom": {
+      "searchTitle": "<b>Football</b> <b>Manager</b> <b>2023</b> <b>Console</b>",
+      "gauge": "--",
+      "url": "https://www.jeuxvideo.com/jeux/jeu-1631466/"
+    }
+  },
+  {
+    "title": "Microsoft Flight Simulator Standard 40th Anniversary Edition",
+    "releaseDate": "2022-11-11T16:00:00.0000000Z",
+    "jvcom": {
+      "searchTitle": "<b>Microsoft</b> <b>Flight</b> <b>Simulator</b>",
+      "gauge": "18",
+      "url": "https://www.jeuxvideo.com/jeux/jeu-1056648/"
+    }
+  },
+  {
+    "title": "Return to Monkey Island",
+    "releaseDate": "2022-11-08T17:00:00.0000000Z",
+    "jvcom": {
+      "searchTitle": "<b>Return</b> <b>to</b> <b>Monkey</b> <b>Island</b>",
+      "gauge": "17",
+      "url": "https://www.jeuxvideo.com/jeux/jeu-1556450/"
+    }
+  },
+  {
+    "title": "Football Manager 2023",
+    "releaseDate": "2022-11-08T00:00:00.0000000Z",
+    "jvcom": {
+      "searchTitle": "<b>Football</b> <b>Manager</b> <b>2023</b>",
+      "gauge": "17",
+      "url": "https://www.jeuxvideo.com/jeux/jeu-1631456/"
+    }
   }
 ]
