@@ -8082,5 +8082,48 @@
       "gauge": "17",
       "url": "https://www.jeuxvideo.com/jeux/jeu-1631456/"
     }
+  },
+  {
+    "title": "LAPIN (Game Preview)",
+    "releaseDate": "2022-11-17T00:00:00.0000000Z",
+    "jvcom": {
+      "error": "Unable to find LAPIN (Game Preview) on jvcom"
+    }
+  },
+  {
+    "title": "Pentiment",
+    "releaseDate": "2022-11-15T07:00:00.0000000Z",
+    "jvcom": {
+      "searchTitle": "<b>Pentiment</b>",
+      "gauge": "15",
+      "url": "https://www.jeuxvideo.com/jeux/jeu-1587950/"
+    }
+  },
+  {
+    "title": "Somerville",
+    "releaseDate": "2022-11-15T00:00:00.0000000Z",
+    "jvcom": {
+      "searchTitle": "<b>Somerville</b>",
+      "gauge": "--",
+      "url": "https://www.jeuxvideo.com/jeux/jeu-679075/"
+    }
+  },
+  {
+    "title": "Dune: Spice Wars (Aperçu)",
+    "releaseDate": "2022-11-17T15:00:00.0000000Z",
+    "jvcom": {
+      "searchTitle": "<b>Dune</b> <b>Spice</b> <b>Wars</b>",
+      "gauge": "--",
+      "url": "https://www.jeuxvideo.com/jeux/pc/jeu-1504774/"
+    }
+  },
+  {
+    "title": "Ghostlore (Game Preview)",
+    "releaseDate": "2022-11-17T00:00:00.0000000Z",
+    "jvcom": {
+      "searchTitle": "<b>Ghostlore</b>",
+      "gauge": "--",
+      "url": "https://www.jeuxvideo.com/jeux/pc/jeu-1558487/"
+    }
   }
 ]
