@@ -8152,5 +8152,68 @@
       "gauge": "--",
       "url": "https://www.jeuxvideo.com/jeux/jeu-918783/"
     }
+  },
+  {
+    "title": "Eastward",
+    "releaseDate": "2022-12-01T13:00:00.0000000Z",
+    "jvcom": {
+      "searchTitle": "<b>Eastward</b>",
+      "gauge": "18",
+      "url": "https://www.jeuxvideo.com/jeux/jeu-839086/"
+    }
+  },
+  {
+    "title": "Insurgency: Sandstorm",
+    "releaseDate": "2021-09-28T22:00:00.0000000Z",
+    "jvcom": {
+      "searchTitle": "<b>Insurgency</b> : <b>Sandstorm</b>",
+      "gauge": "16",
+      "url": "https://www.jeuxvideo.com/jeux/jeu-460244/"
+    }
+  },
+  {
+    "title": "Soccer Story",
+    "releaseDate": "2022-11-29T00:00:00.0000000Z",
+    "jvcom": {
+      "searchTitle": "<b>Soccer</b> <b>Story</b>",
+      "gauge": "--",
+      "url": "https://www.jeuxvideo.com/jeux/jeu-1669841/"
+    }
+  },
+  {
+    "title": "The Walking Dead: L'ultime saison - The Complete Season",
+    "releaseDate": "2018-08-14T00:00:00.0000000Z",
+    "jvcom": {
+      "searchTitle": "<b>The</b> <b>Walking</b> <b>Dead</b> : All Stars",
+      "gauge": "--",
+      "url": "https://www.jeuxvideo.com/jeux/jeu-1636210/"
+    }
+  },
+  {
+    "title": "Hearts of Iron IV",
+    "releaseDate": "2019-11-13T15:00:00.0000000Z",
+    "jvcom": {
+      "searchTitle": "<b>Hearts</b> <b>of</b> <b>Iron</b> <b>IV</b>",
+      "gauge": "15",
+      "url": "https://www.jeuxvideo.com/jeux/jeu-81850/"
+    }
+  },
+  {
+    "title": "The Walking Dead: L'ultime saison",
+    "releaseDate": "2018-08-13T22:00:00.0000000Z",
+    "jvcom": {
+      "searchTitle": "<b>The</b> <b>Walking</b> <b>Dead</b> : <b>The</b> Final Season",
+      "gauge": "17",
+      "url": "https://www.jeuxvideo.com/jeux/jeu-687979/"
+    }
+  },
+  {
+    "title": "Warhammer 40,000: Darktide",
+    "releaseDate": "2022-11-30T18:00:00.0000000Z",
+    "jvcom": {
+      "searchTitle": "<b>Warhammer</b> <b>40</b>,<b>000</b> : <b>Darktide</b>",
+      "gauge": "--",
+      "url": "https://www.jeuxvideo.com/jeux/jeu-1262512/"
+    }
   }
 ]
