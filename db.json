@@ -8215,5 +8215,77 @@
       "gauge": "--",
       "url": "https://www.jeuxvideo.com/jeux/jeu-1262512/"
     }
+  },
+  {
+    "title": "Chained Echoes",
+    "releaseDate": "2022-12-08T00:00:00.0000000Z",
+    "jvcom": {
+      "searchTitle": "<b>Chained</b> <b>Echoes</b>",
+      "gauge": "--",
+      "url": "https://www.jeuxvideo.com/jeux/jeu-1015223/"
+    }
+  },
+  {
+    "title": "Clustertruck",
+    "releaseDate": "2016-10-28T00:00:00.0000000Z",
+    "jvcom": {
+      "searchTitle": "<b>ClusterTruck</b>",
+      "gauge": "--",
+      "url": "https://www.jeuxvideo.com/jeux/jeu-459653/"
+    }
+  },
+  {
+    "title": "Hello Neighbor 2",
+    "releaseDate": "2022-12-05T23:00:00.0000000Z",
+    "jvcom": {
+      "searchTitle": "<b>Hello</b> <b>Neighbor</b> <b>2</b>",
+      "gauge": "--",
+      "url": "https://www.jeuxvideo.com/jeux/jeu-1262394/"
+    }
+  },
+  {
+    "title": "High On Life",
+    "releaseDate": "2022-12-13T00:00:00.0000000Z",
+    "jvcom": {
+      "searchTitle": "<b>High</b> on <b>Life</b>",
+      "gauge": "--",
+      "url": "https://www.jeuxvideo.com/jeux/jeu-1587779/"
+    }
+  },
+  {
+    "title": "LEGO® Star Wars™ : La Saga Skywalker",
+    "releaseDate": "2019-07-22T05:35:31.0608714Z",
+    "jvcom": {
+      "searchTitle": "<b>Lego</b> <b>Star</b> <b>Wars</b> : La <b>Saga</b> <b>Skywalker</b>",
+      "gauge": "15",
+      "url": "https://www.jeuxvideo.com/jeux/jeu-1056663/"
+    }
+  },
+  {
+    "title": "Metal: Hellsinger (Xbox One)",
+    "releaseDate": "2022-12-08T09:00:00.0000000Z",
+    "jvcom": {
+      "searchTitle": "<b>Metal</b> : <b>Hellsinger</b>",
+      "gauge": "15",
+      "url": "https://www.jeuxvideo.com/jeux/jeu-1237046/"
+    }
+  },
+  {
+    "title": "Potion Craft: Alchemist Simulator",
+    "releaseDate": "2021-12-19T18:23:25.0008208Z",
+    "jvcom": {
+      "searchTitle": "<b>Potion</b> <b>Craft</b> : <b>Alchemist</b> <b>Simulator</b>",
+      "gauge": "--",
+      "url": "https://www.jeuxvideo.com/jeux/pc/jeu-1467074/"
+    }
+  },
+  {
+    "title": "Rainbow Billy: The Curse of the Leviathan",
+    "releaseDate": "2021-10-05T07:00:00.0000000Z",
+    "jvcom": {
+      "searchTitle": "<b>Curse</b> <b>of</b> <b>the</b> Sea Rats",
+      "gauge": "--",
+      "url": "https://www.jeuxvideo.com/jeux/jeu-1232787/"
+    }
   }
 ]
