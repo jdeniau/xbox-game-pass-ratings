@@ -8296,5 +8296,41 @@
       "gauge": "--",
       "url": "https://www.jeuxvideo.com/jeux/jeu-81191/"
     }
+  },
+  {
+    "title": "Death's Door",
+    "releaseDate": "2021-07-20T13:00:00.0000000Z",
+    "jvcom": {
+      "searchTitle": "<b>Death</b>'s <b>Door</b>",
+      "gauge": "16",
+      "url": "https://www.jeuxvideo.com/jeux/jeu-1383386/"
+    }
+  },
+  {
+    "title": "Monster Hunter Rise",
+    "releaseDate": "2023-01-19T23:00:00.0000000Z",
+    "jvcom": {
+      "searchTitle": "<b>Monster</b> <b>Hunter</b> <b>Rise</b>",
+      "gauge": "18",
+      "url": "https://www.jeuxvideo.com/jeux/jeu-1290320/"
+    }
+  },
+  {
+    "title": "Persona 3 Portable",
+    "releaseDate": "2023-01-19T05:00:00.0000000Z",
+    "jvcom": {
+      "searchTitle": "<b>Persona</b> <b>3</b> <b>Portable</b>",
+      "gauge": "16",
+      "url": "https://www.jeuxvideo.com/jeux/jeu-73178/"
+    }
+  },
+  {
+    "title": "Persona 4 Golden",
+    "releaseDate": "2023-01-19T05:00:00.0000000Z",
+    "jvcom": {
+      "searchTitle": "<b>Persona</b> <b>4</b> : <b>Golden</b>",
+      "gauge": "19",
+      "url": "https://www.jeuxvideo.com/jeux/jeu-99183/"
+    }
   }
 ]
