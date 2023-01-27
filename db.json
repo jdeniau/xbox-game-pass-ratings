@@ -8332,5 +8332,32 @@
       "gauge": "19",
       "url": "https://www.jeuxvideo.com/jeux/jeu-99183/"
     }
+  },
+  {
+    "title": "GoldenEye 007",
+    "releaseDate": "2023-01-27T00:00:00.0000000Z",
+    "jvcom": {
+      "searchTitle": "<b>GoldenEye</b> <b>007</b>",
+      "gauge": "18",
+      "url": "https://www.jeuxvideo.com/jeux/jeu-56359/"
+    }
+  },
+  {
+    "title": "Hi-Fi RUSH",
+    "releaseDate": "2023-01-25T21:00:00.0000000Z",
+    "jvcom": {
+      "searchTitle": "<b>Hi</b>-<b>Fi</b> <b>Rush</b>",
+      "gauge": "--",
+      "url": "https://www.jeuxvideo.com/jeux/jeu-1700255/"
+    }
+  },
+  {
+    "title": "HITMAN World of Assassination",
+    "releaseDate": "2022-01-20T13:00:00.0000000Z",
+    "jvcom": {
+      "searchTitle": "Age <b>of</b> Empires : <b>World</b> Domination",
+      "gauge": "--",
+      "url": "https://www.jeuxvideo.com/jeux/jeu-82198/"
+    }
   }
 ]
