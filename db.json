@@ -8359,5 +8359,23 @@
       "gauge": "--",
       "url": "https://www.jeuxvideo.com/jeux/jeu-82198/"
     }
+  },
+  {
+    "title": "Inkulinati (Game Preview)",
+    "releaseDate": "2022-12-31T17:00:00.0000000Z",
+    "jvcom": {
+      "searchTitle": "<b>Inkulinati</b>",
+      "gauge": "--",
+      "url": "https://www.jeuxvideo.com/jeux/jeu-1229633/"
+    }
+  },
+  {
+    "title": "JoJo's Bizarre Adventure: All-Star Battle R",
+    "releaseDate": "2022-09-02T00:00:00.0000000Z",
+    "jvcom": {
+      "searchTitle": "<b>JoJo</b>'s <b>Bizarre</b> <b>Adventure</b> : <b>All</b>-<b>Star</b> <b>Battle</b> <b>R</b>",
+      "gauge": "14",
+      "url": "https://www.jeuxvideo.com/jeux/jeu-1542493/"
+    }
   }
 ]
