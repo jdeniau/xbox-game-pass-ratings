@@ -8431,5 +8431,32 @@
       "gauge": "14",
       "url": "https://www.jeuxvideo.com/jeux/jeu-1369023/"
     }
+  },
+  {
+    "title": "Cities: Skylines - Remastered",
+    "releaseDate": "2023-02-15T09:00:00.0000000Z",
+    "jvcom": {
+      "searchTitle": "Sinfeld <b>Remastered</b>",
+      "gauge": "--",
+      "url": "https://www.jeuxvideo.com/jeux/jeu-1386110/"
+    }
+  },
+  {
+    "title": "Mount & Blade II: Bannerlord",
+    "releaseDate": "2022-10-25T00:00:00.0000000Z",
+    "jvcom": {
+      "searchTitle": "<b>Mount</b> & <b>Blade</b> <b>II</b> : <b>Bannerlord</b>",
+      "gauge": "17",
+      "url": "https://www.jeuxvideo.com/jeux/jeu-79726/"
+    }
+  },
+  {
+    "title": "Shadow Warrior 3: Definitive Edition",
+    "releaseDate": "2022-03-01T14:00:00.0000000Z",
+    "jvcom": {
+      "searchTitle": "<b>Shadow</b> <b>Warrior</b> <b>3</b>",
+      "gauge": "--",
+      "url": "https://www.jeuxvideo.com/jeux/jeu-1251705/"
+    }
   }
 ]
