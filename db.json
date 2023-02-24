@@ -8458,5 +8458,23 @@
       "gauge": "--",
       "url": "https://www.jeuxvideo.com/jeux/jeu-1251705/"
     }
+  },
+  {
+    "title": "Atomic Heart",
+    "releaseDate": "2023-02-20T23:00:00.0000000Z",
+    "jvcom": {
+      "searchTitle": "<b>Atomic</b> <b>Heart</b>",
+      "gauge": "14",
+      "url": "https://www.jeuxvideo.com/jeux/jeu-843440/"
+    }
+  },
+  {
+    "title": "Atomic Heart (Windows)",
+    "releaseDate": "2023-02-20T23:00:00.0000000Z",
+    "jvcom": {
+      "searchTitle": "<b>Atomic</b> <b>Heart</b>",
+      "gauge": "14",
+      "url": "https://www.jeuxvideo.com/jeux/jeu-843440/"
+    }
   }
 ]
