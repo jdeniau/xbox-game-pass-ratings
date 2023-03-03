@@ -8476,5 +8476,50 @@
       "gauge": "14",
       "url": "https://www.jeuxvideo.com/jeux/jeu-843440/"
     }
+  },
+  {
+    "title": "F1® 22 Xbox One",
+    "releaseDate": "2022-07-01T06:00:00.0000000Z",
+    "jvcom": {
+      "searchTitle": "<b>F1</b> <b>22</b>",
+      "gauge": "16",
+      "url": "https://www.jeuxvideo.com/jeux/jeu-1566099/"
+    }
+  },
+  {
+    "title": "F1® 22 Xbox Series X|S",
+    "releaseDate": "2022-07-01T06:00:00.0000000Z",
+    "jvcom": {
+      "searchTitle": "<b>F1</b> <b>22</b>",
+      "gauge": "16",
+      "url": "https://www.jeuxvideo.com/jeux/jeu-1566099/"
+    }
+  },
+  {
+    "title": "Merge And Blade",
+    "releaseDate": "2023-02-28T00:00:00.0000000Z",
+    "jvcom": {
+      "searchTitle": "<b>Blade</b> Assault",
+      "gauge": "--",
+      "url": "https://www.jeuxvideo.com/jeux/jeu-1718152/"
+    }
+  },
+  {
+    "title": "Soul Hackers 2",
+    "releaseDate": "2022-08-26T04:00:00.0000000Z",
+    "jvcom": {
+      "searchTitle": "<b>Soul</b> <b>Hackers</b> <b>2</b>",
+      "gauge": "14",
+      "url": "https://www.jeuxvideo.com/jeux/jeu-1575047/"
+    }
+  },
+  {
+    "title": "Wo Long: Fallen Dynasty",
+    "releaseDate": "2023-03-03T00:00:00.0000000Z",
+    "jvcom": {
+      "searchTitle": "<b>Wo</b> <b>Long</b> : <b>Fallen</b> <b>Dynasty</b>",
+      "gauge": "17",
+      "url": "https://www.jeuxvideo.com/jeux/jeu-1587840/"
+    }
   }
 ]
