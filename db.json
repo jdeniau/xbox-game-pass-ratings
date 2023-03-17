@@ -8530,5 +8530,32 @@
       "gauge": "--",
       "url": "https://www.jeuxvideo.com/jeux/switch/jeu-1031097/"
     }
+  },
+  {
+    "title": "Sea of Thieves 2023 Edition",
+    "releaseDate": "2018-03-19T23:00:00.0000000Z",
+    "jvcom": {
+      "searchTitle": "<b>Sea</b> <b>of</b> <b>Thieves</b> : The Arena",
+      "gauge": "--",
+      "url": "https://www.jeuxvideo.com/jeux/jeu-955077/"
+    }
+  },
+  {
+    "title": "Sid Meier's Civilization VI",
+    "releaseDate": "2019-11-21T23:00:00.0000000Z",
+    "jvcom": {
+      "searchTitle": "<b>Civilization</b> <b>VI</b>",
+      "gauge": "17",
+      "url": "https://www.jeuxvideo.com/jeux/jeu-485809/"
+    }
+  },
+  {
+    "title": "Sid Meier’s Civilization® VI",
+    "releaseDate": "2023-03-16T00:00:00.0000000Z",
+    "jvcom": {
+      "searchTitle": "<b>Civilization</b> <b>VI</b>",
+      "gauge": "17",
+      "url": "https://www.jeuxvideo.com/jeux/jeu-485809/"
+    }
   }
 ]
