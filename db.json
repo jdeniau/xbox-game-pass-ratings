@@ -8557,5 +8557,23 @@
       "gauge": "17",
       "url": "https://www.jeuxvideo.com/jeux/jeu-485809/"
     }
+  },
+  {
+    "title": "Ni no Kuni II: L'Avènement d'un Nouveau Royaume PRINCE’S EDITION",
+    "releaseDate": "2023-03-21T10:00:00.0000000Z",
+    "jvcom": {
+      "searchTitle": "<b>Ni</b> <b>no</b> <b>Kuni</b> 2 : L'<b>avènement</b> d'un <b>nouveau</b> <b>Royaume</b>",
+      "gauge": "16",
+      "url": "https://www.jeuxvideo.com/jeux/jeu-451965/"
+    }
+  },
+  {
+    "title": "Monster Sanctuary (Windows Version)",
+    "releaseDate": "2020-12-07T23:00:00.0000000Z",
+    "jvcom": {
+      "searchTitle": "<b>Monster</b> <b>Sanctuary</b>",
+      "gauge": "--",
+      "url": "https://www.jeuxvideo.com/jeux/jeu-856748/"
+    }
   }
 ]
