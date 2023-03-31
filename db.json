@@ -8575,5 +8575,41 @@
       "gauge": "--",
       "url": "https://www.jeuxvideo.com/jeux/jeu-856748/"
     }
+  },
+  {
+    "title": "Infinite Guitars",
+    "releaseDate": "2023-03-30T16:00:00.0000000Z",
+    "jvcom": {
+      "searchTitle": "Torchlight <b>Infinite</b>",
+      "gauge": "--",
+      "url": "https://www.jeuxvideo.com/jeux/jeu-1651718/"
+    }
+  },
+  {
+    "title": "Marvel's Avengers - The Definitive Edition",
+    "releaseDate": "2020-09-03T22:00:00.0000000Z",
+    "jvcom": {
+      "searchTitle": "Age of Empires III: <b>Definitive</b> <b>Edition</b> - Knights of <b>the</b> Mediterranean",
+      "gauge": "--",
+      "url": "https://www.jeuxvideo.com/jeux/pc/jeu-1576854/"
+    }
+  },
+  {
+    "title": "MLB® The Show™ 23 Xbox One",
+    "releaseDate": "2023-01-26T19:56:07.1963874Z",
+    "jvcom": {
+      "searchTitle": "<b>MLB</b> <b>The</b> <b>Show</b> <b>23</b>",
+      "gauge": "--",
+      "url": "https://www.jeuxvideo.com/jeux/jeu-1702968/"
+    }
+  },
+  {
+    "title": "MLB® The Show™ 23 Xbox Series X|S",
+    "releaseDate": "2023-01-26T19:55:36.4429421Z",
+    "jvcom": {
+      "searchTitle": "<b>MLB</b> <b>The</b> <b>Show</b> <b>23</b>",
+      "gauge": "--",
+      "url": "https://www.jeuxvideo.com/jeux/jeu-1702968/"
+    }
   }
 ]
