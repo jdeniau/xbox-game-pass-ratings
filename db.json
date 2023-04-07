@@ -8611,5 +8611,32 @@
       "gauge": "--",
       "url": "https://www.jeuxvideo.com/jeux/jeu-1702968/"
     }
+  },
+  {
+    "title": "Iron Brigade",
+    "releaseDate": "2010-08-06T00:00:00.0000000Z",
+    "jvcom": {
+      "searchTitle": "<b>Iron</b> <b>Brigade</b>",
+      "gauge": "17",
+      "url": "https://www.jeuxvideo.com/jeux/jeu-76556/"
+    }
+  },
+  {
+    "title": "Loop Hero",
+    "releaseDate": "2023-04-04T13:00:00.0000000Z",
+    "jvcom": {
+      "searchTitle": "<b>Loop</b> <b>Hero</b>",
+      "gauge": "15",
+      "url": "https://www.jeuxvideo.com/jeux/jeu-1338715/"
+    }
+  },
+  {
+    "title": "EVERSPACE™ 2",
+    "releaseDate": "2799-12-31T00:00:00.0000000Z",
+    "jvcom": {
+      "searchTitle": "<b>Everspace</b> <b>2</b>",
+      "gauge": "15",
+      "url": "https://www.jeuxvideo.com/jeux/jeu-1093492/"
+    }
   }
 ]
