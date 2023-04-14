@@ -8638,5 +8638,32 @@
       "gauge": "15",
       "url": "https://www.jeuxvideo.com/jeux/jeu-1093492/"
     }
+  },
+  {
+    "title": "Ghostwire: Tokyo",
+    "releaseDate": "2023-04-12T00:00:00.0000000Z",
+    "jvcom": {
+      "searchTitle": "Ghostlore",
+      "gauge": "--",
+      "url": "https://www.jeuxvideo.com/jeux/pc/jeu-1558487/"
+    }
+  },
+  {
+    "title": "NHL 23 Xbox One",
+    "releaseDate": "2022-10-13T22:00:00.0000000Z",
+    "jvcom": {
+      "searchTitle": "<b>NHL</b> <b>23</b>",
+      "gauge": "--",
+      "url": "https://www.jeuxvideo.com/jeux/jeu-1647734/"
+    }
+  },
+  {
+    "title": "NHL 23 Xbox Series X|S",
+    "releaseDate": "2022-10-13T22:00:00.0000000Z",
+    "jvcom": {
+      "searchTitle": "<b>NHL</b> <b>23</b>",
+      "gauge": "--",
+      "url": "https://www.jeuxvideo.com/jeux/jeu-1647734/"
+    }
   }
 ]
