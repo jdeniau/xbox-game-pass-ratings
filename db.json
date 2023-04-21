@@ -8665,5 +8665,50 @@
       "gauge": "--",
       "url": "https://www.jeuxvideo.com/jeux/jeu-1647734/"
     }
+  },
+  {
+    "title": "Coffee Talk Episode 2: Hibiscus and Butterfly",
+    "releaseDate": "2023-04-19T22:00:00.0000000Z",
+    "jvcom": {
+      "searchTitle": "The Council : <b>Episode</b> <b>2</b> - Hide <b>and</b> Seek",
+      "gauge": "13",
+      "url": "https://www.jeuxvideo.com/jeux/jeu-808924/"
+    }
+  },
+  {
+    "title": "Homestead Arcana",
+    "releaseDate": "2023-04-21T15:00:00.0000000Z",
+    "jvcom": {
+      "searchTitle": "<b>Arcana</b> Heart 3",
+      "gauge": "14",
+      "url": "https://www.jeuxvideo.com/jeux/jeu-75640/"
+    }
+  },
+  {
+    "title": "Medieval Dynasty (Xbox One)",
+    "releaseDate": "2023-04-20T15:00:00.0000000Z",
+    "jvcom": {
+      "searchTitle": "<b>Medieval</b> <b>Dynasty</b>",
+      "gauge": "--",
+      "url": "https://www.jeuxvideo.com/jeux/jeu-1275825/"
+    }
+  },
+  {
+    "title": "Minecraft Legends",
+    "releaseDate": "2023-04-18T16:00:00.0000000Z",
+    "jvcom": {
+      "searchTitle": "<b>Minecraft</b> <b>Legends</b>",
+      "gauge": "--",
+      "url": "https://www.jeuxvideo.com/jeux/jeu-1587784/"
+    }
+  },
+  {
+    "title": "Minecraft Legends for Windows + Launcher",
+    "releaseDate": "2023-04-18T16:00:00.0000000Z",
+    "jvcom": {
+      "searchTitle": "<b>Minecraft</b> <b>Legends</b>",
+      "gauge": "--",
+      "url": "https://www.jeuxvideo.com/jeux/jeu-1587784/"
+    }
   }
 ]
