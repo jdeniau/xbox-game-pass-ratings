@@ -8710,5 +8710,32 @@
       "gauge": "--",
       "url": "https://www.jeuxvideo.com/jeux/jeu-1587784/"
     }
+  },
+  {
+    "title": "BlazBlue: Cross Tag Battle Special Edition",
+    "releaseDate": "2023-04-27T00:00:00.0000000Z",
+    "jvcom": {
+      "searchTitle": "Devil May Cry 5 : <b>Special</b> <b>Edition</b>",
+      "gauge": "18",
+      "url": "https://www.jeuxvideo.com/jeux/jeu-1289852/"
+    }
+  },
+  {
+    "title": "The Last Case of Benedict Fox",
+    "releaseDate": "2023-04-27T16:00:00.0000000Z",
+    "jvcom": {
+      "searchTitle": "<b>The</b> <b>Last</b> <b>Case</b> <b>of</b> <b>Benedict</b> <b>Fox</b>",
+      "gauge": "--",
+      "url": "https://www.jeuxvideo.com/jeux/jeu-1587860/"
+    }
+  },
+  {
+    "title": "Cassette Beasts",
+    "releaseDate": "2023-04-26T15:00:00.0000000Z",
+    "jvcom": {
+      "searchTitle": "<b>Cassette</b> <b>Beasts</b>",
+      "gauge": "--",
+      "url": "https://www.jeuxvideo.com/jeux/jeu-1223686/"
+    }
   }
 ]
