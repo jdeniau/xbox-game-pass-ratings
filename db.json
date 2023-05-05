@@ -8737,5 +8737,41 @@
       "gauge": "--",
       "url": "https://www.jeuxvideo.com/jeux/jeu-1223686/"
     }
+  },
+  {
+    "title": "Besiege Console",
+    "releaseDate": "2023-05-01T00:00:00.0000000Z",
+    "jvcom": {
+      "searchTitle": "<b>Besiege</b>",
+      "gauge": "--",
+      "url": "https://www.jeuxvideo.com/jeux/jeu-431075/"
+    }
+  },
+  {
+    "title": "Ravenlok",
+    "releaseDate": "2023-05-04T00:00:00.0000000Z",
+    "jvcom": {
+      "searchTitle": "Ravenswatch",
+      "gauge": "--",
+      "url": "https://www.jeuxvideo.com/jeux/pc/jeu-1732583/"
+    }
+  },
+  {
+    "title": "Redfall",
+    "releaseDate": "2023-05-02T00:00:00.0000000Z",
+    "jvcom": {
+      "searchTitle": "<b>Redfall</b>",
+      "gauge": "13",
+      "url": "https://www.jeuxvideo.com/jeux/jeu-1422271/"
+    }
+  },
+  {
+    "title": "Besiege",
+    "releaseDate": "2023-05-01T00:00:00.0000000Z",
+    "jvcom": {
+      "searchTitle": "<b>Besiege</b>",
+      "gauge": "--",
+      "url": "https://www.jeuxvideo.com/jeux/jeu-431075/"
+    }
   }
 ]
