@@ -8773,5 +8773,59 @@
       "gauge": "--",
       "url": "https://www.jeuxvideo.com/jeux/jeu-431075/"
     }
+  },
+  {
+    "title": "Fuga: Melodies of Steel 2",
+    "releaseDate": "2023-05-11T01:00:00.0000000Z",
+    "jvcom": {
+      "searchTitle": "<b>Fuga</b> : <b>Melodies</b> <b>of</b> <b>Steel</b> <b>2</b>",
+      "gauge": "--",
+      "url": "https://www.jeuxvideo.com/jeux/jeu-1609890/"
+    }
+  },
+  {
+    "title": "Weird West: Definitive Edition",
+    "releaseDate": "2022-03-31T14:00:00.0000000Z",
+    "jvcom": {
+      "searchTitle": "<b>Weird</b> <b>West</b>",
+      "gauge": "17",
+      "url": "https://www.jeuxvideo.com/jeux/jeu-1161496/"
+    }
+  },
+  {
+    "title": "Golf With Your Friends (Windows Version)",
+    "releaseDate": "2020-07-23T00:00:00.0000000Z",
+    "jvcom": {
+      "searchTitle": "<b>Golf</b> <b>With</b> <b>Your</b> <b>Friends</b>",
+      "gauge": "--",
+      "url": "https://www.jeuxvideo.com/jeux/jeu-459327/"
+    }
+  },
+  {
+    "title": "Shadowrun Returns PC",
+    "releaseDate": "2023-05-09T08:00:00.0000000Z",
+    "jvcom": {
+      "searchTitle": "<b>Shadowrun</b> Trilogy",
+      "gauge": "--",
+      "url": "https://www.jeuxvideo.com/jeux/jeu-1466132/"
+    }
+  },
+  {
+    "title": "Shadowrun: Dragonfall - Director's Cut PC",
+    "releaseDate": "2023-05-09T08:00:00.0000000Z",
+    "jvcom": {
+      "searchTitle": "Deadlight : <b>Director</b>’s <b>Cut</b>",
+      "gauge": "13",
+      "url": "https://www.jeuxvideo.com/jeux/jeu-463469/"
+    }
+  },
+  {
+    "title": "Shadowrun: Hong Kong - Extended Edition PC",
+    "releaseDate": "2023-05-09T08:00:00.0000000Z",
+    "jvcom": {
+      "searchTitle": "Aragami : Shadow <b>Edition</b>",
+      "gauge": "--",
+      "url": "https://www.jeuxvideo.com/jeux/jeu-841237/"
+    }
   }
 ]
