@@ -8827,5 +8827,50 @@
       "gauge": "--",
       "url": "https://www.jeuxvideo.com/jeux/jeu-841237/"
     }
+  },
+  {
+    "title": "EA SPORTS™ FIFA 23 Édition Standard Xbox One",
+    "releaseDate": "2022-09-29T22:00:00.0000000Z",
+    "jvcom": {
+      "searchTitle": "<b>EA</b> <b>Sports</b> <b>FIFA</b>",
+      "gauge": "--",
+      "url": "https://www.jeuxvideo.com/jeux/jeu-431352/"
+    }
+  },
+  {
+    "title": "EA SPORTS™ FIFA 23 Édition Standard Xbox Series X|S",
+    "releaseDate": "2022-09-29T22:00:00.0000000Z",
+    "jvcom": {
+      "searchTitle": "<b>EA</b> <b>Sports</b> <b>FIFA</b>",
+      "gauge": "--",
+      "url": "https://www.jeuxvideo.com/jeux/jeu-431352/"
+    }
+  },
+  {
+    "title": "Eastern Exorcist",
+    "releaseDate": "2023-05-18T00:00:00.0000000Z",
+    "jvcom": {
+      "searchTitle": "<b>Eastern</b> <b>Exorcist</b>",
+      "gauge": "--",
+      "url": "https://www.jeuxvideo.com/jeux/jeu-1256014/"
+    }
+  },
+  {
+    "title": "Ghostlore",
+    "releaseDate": "2022-11-17T00:00:00.0000000Z",
+    "jvcom": {
+      "searchTitle": "<b>Ghostlore</b>",
+      "gauge": "--",
+      "url": "https://www.jeuxvideo.com/jeux/pc/jeu-1558487/"
+    }
+  },
+  {
+    "title": "Supraland: Six Inches Under",
+    "releaseDate": "2023-05-18T17:00:00.0000000Z",
+    "jvcom": {
+      "searchTitle": "<b>Supraland</b>",
+      "gauge": "--",
+      "url": "https://www.jeuxvideo.com/jeux/jeu-1032325/"
+    }
   }
 ]
