@@ -8872,5 +8872,41 @@
       "gauge": "--",
       "url": "https://www.jeuxvideo.com/jeux/jeu-1032325/"
     }
+  },
+  {
+    "title": "MASSIVE CHALICE",
+    "releaseDate": "2015-06-01T00:00:00.0000000Z",
+    "jvcom": {
+      "searchTitle": "<b>Massive</b> <b>Chalice</b>",
+      "gauge": "12",
+      "url": "https://www.jeuxvideo.com/jeux/jeu-80745/"
+    }
+  },
+  {
+    "title": "Planet of Lana",
+    "releaseDate": "2023-05-23T15:00:00.0000000Z",
+    "jvcom": {
+      "searchTitle": "<b>Planet</b> <b>of</b> <b>Lana</b>",
+      "gauge": "--",
+      "url": "https://www.jeuxvideo.com/jeux/jeu-1420779/"
+    }
+  },
+  {
+    "title": "Railway Empire 2",
+    "releaseDate": "2023-05-25T00:00:00.0000000Z",
+    "jvcom": {
+      "searchTitle": "<b>Railway</b> <b>Empire</b> : Japan",
+      "gauge": "--",
+      "url": "https://www.jeuxvideo.com/jeux/jeu-1398510/"
+    }
+  },
+  {
+    "title": "Railway Empire 2 (Win)",
+    "releaseDate": "2023-05-25T00:00:00.0000000Z",
+    "jvcom": {
+      "searchTitle": "<b>Railway</b> <b>Empire</b> : Japan",
+      "gauge": "--",
+      "url": "https://www.jeuxvideo.com/jeux/jeu-1398510/"
+    }
   }
 ]
