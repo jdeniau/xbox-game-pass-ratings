@@ -8908,5 +8908,48 @@
       "gauge": "--",
       "url": "https://www.jeuxvideo.com/jeux/jeu-1398510/"
     }
+  },
+  {
+    "title": "Car Mechanic Simulator 2021",
+    "releaseDate": "2023-06-01T00:00:00.0000000Z",
+    "jvcom": {
+      "searchTitle": "<b>Car</b> Detailing <b>Simulator</b>",
+      "gauge": "--",
+      "url": "https://www.jeuxvideo.com/jeux/pc/jeu-1558439/"
+    }
+  },
+  {
+    "title": "Chicorée : une aventure haute en couleur",
+    "releaseDate": "2023-05-30T00:00:00.0000000Z",
+    "jvcom": {
+      "error": "Unable to find Chicorée : une aventure haute en couleur on jvcom"
+    }
+  },
+  {
+    "title": "Farworld Pioneers",
+    "releaseDate": "2023-05-30T16:00:00.0000000Z",
+    "jvcom": {
+      "searchTitle": "Planetoid <b>Pioneers</b>",
+      "gauge": "--",
+      "url": "https://www.jeuxvideo.com/jeux/pc/jeu-794340/"
+    }
+  },
+  {
+    "title": "Slayers X: Terminal Aftermath: Vengance of the Slayer",
+    "releaseDate": "2023-06-01T00:00:00.0000000Z",
+    "jvcom": {
+      "searchTitle": "Obscure : <b>The</b> <b>Aftermath</b>",
+      "gauge": "14",
+      "url": "https://www.jeuxvideo.com/jeux/playstation-portable-psp/00033121-obscure-the-aftermath.htm"
+    }
+  },
+  {
+    "title": "The Big Con",
+    "releaseDate": "2021-08-31T12:00:00.0000000Z",
+    "jvcom": {
+      "searchTitle": "<b>The</b> <b>Big</b> <b>Con</b>",
+      "gauge": "--",
+      "url": "https://www.jeuxvideo.com/jeux/jeu-1266070/"
+    }
   }
 ]
