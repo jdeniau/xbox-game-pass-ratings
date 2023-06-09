@@ -8951,5 +8951,41 @@
       "gauge": "--",
       "url": "https://www.jeuxvideo.com/jeux/jeu-1266070/"
     }
+  },
+  {
+    "title": "Amnesia: The Bunker",
+    "releaseDate": "2023-06-06T07:00:00.0000000Z",
+    "jvcom": {
+      "searchTitle": "<b>Amnesia</b> : <b>The</b> <b>Bunker</b>",
+      "gauge": "--",
+      "url": "https://www.jeuxvideo.com/jeux/jeu-1679510/"
+    }
+  },
+  {
+    "title": "Rune Factory 4 Special",
+    "releaseDate": "2021-12-07T00:00:00.0000000Z",
+    "jvcom": {
+      "searchTitle": "<b>Rune</b> <b>Factory</b> <b>4</b> <b>Special</b>",
+      "gauge": "--",
+      "url": "https://www.jeuxvideo.com/jeux/switch/jeu-1002053/"
+    }
+  },
+  {
+    "title": "Stacking",
+    "releaseDate": "2011-02-09T00:00:00.0000000Z",
+    "jvcom": {
+      "searchTitle": "<b>Stacking</b>",
+      "gauge": "16",
+      "url": "https://www.jeuxvideo.com/jeux/jeu-76065/"
+    }
+  },
+  {
+    "title": "Rune Factory 4 Special - Windows Edition",
+    "releaseDate": "2021-12-07T00:00:00.0000000Z",
+    "jvcom": {
+      "searchTitle": "<b>Rune</b> <b>Factory</b> 5",
+      "gauge": "--",
+      "url": "https://www.jeuxvideo.com/jeux/jeu-1002105/"
+    }
   }
 ]
