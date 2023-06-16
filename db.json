@@ -8987,5 +8987,23 @@
       "gauge": "--",
       "url": "https://www.jeuxvideo.com/jeux/jeu-1002105/"
     }
+  },
+  {
+    "title": "Dordogne",
+    "releaseDate": "2023-06-13T16:00:00.0000000Z",
+    "jvcom": {
+      "searchTitle": "<b>Dordogne</b>",
+      "gauge": "--",
+      "url": "https://www.jeuxvideo.com/jeux/jeu-1209108/"
+    }
+  },
+  {
+    "title": "Dordogne (Windows)",
+    "releaseDate": "2023-06-13T16:00:00.0000000Z",
+    "jvcom": {
+      "searchTitle": "<b>Dordogne</b>",
+      "gauge": "--",
+      "url": "https://www.jeuxvideo.com/jeux/jeu-1209108/"
+    }
   }
 ]
