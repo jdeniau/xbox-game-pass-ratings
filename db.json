@@ -9019,5 +9019,33 @@
     "jvcom": {
       "error": "Unable to find The Bookwalker: Thief of Tales on jvcom"
     }
+  },
+  {
+    "title": "Bramble: The Mountain King",
+    "releaseDate": "2023-06-27T14:00:00.0000000Z",
+    "jvcom": {
+      "error": "Unable to find Bramble: The Mountain King on jvcom"
+    }
+  },
+  {
+    "title": "F.I.S.T.: Forged In Shadow Torch",
+    "releaseDate": "2023-06-27T00:00:00.0000000Z",
+    "jvcom": {
+      "error": "Unable to find F.I.S.T.: Forged In Shadow Torch on jvcom"
+    }
+  },
+  {
+    "title": "STORY OF SEASONS: Friends of Mineral Town - Digital Edition",
+    "releaseDate": "2021-10-14T22:00:00.0000000Z",
+    "jvcom": {
+      "error": "Unable to find STORY OF SEASONS: Friends of Mineral Town - Digital Edition on jvcom"
+    }
+  },
+  {
+    "title": "STORY OF SEASONS: Friends of Mineral Town - Windows Edition",
+    "releaseDate": "2022-01-25T00:00:00.0000000Z",
+    "jvcom": {
+      "error": "Unable to find STORY OF SEASONS: Friends of Mineral Town - Windows Edition on jvcom"
+    }
   }
 ]
