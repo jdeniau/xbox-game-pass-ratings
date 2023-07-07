@@ -9047,5 +9047,40 @@
     "jvcom": {
       "error": "Unable to find STORY OF SEASONS: Friends of Mineral Town - Windows Edition on jvcom"
     }
+  },
+  {
+    "title": "Arcade Paradise",
+    "releaseDate": "2022-08-11T06:00:00.0000000Z",
+    "jvcom": {
+      "error": "Unable to find Arcade Paradise on jvcom"
+    }
+  },
+  {
+    "title": "Grand Theft Auto V (Xbox One)",
+    "releaseDate": "2014-11-18T00:00:00.0000000Z",
+    "jvcom": {
+      "error": "Unable to find Grand Theft Auto V (Xbox One) on jvcom"
+    }
+  },
+  {
+    "title": "Grand Theft Auto V (Xbox Series X|S)",
+    "releaseDate": "2022-03-14T23:00:00.0000000Z",
+    "jvcom": {
+      "error": "Unable to find Grand Theft Auto V (Xbox Series X|S) on jvcom"
+    }
+  },
+  {
+    "title": "McPixel 3",
+    "releaseDate": "2022-11-14T17:00:00.0000000Z",
+    "jvcom": {
+      "error": "Unable to find McPixel 3 on jvcom"
+    }
+  },
+  {
+    "title": "Sword and Fairy: Together Forever",
+    "releaseDate": "2022-11-02T23:00:00.0000000Z",
+    "jvcom": {
+      "error": "Unable to find Sword and Fairy: Together Forever on jvcom"
+    }
   }
 ]
