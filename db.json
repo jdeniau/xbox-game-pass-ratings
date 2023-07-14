@@ -9082,5 +9082,33 @@
     "jvcom": {
       "error": "Unable to find Sword and Fairy: Together Forever on jvcom"
     }
+  },
+  {
+    "title": "Common'hood",
+    "releaseDate": "2023-07-11T00:00:00.0000000Z",
+    "jvcom": {
+      "error": "Unable to find Common'hood on jvcom"
+    }
+  },
+  {
+    "title": "Exoprimal",
+    "releaseDate": "2023-07-13T22:00:00.0000000Z",
+    "jvcom": {
+      "error": "Unable to find Exoprimal on jvcom"
+    }
+  },
+  {
+    "title": "NARAKA: BLADEPOINT - Édition Deluxe",
+    "releaseDate": "2022-06-23T03:00:00.0000000Z",
+    "jvcom": {
+      "error": "Unable to find NARAKA: BLADEPOINT - Édition Deluxe on jvcom"
+    }
+  },
+  {
+    "title": "Insurgency: Sandstorm (Windows)",
+    "releaseDate": "2023-07-11T16:00:00.0000000Z",
+    "jvcom": {
+      "error": "Unable to find Insurgency: Sandstorm (Windows) on jvcom"
+    }
   }
 ]
