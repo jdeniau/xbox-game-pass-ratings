@@ -9110,5 +9110,54 @@
     "jvcom": {
       "error": "Unable to find Insurgency: Sandstorm (Windows) on jvcom"
     }
+  },
+  {
+    "title": "Figment 2: Creed Valley",
+    "releaseDate": "2023-03-09T17:00:00.0000000Z",
+    "jvcom": {
+      "error": "Unable to find Figment 2: Creed Valley on jvcom"
+    }
+  },
+  {
+    "title": "Maquette",
+    "releaseDate": "2023-07-19T00:00:00.0000000Z",
+    "jvcom": {
+      "error": "Unable to find Maquette on jvcom"
+    }
+  },
+  {
+    "title": "Techtonica (Aperçu)",
+    "releaseDate": "2023-07-18T17:00:00.0000000Z",
+    "jvcom": {
+      "error": "Unable to find Techtonica (Aperçu) on jvcom"
+    }
+  },
+  {
+    "title": "The Cave",
+    "releaseDate": "2013-01-23T00:00:00.0000000Z",
+    "jvcom": {
+      "error": "Unable to find The Cave on jvcom"
+    }
+  },
+  {
+    "title": "The Wandering Village (Game Preview)",
+    "releaseDate": "2023-06-29T15:44:55.0763867Z",
+    "jvcom": {
+      "error": "Unable to find The Wandering Village (Game Preview) on jvcom"
+    }
+  },
+  {
+    "title": "theHunter: Call of the Wild™",
+    "releaseDate": "2017-10-02T00:00:00.0000000Z",
+    "jvcom": {
+      "error": "Unable to find theHunter: Call of the Wild™ on jvcom"
+    }
+  },
+  {
+    "title": "TOEM",
+    "releaseDate": "2023-07-18T13:00:00.0000000Z",
+    "jvcom": {
+      "error": "Unable to find TOEM on jvcom"
+    }
   }
 ]
