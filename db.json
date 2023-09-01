@@ -9201,5 +9201,26 @@
     "jvcom": {
       "error": "Unable to find The Texas Chain Saw Massacre - PC Edition on jvcom"
     }
+  },
+  {
+    "title": "Call of the Wild: The Angler™",
+    "releaseDate": "2023-08-30T11:00:00.0000000Z",
+    "jvcom": {
+      "error": "Unable to find Call of the Wild: The Angler™ on jvcom"
+    }
+  },
+  {
+    "title": "LAPIN",
+    "releaseDate": "2022-11-17T00:00:00.0000000Z",
+    "jvcom": {
+      "error": "Unable to find LAPIN on jvcom"
+    }
+  },
+  {
+    "title": "Sea of Stars",
+    "releaseDate": "2023-08-29T04:00:00.0000000Z",
+    "jvcom": {
+      "error": "Unable to find Sea of Stars on jvcom"
+    }
   }
 ]
