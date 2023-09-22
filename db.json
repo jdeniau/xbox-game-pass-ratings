@@ -9264,5 +9264,33 @@
     "jvcom": {
       "error": "Unable to find Dune: Spice Wars on jvcom"
     }
+  },
+  {
+    "title": "Lies of P",
+    "releaseDate": "2023-09-18T15:00:00.0000000Z",
+    "jvcom": {
+      "error": "Unable to find Lies of P on jvcom"
+    }
+  },
+  {
+    "title": "Party Animals",
+    "releaseDate": "2023-09-20T12:00:00.0000000Z",
+    "jvcom": {
+      "error": "Unable to find Party Animals on jvcom"
+    }
+  },
+  {
+    "title": "PAYDAY 3",
+    "releaseDate": "2023-09-21T15:00:00.0000000Z",
+    "jvcom": {
+      "error": "Unable to find PAYDAY 3 on jvcom"
+    }
+  },
+  {
+    "title": "You Suck at Parking® Complete Edition",
+    "releaseDate": "2022-09-14T17:00:00.0000000Z",
+    "jvcom": {
+      "error": "Unable to find You Suck at Parking® Complete Edition on jvcom"
+    }
   }
 ]
