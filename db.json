@@ -9292,5 +9292,19 @@
     "jvcom": {
       "error": "Unable to find You Suck at Parking® Complete Edition on jvcom"
     }
+  },
+  {
+    "title": "Cocoon",
+    "releaseDate": "2023-09-29T16:00:00.0000000Z",
+    "jvcom": {
+      "error": "Unable to find Cocoon on jvcom"
+    }
+  },
+  {
+    "title": "Phoenix Wright: Ace Attorney Trilogy",
+    "releaseDate": "2019-04-09T00:00:00.0000000Z",
+    "jvcom": {
+      "error": "Unable to find Phoenix Wright: Ace Attorney Trilogy on jvcom"
+    }
   }
 ]
