@@ -9306,5 +9306,26 @@
     "jvcom": {
       "error": "Unable to find Phoenix Wright: Ace Attorney Trilogy on jvcom"
     }
+  },
+  {
+    "title": "Gotham Knights",
+    "releaseDate": "2022-10-21T00:00:00.0000000Z",
+    "jvcom": {
+      "error": "Unable to find Gotham Knights on jvcom"
+    }
+  },
+  {
+    "title": "The Lamplighters League",
+    "releaseDate": "2023-10-03T16:00:00.0000000Z",
+    "jvcom": {
+      "error": "Unable to find The Lamplighters League on jvcom"
+    }
+  },
+  {
+    "title": "The Lamplighters League - PC Edition",
+    "releaseDate": "2023-10-03T16:00:00.0000000Z",
+    "jvcom": {
+      "error": "Unable to find The Lamplighters League - PC Edition on jvcom"
+    }
   }
 ]
