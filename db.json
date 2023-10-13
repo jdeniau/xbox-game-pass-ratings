@@ -9327,5 +9327,19 @@
     "jvcom": {
       "error": "Unable to find The Lamplighters League - PC Edition on jvcom"
     }
+  },
+  {
+    "title": "Forza Motorsport Standard Edition",
+    "releaseDate": "2023-10-09T22:00:00.0000000Z",
+    "jvcom": {
+      "error": "Unable to find Forza Motorsport Standard Edition on jvcom"
+    }
+  },
+  {
+    "title": "From Space",
+    "releaseDate": "2023-10-12T09:00:00.0000000Z",
+    "jvcom": {
+      "error": "Unable to find From Space on jvcom"
+    }
   }
 ]
