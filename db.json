@@ -9341,5 +9341,19 @@
     "jvcom": {
       "error": "Unable to find From Space on jvcom"
     }
+  },
+  {
+    "title": "F1® Manager 2023",
+    "releaseDate": "2023-07-31T15:00:00.0000000Z",
+    "jvcom": {
+      "error": "Unable to find F1® Manager 2023 on jvcom"
+    }
+  },
+  {
+    "title": "Like a Dragon: Ishin!",
+    "releaseDate": "2023-02-21T15:00:00.0000000Z",
+    "jvcom": {
+      "error": "Unable to find Like a Dragon: Ishin! on jvcom"
+    }
   }
 ]
