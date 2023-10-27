@@ -9355,5 +9355,33 @@
     "jvcom": {
       "error": "Unable to find Like a Dragon: Ishin! on jvcom"
     }
+  },
+  {
+    "title": "Dead Space",
+    "releaseDate": "2023-01-27T16:00:00.0000000Z",
+    "jvcom": {
+      "error": "Unable to find Dead Space on jvcom"
+    }
+  },
+  {
+    "title": "Frog Detective - Le Mystère tout entier",
+    "releaseDate": "2023-10-26T00:00:00.0000000Z",
+    "jvcom": {
+      "error": "Unable to find Frog Detective - Le Mystère tout entier on jvcom"
+    }
+  },
+  {
+    "title": "Mineko's Night Market",
+    "releaseDate": "2023-10-26T00:00:00.0000000Z",
+    "jvcom": {
+      "error": "Unable to find Mineko's Night Market on jvcom"
+    }
+  },
+  {
+    "title": "Cities: Skylines II - PC Edition",
+    "releaseDate": "2023-10-24T16:00:00.0000000Z",
+    "jvcom": {
+      "error": "Unable to find Cities: Skylines II - PC Edition on jvcom"
+    }
   }
 ]
