@@ -9383,5 +9383,33 @@
     "jvcom": {
       "error": "Unable to find Cities: Skylines II - PC Edition on jvcom"
     }
+  },
+  {
+    "title": "Headbangers: Rhythm Royale",
+    "releaseDate": "2023-10-31T10:00:00.0000000Z",
+    "jvcom": {
+      "error": "Unable to find Headbangers: Rhythm Royale on jvcom"
+    }
+  },
+  {
+    "title": "Jusant",
+    "releaseDate": "2023-10-30T23:00:00.0000000Z",
+    "jvcom": {
+      "error": "Unable to find Jusant on jvcom"
+    }
+  },
+  {
+    "title": "Thirsty Suitors",
+    "releaseDate": "2023-11-02T16:00:00.0000000Z",
+    "jvcom": {
+      "error": "Unable to find Thirsty Suitors on jvcom"
+    }
+  },
+  {
+    "title": "Wartales",
+    "releaseDate": "2023-10-31T13:00:00.0000000Z",
+    "jvcom": {
+      "error": "Unable to find Wartales on jvcom"
+    }
   }
 ]
