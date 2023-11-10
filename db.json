@@ -9411,5 +9411,54 @@
     "jvcom": {
       "error": "Unable to find Wartales on jvcom"
     }
+  },
+  {
+    "title": "Dungeons 4",
+    "releaseDate": "2023-11-09T00:00:00.0000000Z",
+    "jvcom": {
+      "error": "Unable to find Dungeons 4 on jvcom"
+    }
+  },
+  {
+    "title": "Football Manager 2024 Console",
+    "releaseDate": "2023-11-06T16:00:00.0000000Z",
+    "jvcom": {
+      "error": "Unable to find Football Manager 2024 Console on jvcom"
+    }
+  },
+  {
+    "title": "Like a Dragon Gaiden: The Man Who Erased His Name",
+    "releaseDate": "2023-11-09T00:00:00.0000000Z",
+    "jvcom": {
+      "error": "Unable to find Like a Dragon Gaiden: The Man Who Erased His Name on jvcom"
+    }
+  },
+  {
+    "title": "Roboquest",
+    "releaseDate": "2023-11-07T09:00:00.0000000Z",
+    "jvcom": {
+      "error": "Unable to find Roboquest on jvcom"
+    }
+  },
+  {
+    "title": "WILD HEARTS™ Édition Standard",
+    "releaseDate": "2023-02-17T00:00:00.0000000Z",
+    "jvcom": {
+      "error": "Unable to find WILD HEARTS™ Édition Standard on jvcom"
+    }
+  },
+  {
+    "title": "Dungeons 4 (Win)",
+    "releaseDate": "2023-11-09T00:00:00.0000000Z",
+    "jvcom": {
+      "error": "Unable to find Dungeons 4 (Win) on jvcom"
+    }
+  },
+  {
+    "title": "Football Manager 2024",
+    "releaseDate": "2023-11-06T16:00:00.0000000Z",
+    "jvcom": {
+      "error": "Unable to find Football Manager 2024 on jvcom"
+    }
   }
 ]
