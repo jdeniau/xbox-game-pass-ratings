@@ -9481,5 +9481,40 @@
     "jvcom": {
       "error": "Unable to find Spirittea on jvcom"
     }
+  },
+  {
+    "title": "Killer Instinct: Anniversary Edition",
+    "releaseDate": "2023-11-28T16:00:00.0000000Z",
+    "jvcom": {
+      "error": "Unable to find Killer Instinct: Anniversary Edition on jvcom"
+    }
+  },
+  {
+    "title": "Remnant II - Standard Edition",
+    "releaseDate": "2023-07-25T16:00:00.0000000Z",
+    "jvcom": {
+      "error": "Unable to find Remnant II - Standard Edition on jvcom"
+    }
+  },
+  {
+    "title": "Rollerdrome",
+    "releaseDate": "2023-11-28T17:00:00.0000000Z",
+    "jvcom": {
+      "error": "Unable to find Rollerdrome on jvcom"
+    }
+  },
+  {
+    "title": "Spirit of the North: Enhanced Edition",
+    "releaseDate": "2023-12-01T00:00:00.0000000Z",
+    "jvcom": {
+      "error": "Unable to find Spirit of the North: Enhanced Edition on jvcom"
+    }
+  },
+  {
+    "title": "SteamWorld Build",
+    "releaseDate": "2023-12-01T14:00:00.0000000Z",
+    "jvcom": {
+      "error": "Unable to find SteamWorld Build on jvcom"
+    }
   }
 ]
