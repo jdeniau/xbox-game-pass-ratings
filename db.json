@@ -9572,5 +9572,26 @@
     "jvcom": {
       "error": "Unable to find Rise of the Tomb Raider on jvcom"
     }
+  },
+  {
+    "title": "Far Cry® 6",
+    "releaseDate": "2021-10-07T00:00:00.0000000Z",
+    "jvcom": {
+      "error": "Unable to find Far Cry® 6 on jvcom"
+    }
+  },
+  {
+    "title": "Tin Hearts",
+    "releaseDate": "2023-05-16T07:00:00.0000000Z",
+    "jvcom": {
+      "error": "Unable to find Tin Hearts on jvcom"
+    }
+  },
+  {
+    "title": "Pillars of Eternity: Definitive Edition",
+    "releaseDate": "2020-03-10T14:00:00.0000000Z",
+    "jvcom": {
+      "error": "Unable to find Pillars of Eternity: Definitive Edition on jvcom"
+    }
   }
 ]
