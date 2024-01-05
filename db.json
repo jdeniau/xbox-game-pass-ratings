@@ -9593,5 +9593,26 @@
     "jvcom": {
       "error": "Unable to find Pillars of Eternity: Definitive Edition on jvcom"
     }
+  },
+  {
+    "title": "Close to the Sun",
+    "releaseDate": "2019-10-28T23:00:00.0000000Z",
+    "jvcom": {
+      "error": "Unable to find Close to the Sun on jvcom"
+    }
+  },
+  {
+    "title": "Hell Let Loose",
+    "releaseDate": "2021-10-05T00:00:00.0000000Z",
+    "jvcom": {
+      "error": "Unable to find Hell Let Loose on jvcom"
+    }
+  },
+  {
+    "title": "Close to the Sun.",
+    "releaseDate": "2024-01-03T00:00:00.0000000Z",
+    "jvcom": {
+      "error": "Unable to find Close to the Sun. on jvcom"
+    }
   }
 ]
