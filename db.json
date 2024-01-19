@@ -9635,5 +9635,47 @@
     "jvcom": {
       "error": "Unable to find Super Mega Baseball™ 4 on jvcom"
     }
+  },
+  {
+    "title": "F1® 23",
+    "releaseDate": "2023-06-15T22:00:00.0000000Z",
+    "jvcom": {
+      "error": "Unable to find F1® 23 on jvcom"
+    }
+  },
+  {
+    "title": "Palworld (Game Preview)",
+    "releaseDate": "2024-01-11T05:00:00.0000000Z",
+    "jvcom": {
+      "error": "Unable to find Palworld (Game Preview) on jvcom"
+    }
+  },
+  {
+    "title": "RESIDENT EVIL 2",
+    "releaseDate": "2019-01-25T00:00:00.0000000Z",
+    "jvcom": {
+      "error": "Unable to find RESIDENT EVIL 2 on jvcom"
+    }
+  },
+  {
+    "title": "Those Who Remain",
+    "releaseDate": "2020-05-28T00:00:00.0000000Z",
+    "jvcom": {
+      "error": "Unable to find Those Who Remain on jvcom"
+    }
+  },
+  {
+    "title": "Turnip Boy Robs a Bank",
+    "releaseDate": "2024-01-18T15:00:00.0000000Z",
+    "jvcom": {
+      "error": "Unable to find Turnip Boy Robs a Bank on jvcom"
+    }
+  },
+  {
+    "title": "Those Who Remain.",
+    "releaseDate": "2024-01-16T00:00:00.0000000Z",
+    "jvcom": {
+      "error": "Unable to find Those Who Remain. on jvcom"
+    }
   }
 ]
