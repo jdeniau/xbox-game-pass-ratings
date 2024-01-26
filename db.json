@@ -9677,5 +9677,19 @@
     "jvcom": {
       "error": "Unable to find Those Who Remain. on jvcom"
     }
+  },
+  {
+    "title": "Go Mecha Ball",
+    "releaseDate": "2024-01-25T16:00:00.0000000Z",
+    "jvcom": {
+      "error": "Unable to find Go Mecha Ball on jvcom"
+    }
+  },
+  {
+    "title": "Phantom Abyss",
+    "releaseDate": "2022-10-20T00:00:00.0000000Z",
+    "jvcom": {
+      "error": "Unable to find Phantom Abyss on jvcom"
+    }
   }
 ]
