@@ -9691,5 +9691,19 @@
     "jvcom": {
       "error": "Unable to find Phantom Abyss on jvcom"
     }
+  },
+  {
+    "title": "Brotato",
+    "releaseDate": "2024-01-30T00:00:00.0000000Z",
+    "jvcom": {
+      "error": "Unable to find Brotato on jvcom"
+    }
+  },
+  {
+    "title": "Persona 3 Reload",
+    "releaseDate": "2024-02-02T00:00:00.0000000Z",
+    "jvcom": {
+      "error": "Unable to find Persona 3 Reload on jvcom"
+    }
   }
 ]
