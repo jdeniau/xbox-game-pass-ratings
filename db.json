@@ -9705,5 +9705,33 @@
     "jvcom": {
       "error": "Unable to find Persona 3 Reload on jvcom"
     }
+  },
+  {
+    "title": "Anuchard",
+    "releaseDate": "2022-04-21T09:00:00.0000000Z",
+    "jvcom": {
+      "error": "Unable to find Anuchard on jvcom"
+    }
+  },
+  {
+    "title": "Madden NFL 24 Xbox One",
+    "releaseDate": "2023-06-02T23:58:15.2041418Z",
+    "jvcom": {
+      "error": "Unable to find Madden NFL 24 Xbox One on jvcom"
+    }
+  },
+  {
+    "title": "Madden NFL 24 Xbox Series X|S",
+    "releaseDate": "2023-06-02T23:58:36.1085231Z",
+    "jvcom": {
+      "error": "Unable to find Madden NFL 24 Xbox Series X|S on jvcom"
+    }
+  },
+  {
+    "title": "Train Sim World® 4: Standard Edition",
+    "releaseDate": "2023-09-26T15:00:00.0000000Z",
+    "jvcom": {
+      "error": "Unable to find Train Sim World® 4: Standard Edition on jvcom"
+    }
   }
 ]
