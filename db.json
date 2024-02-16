@@ -9733,5 +9733,33 @@
     "jvcom": {
       "error": "Unable to find Train Sim World® 4: Standard Edition on jvcom"
     }
+  },
+  {
+    "title": "A Little to the Left",
+    "releaseDate": "2024-02-15T16:00:00.0000000Z",
+    "jvcom": {
+      "error": "Unable to find A Little to the Left on jvcom"
+    }
+  },
+  {
+    "title": "PlateUp!",
+    "releaseDate": "2024-02-15T00:00:00.0000000Z",
+    "jvcom": {
+      "error": "Unable to find PlateUp! on jvcom"
+    }
+  },
+  {
+    "title": "RESIDENT EVIL 3 for Xbox",
+    "releaseDate": "2019-12-12T00:59:40.7409122Z",
+    "jvcom": {
+      "error": "Unable to find RESIDENT EVIL 3 for Xbox on jvcom"
+    }
+  },
+  {
+    "title": "RESIDENT EVIL 3 for Windows",
+    "releaseDate": "2024-02-13T10:00:00.0000000Z",
+    "jvcom": {
+      "error": "Unable to find RESIDENT EVIL 3 for Windows on jvcom"
+    }
   }
 ]
