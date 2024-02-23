@@ -9761,5 +9761,61 @@
     "jvcom": {
       "error": "Unable to find RESIDENT EVIL 3 for Windows on jvcom"
     }
+  },
+  {
+    "title": "Bluey: Le Jeu Vidéo",
+    "releaseDate": "2023-11-16T23:00:00.0000000Z",
+    "jvcom": {
+      "error": "Unable to find Bluey: Le Jeu Vidéo on jvcom"
+    }
+  },
+  {
+    "title": "Dead Island 2",
+    "releaseDate": "2023-04-20T22:00:00.0000000Z",
+    "jvcom": {
+      "error": "Unable to find Dead Island 2 on jvcom"
+    }
+  },
+  {
+    "title": "Inkulinati",
+    "releaseDate": "2024-02-22T17:00:00.0000000Z",
+    "jvcom": {
+      "error": "Unable to find Inkulinati on jvcom"
+    }
+  },
+  {
+    "title": "Return to Grace",
+    "releaseDate": "2024-02-20T00:00:00.0000000Z",
+    "jvcom": {
+      "error": "Unable to find Return to Grace on jvcom"
+    }
+  },
+  {
+    "title": "Tales of Arise (Xbox One)",
+    "releaseDate": "2021-09-10T00:00:00.0000000Z",
+    "jvcom": {
+      "error": "Unable to find Tales of Arise (Xbox One) on jvcom"
+    }
+  },
+  {
+    "title": "Tales of Arise (Xbox Series X|S)",
+    "releaseDate": "2021-09-10T00:00:00.0000000Z",
+    "jvcom": {
+      "error": "Unable to find Tales of Arise (Xbox Series X|S) on jvcom"
+    }
+  },
+  {
+    "title": "Tales of Arise Cross-Gen Bundle",
+    "releaseDate": "2021-09-09T22:00:00.0000000Z",
+    "jvcom": {
+      "error": "Unable to find Tales of Arise Cross-Gen Bundle on jvcom"
+    }
+  },
+  {
+    "title": "Tales of Arise (Windows)",
+    "releaseDate": "2024-02-20T00:00:00.0000000Z",
+    "jvcom": {
+      "error": "Unable to find Tales of Arise (Windows) on jvcom"
+    }
   }
 ]
