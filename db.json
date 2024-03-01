@@ -9817,5 +9817,19 @@
     "jvcom": {
       "error": "Unable to find Tales of Arise (Windows) on jvcom"
     }
+  },
+  {
+    "title": "Indivisible",
+    "releaseDate": "2019-10-07T22:00:00.0000000Z",
+    "jvcom": {
+      "error": "Unable to find Indivisible on jvcom"
+    }
+  },
+  {
+    "title": "Space Engineers",
+    "releaseDate": "2020-04-15T18:00:00.0000000Z",
+    "jvcom": {
+      "error": "Unable to find Space Engineers on jvcom"
+    }
   }
 ]
