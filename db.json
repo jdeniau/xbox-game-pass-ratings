@@ -9831,5 +9831,26 @@
     "jvcom": {
       "error": "Unable to find Space Engineers on jvcom"
     }
+  },
+  {
+    "title": "PAW Patrol World - La Pat'Patrouille",
+    "releaseDate": "2023-09-28T22:00:00.0000000Z",
+    "jvcom": {
+      "error": "Unable to find PAW Patrol World - La Pat'Patrouille on jvcom"
+    }
+  },
+  {
+    "title": "Warhammer 40,000: Boltgun",
+    "releaseDate": "2023-05-23T16:00:00.0000000Z",
+    "jvcom": {
+      "error": "Unable to find Warhammer 40,000: Boltgun on jvcom"
+    }
+  },
+  {
+    "title": "Warhammer 40,000: Boltgun - Windows",
+    "releaseDate": "2024-03-05T08:00:00.0000000Z",
+    "jvcom": {
+      "error": "Unable to find Warhammer 40,000: Boltgun - Windows on jvcom"
+    }
   }
 ]
