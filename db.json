@@ -9852,5 +9852,61 @@
     "jvcom": {
       "error": "Unable to find Warhammer 40,000: Boltgun - Windows on jvcom"
     }
+  },
+  {
+    "title": "Control Ultimate Edition",
+    "releaseDate": "2020-09-10T00:00:00.0000000Z",
+    "jvcom": {
+      "error": "Unable to find Control Ultimate Edition on jvcom"
+    }
+  },
+  {
+    "title": "Control Ultimate Edition - Xbox Series X|S",
+    "releaseDate": "2021-02-02T00:00:00.0000000Z",
+    "jvcom": {
+      "error": "Unable to find Control Ultimate Edition - Xbox Series X|S on jvcom"
+    }
+  },
+  {
+    "title": "NBA 2K24 pour Xbox One",
+    "releaseDate": "2023-09-07T22:00:00.0000000Z",
+    "jvcom": {
+      "error": "Unable to find NBA 2K24 pour Xbox One on jvcom"
+    }
+  },
+  {
+    "title": "NBA 2K24 pour Xbox Series X|S",
+    "releaseDate": "2023-09-07T22:00:00.0000000Z",
+    "jvcom": {
+      "error": "Unable to find NBA 2K24 pour Xbox Series X|S on jvcom"
+    }
+  },
+  {
+    "title": "No More Heroes 3 Xbox",
+    "releaseDate": "2022-10-14T00:00:00.0000000Z",
+    "jvcom": {
+      "error": "Unable to find No More Heroes 3 Xbox on jvcom"
+    }
+  },
+  {
+    "title": "Sea of Thieves: 2024 Edition",
+    "releaseDate": "2018-03-19T23:00:00.0000000Z",
+    "jvcom": {
+      "error": "Unable to find Sea of Thieves: 2024 Edition on jvcom"
+    }
+  },
+  {
+    "title": "SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated",
+    "releaseDate": "2020-06-23T10:00:00.0000000Z",
+    "jvcom": {
+      "error": "Unable to find SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated on jvcom"
+    }
+  },
+  {
+    "title": "No More Heroes 3 Windows",
+    "releaseDate": "2022-10-14T00:00:00.0000000Z",
+    "jvcom": {
+      "error": "Unable to find No More Heroes 3 Windows on jvcom"
+    }
   }
 ]
