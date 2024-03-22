@@ -9908,5 +9908,61 @@
     "jvcom": {
       "error": "Unable to find No More Heroes 3 Windows on jvcom"
     }
+  },
+  {
+    "title": "Evil West",
+    "releaseDate": "2022-11-21T23:00:00.0000000Z",
+    "jvcom": {
+      "error": "Unable to find Evil West on jvcom"
+    }
+  },
+  {
+    "title": "FOR HONOR",
+    "releaseDate": "2024-03-14T13:00:00.0000000Z",
+    "jvcom": {
+      "error": "Unable to find FOR HONOR on jvcom"
+    }
+  },
+  {
+    "title": "Lightyear Frontier (Aperçu)",
+    "releaseDate": "2024-03-19T00:00:00.0000000Z",
+    "jvcom": {
+      "error": "Unable to find Lightyear Frontier (Aperçu) on jvcom"
+    }
+  },
+  {
+    "title": "MLB® The Show™ 24 Xbox One",
+    "releaseDate": "2024-03-19T00:00:00.0000000Z",
+    "jvcom": {
+      "error": "Unable to find MLB® The Show™ 24 Xbox One on jvcom"
+    }
+  },
+  {
+    "title": "MLB® The Show™ 24 Xbox Series X|S",
+    "releaseDate": "2024-03-19T00:00:00.0000000Z",
+    "jvcom": {
+      "error": "Unable to find MLB® The Show™ 24 Xbox Series X|S on jvcom"
+    }
+  },
+  {
+    "title": "The Quarry pour Xbox One",
+    "releaseDate": "2022-06-09T22:00:00.0000000Z",
+    "jvcom": {
+      "error": "Unable to find The Quarry pour Xbox One on jvcom"
+    }
+  },
+  {
+    "title": "The Quarry pour Xbox Series X|S",
+    "releaseDate": "2022-06-09T22:00:00.0000000Z",
+    "jvcom": {
+      "error": "Unable to find The Quarry pour Xbox Series X|S on jvcom"
+    }
+  },
+  {
+    "title": "Evil West (Windows)",
+    "releaseDate": "2024-03-21T00:00:00.0000000Z",
+    "jvcom": {
+      "error": "Unable to find Evil West (Windows) on jvcom"
+    }
   }
 ]
