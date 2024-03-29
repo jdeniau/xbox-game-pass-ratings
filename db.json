@@ -9964,5 +9964,47 @@
     "jvcom": {
       "error": "Unable to find Evil West (Windows) on jvcom"
     }
+  },
+  {
+    "title": "Diablo® IV",
+    "releaseDate": "2023-06-05T00:00:00.0000000Z",
+    "jvcom": {
+      "error": "Unable to find Diablo® IV on jvcom"
+    }
+  },
+  {
+    "title": "HOT WHEELS UNLEASHED™ 2 - Turbocharged",
+    "releaseDate": "2023-10-18T22:00:00.0000000Z",
+    "jvcom": {
+      "error": "Unable to find HOT WHEELS UNLEASHED™ 2 - Turbocharged on jvcom"
+    }
+  },
+  {
+    "title": "Minecraft Preview for Xbox",
+    "releaseDate": "2021-06-30T23:24:06.2826178Z",
+    "jvcom": {
+      "error": "Unable to find Minecraft Preview for Xbox on jvcom"
+    }
+  },
+  {
+    "title": "Open Roads",
+    "releaseDate": "2024-03-28T16:00:00.0000000Z",
+    "jvcom": {
+      "error": "Unable to find Open Roads on jvcom"
+    }
+  },
+  {
+    "title": "The Last Case of Benedict Fox: Definitive Edition",
+    "releaseDate": "2023-04-27T16:00:00.0000000Z",
+    "jvcom": {
+      "error": "Unable to find The Last Case of Benedict Fox: Definitive Edition on jvcom"
+    }
+  },
+  {
+    "title": "Terra Invicta (Game Preview)",
+    "releaseDate": "2024-03-19T13:00:00.0000000Z",
+    "jvcom": {
+      "error": "Unable to find Terra Invicta (Game Preview) on jvcom"
+    }
   }
 ]
