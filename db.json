@@ -10006,5 +10006,40 @@
     "jvcom": {
       "error": "Unable to find Terra Invicta (Game Preview) on jvcom"
     }
+  },
+  {
+    "title": "ARK: Survival Ascended",
+    "releaseDate": "2023-11-21T17:00:00.0000000Z",
+    "jvcom": {
+      "error": "Unable to find ARK: Survival Ascended on jvcom"
+    }
+  },
+  {
+    "title": "EA SPORTS™ PGA TOUR™",
+    "releaseDate": "2023-04-06T22:00:00.0000000Z",
+    "jvcom": {
+      "error": "Unable to find EA SPORTS™ PGA TOUR™ on jvcom"
+    }
+  },
+  {
+    "title": "LEGO® 2K Drive Édition Cross-Gen Standard",
+    "releaseDate": "2023-05-18T22:00:00.0000000Z",
+    "jvcom": {
+      "error": "Unable to find LEGO® 2K Drive Édition Cross-Gen Standard on jvcom"
+    }
+  },
+  {
+    "title": "Lil Gator Game",
+    "releaseDate": "2023-10-10T08:00:00.0000000Z",
+    "jvcom": {
+      "error": "Unable to find Lil Gator Game on jvcom"
+    }
+  },
+  {
+    "title": "Turbo Golf Racing",
+    "releaseDate": "2024-04-04T00:00:00.0000000Z",
+    "jvcom": {
+      "error": "Unable to find Turbo Golf Racing on jvcom"
+    }
   }
 ]
