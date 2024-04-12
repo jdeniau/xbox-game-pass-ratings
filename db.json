@@ -10041,5 +10041,19 @@
     "jvcom": {
       "error": "Unable to find Turbo Golf Racing on jvcom"
     }
+  },
+  {
+    "title": "Botany Manor",
+    "releaseDate": "2024-04-09T14:00:00.0000000Z",
+    "jvcom": {
+      "error": "Unable to find Botany Manor on jvcom"
+    }
+  },
+  {
+    "title": "Shadow of the Tomb Raider Definitive Edition",
+    "releaseDate": "2019-11-05T00:00:00.0000000Z",
+    "jvcom": {
+      "error": "Unable to find Shadow of the Tomb Raider Definitive Edition on jvcom"
+    }
   }
 ]
