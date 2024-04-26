@@ -10083,5 +10083,33 @@
     "jvcom": {
       "error": "Unable to find Orcs Must Die! 3 on jvcom"
     }
+  },
+  {
+    "title": "Another Crab's Treasure",
+    "releaseDate": "2024-04-25T16:00:00.0000000Z",
+    "jvcom": {
+      "error": "Unable to find Another Crab's Treasure on jvcom"
+    }
+  },
+  {
+    "title": "Eiyuden Chronicle: Hundred Heroes",
+    "releaseDate": "2024-04-23T14:00:00.0000000Z",
+    "jvcom": {
+      "error": "Unable to find Eiyuden Chronicle: Hundred Heroes on jvcom"
+    }
+  },
+  {
+    "title": "STAR WARS Jedi: Survivor™",
+    "releaseDate": "2023-04-28T04:00:00.0000000Z",
+    "jvcom": {
+      "error": "Unable to find STAR WARS Jedi: Survivor™ on jvcom"
+    }
+  },
+  {
+    "title": "Manor Lords (Game Preview)",
+    "releaseDate": "2023-10-25T18:00:00.0000000Z",
+    "jvcom": {
+      "error": "Unable to find Manor Lords (Game Preview) on jvcom"
+    }
   }
 ]
