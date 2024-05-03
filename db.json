@@ -10111,5 +10111,33 @@
     "jvcom": {
       "error": "Unable to find Manor Lords (Game Preview) on jvcom"
     }
+  },
+  {
+    "title": "Have a Nice Death",
+    "releaseDate": "2023-12-05T17:00:00.0000000Z",
+    "jvcom": {
+      "error": "Unable to find Have a Nice Death on jvcom"
+    }
+  },
+  {
+    "title": "Remnant II® - Standard Edition",
+    "releaseDate": "2023-07-25T16:00:00.0000000Z",
+    "jvcom": {
+      "error": "Unable to find Remnant II® - Standard Edition on jvcom"
+    }
+  },
+  {
+    "title": "The Rewinder",
+    "releaseDate": "2024-04-29T18:00:00.0000000Z",
+    "jvcom": {
+      "error": "Unable to find The Rewinder on jvcom"
+    }
+  },
+  {
+    "title": "Tomb Raider: Definitive Edition",
+    "releaseDate": "2014-01-31T00:00:00.0000000Z",
+    "jvcom": {
+      "error": "Unable to find Tomb Raider: Definitive Edition on jvcom"
+    }
   }
 ]
