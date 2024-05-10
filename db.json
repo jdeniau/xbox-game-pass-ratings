@@ -10139,5 +10139,19 @@
     "jvcom": {
       "error": "Unable to find Tomb Raider: Definitive Edition on jvcom"
     }
+  },
+  {
+    "title": "Kona II: Brume",
+    "releaseDate": "2023-10-18T13:00:00.0000000Z",
+    "jvcom": {
+      "error": "Unable to find Kona II: Brume on jvcom"
+    }
+  },
+  {
+    "title": "Little Kitty, Big City",
+    "releaseDate": "2024-05-09T16:00:00.0000000Z",
+    "jvcom": {
+      "error": "Unable to find Little Kitty, Big City on jvcom"
+    }
   }
 ]
