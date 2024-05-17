@@ -10153,5 +10153,33 @@
     "jvcom": {
       "error": "Unable to find Little Kitty, Big City on jvcom"
     }
+  },
+  {
+    "title": "Brothers: a Tale of Two Sons",
+    "releaseDate": "2015-08-12T00:00:00.0000000Z",
+    "jvcom": {
+      "error": "Unable to find Brothers: a Tale of Two Sons on jvcom"
+    }
+  },
+  {
+    "title": "Chants of Sennaar",
+    "releaseDate": "2023-09-05T16:00:00.0000000Z",
+    "jvcom": {
+      "error": "Unable to find Chants of Sennaar on jvcom"
+    }
+  },
+  {
+    "title": "Immortals of Aveum™",
+    "releaseDate": "2023-08-22T04:00:00.0000000Z",
+    "jvcom": {
+      "error": "Unable to find Immortals of Aveum™ on jvcom"
+    }
+  },
+  {
+    "title": "Chants of Sennaar (Windows)",
+    "releaseDate": "2024-05-15T00:00:00.0000000Z",
+    "jvcom": {
+      "error": "Unable to find Chants of Sennaar (Windows) on jvcom"
+    }
   }
 ]
