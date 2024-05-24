@@ -10181,5 +10181,26 @@
     "jvcom": {
       "error": "Unable to find Chants of Sennaar (Windows) on jvcom"
     }
+  },
+  {
+    "title": "Galacticare",
+    "releaseDate": "2024-05-23T14:00:00.0000000Z",
+    "jvcom": {
+      "error": "Unable to find Galacticare on jvcom"
+    }
+  },
+  {
+    "title": "Hauntii",
+    "releaseDate": "2024-05-23T14:00:00.0000000Z",
+    "jvcom": {
+      "error": "Unable to find Hauntii on jvcom"
+    }
+  },
+  {
+    "title": "Senua’s Saga: Hellblade II",
+    "releaseDate": "2024-05-21T08:00:00.0000000Z",
+    "jvcom": {
+      "error": "Unable to find Senua’s Saga: Hellblade II on jvcom"
+    }
   }
 ]
