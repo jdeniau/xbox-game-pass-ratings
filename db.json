@@ -10202,5 +10202,26 @@
     "jvcom": {
       "error": "Unable to find Senua’s Saga: Hellblade II on jvcom"
     }
+  },
+  {
+    "title": "Humanity",
+    "releaseDate": "2024-05-30T17:00:00.0000000Z",
+    "jvcom": {
+      "error": "Unable to find Humanity on jvcom"
+    }
+  },
+  {
+    "title": "Lords of the Fallen",
+    "releaseDate": "2023-10-12T22:00:00.0000000Z",
+    "jvcom": {
+      "error": "Unable to find Lords of the Fallen on jvcom"
+    }
+  },
+  {
+    "title": "Moving Out 2",
+    "releaseDate": "2023-08-14T22:00:00.0000000Z",
+    "jvcom": {
+      "error": "Unable to find Moving Out 2 on jvcom"
+    }
   }
 ]
