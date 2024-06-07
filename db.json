@@ -10223,5 +10223,26 @@
     "jvcom": {
       "error": "Unable to find Moving Out 2 on jvcom"
     }
+  },
+  {
+    "title": "OCTOPATH TRAVELER II",
+    "releaseDate": "2024-06-06T00:00:00.0000000Z",
+    "jvcom": {
+      "error": "Unable to find OCTOPATH TRAVELER II on jvcom"
+    }
+  },
+  {
+    "title": "Rolling Hills: Make Sushi, Make Friends",
+    "releaseDate": "2024-06-04T16:00:00.0000000Z",
+    "jvcom": {
+      "error": "Unable to find Rolling Hills: Make Sushi, Make Friends on jvcom"
+    }
+  },
+  {
+    "title": "Firework (Windows)",
+    "releaseDate": "2024-06-04T00:00:00.0000000Z",
+    "jvcom": {
+      "error": "Unable to find Firework (Windows) on jvcom"
+    }
   }
 ]
