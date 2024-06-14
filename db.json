@@ -10244,5 +10244,47 @@
     "jvcom": {
       "error": "Unable to find Firework (Windows) on jvcom"
     }
+  },
+  {
+    "title": "Isonzo",
+    "releaseDate": "2022-09-13T11:00:00.0000000Z",
+    "jvcom": {
+      "error": "Unable to find Isonzo on jvcom"
+    }
+  },
+  {
+    "title": "The Callisto Protocol™ for Xbox One",
+    "releaseDate": "2022-12-03T05:00:00.0000000Z",
+    "jvcom": {
+      "error": "Unable to find The Callisto Protocol™ for Xbox One on jvcom"
+    }
+  },
+  {
+    "title": "The Callisto Protocol™ for Xbox Series X|S",
+    "releaseDate": "2022-12-03T05:00:00.0000000Z",
+    "jvcom": {
+      "error": "Unable to find The Callisto Protocol™ for Xbox Series X|S on jvcom"
+    }
+  },
+  {
+    "title": "Depersonalization",
+    "releaseDate": "2024-06-12T00:00:00.0000000Z",
+    "jvcom": {
+      "error": "Unable to find Depersonalization on jvcom"
+    }
+  },
+  {
+    "title": "Fallout 76 (PC)",
+    "releaseDate": "2020-07-09T14:00:00.0000000Z",
+    "jvcom": {
+      "error": "Unable to find Fallout 76 (PC) on jvcom"
+    }
+  },
+  {
+    "title": "Isonzo (Windows)",
+    "releaseDate": "2024-06-13T00:00:00.0000000Z",
+    "jvcom": {
+      "error": "Unable to find Isonzo (Windows) on jvcom"
+    }
   }
 ]
