@@ -10286,5 +10286,33 @@
     "jvcom": {
       "error": "Unable to find Isonzo (Windows) on jvcom"
     }
+  },
+  {
+    "title": "My Time at Sandrock",
+    "releaseDate": "2023-11-02T14:00:00.0000000Z",
+    "jvcom": {
+      "error": "Unable to find My Time at Sandrock on jvcom"
+    }
+  },
+  {
+    "title": "Sandrock Online",
+    "releaseDate": "2024-06-15T20:17:10.0897756Z",
+    "jvcom": {
+      "error": "Unable to find Sandrock Online on jvcom"
+    }
+  },
+  {
+    "title": "Still Wakes the Deep",
+    "releaseDate": "2024-06-18T09:00:00.0000000Z",
+    "jvcom": {
+      "error": "Unable to find Still Wakes the Deep on jvcom"
+    }
+  },
+  {
+    "title": "Keplerth",
+    "releaseDate": "2024-06-20T00:00:00.0000000Z",
+    "jvcom": {
+      "error": "Unable to find Keplerth on jvcom"
+    }
   }
 ]
