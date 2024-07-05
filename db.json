@@ -10349,5 +10349,19 @@
     "jvcom": {
       "error": "Unable to find SteamWorld Dig 2 on jvcom"
     }
+  },
+  {
+    "title": "Journey To The Savage Planet: Employee Of The Month",
+    "releaseDate": "2023-02-14T17:00:00.0000000Z",
+    "jvcom": {
+      "error": "Unable to find Journey To The Savage Planet: Employee Of The Month on jvcom"
+    }
+  },
+  {
+    "title": "Nickelodeon All-Star Brawl 2",
+    "releaseDate": "2023-11-14T00:00:00.0000000Z",
+    "jvcom": {
+      "error": "Unable to find Nickelodeon All-Star Brawl 2 on jvcom"
+    }
   }
 ]
