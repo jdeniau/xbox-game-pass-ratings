@@ -10363,5 +10363,40 @@
     "jvcom": {
       "error": "Unable to find Nickelodeon All-Star Brawl 2 on jvcom"
     }
+  },
+  {
+    "title": "Cricket 24",
+    "releaseDate": "2023-10-05T00:00:00.0000000Z",
+    "jvcom": {
+      "error": "Unable to find Cricket 24 on jvcom"
+    }
+  },
+  {
+    "title": "Neon White",
+    "releaseDate": "2024-07-11T16:00:00.0000000Z",
+    "jvcom": {
+      "error": "Unable to find Neon White on jvcom"
+    }
+  },
+  {
+    "title": "Tchia",
+    "releaseDate": "2024-07-11T00:00:00.0000000Z",
+    "jvcom": {
+      "error": "Unable to find Tchia on jvcom"
+    }
+  },
+  {
+    "title": "The Case of the Golden Idol",
+    "releaseDate": "2024-07-09T00:00:00.0000000Z",
+    "jvcom": {
+      "error": "Unable to find The Case of the Golden Idol on jvcom"
+    }
+  },
+  {
+    "title": "Cricket 24: The Official Game Of The Ashes",
+    "releaseDate": "2024-06-26T00:00:00.0000000Z",
+    "jvcom": {
+      "error": "Unable to find Cricket 24: The Official Game Of The Ashes on jvcom"
+    }
   }
 ]
