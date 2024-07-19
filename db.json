@@ -10398,5 +10398,40 @@
     "jvcom": {
       "error": "Unable to find Cricket 24: The Official Game Of The Ashes on jvcom"
     }
+  },
+  {
+    "title": "Dungeons Of Hinterberg",
+    "releaseDate": "2024-07-18T09:00:00.0000000Z",
+    "jvcom": {
+      "error": "Unable to find Dungeons Of Hinterberg on jvcom"
+    }
+  },
+  {
+    "title": "Flintlock: The Siege of Dawn",
+    "releaseDate": "2024-07-18T07:00:00.0000000Z",
+    "jvcom": {
+      "error": "Unable to find Flintlock: The Siege of Dawn on jvcom"
+    }
+  },
+  {
+    "title": "Flock",
+    "releaseDate": "2024-07-16T16:00:00.0000000Z",
+    "jvcom": {
+      "error": "Unable to find Flock on jvcom"
+    }
+  },
+  {
+    "title": "Kunitsu-Gami: Path of the Goddess",
+    "releaseDate": "2024-07-18T22:00:00.0000000Z",
+    "jvcom": {
+      "error": "Unable to find Kunitsu-Gami: Path of the Goddess on jvcom"
+    }
+  },
+  {
+    "title": "Magical Delicacy",
+    "releaseDate": "2024-07-16T14:00:00.0000000Z",
+    "jvcom": {
+      "error": "Unable to find Magical Delicacy on jvcom"
+    }
   }
 ]
