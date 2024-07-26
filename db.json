@@ -10433,5 +10433,26 @@
     "jvcom": {
       "error": "Unable to find Magical Delicacy on jvcom"
     }
+  },
+  {
+    "title": "Call of Duty®: Modern Warfare® III - Pack Cross-Gen",
+    "releaseDate": "2023-11-10T00:00:00.0000000Z",
+    "jvcom": {
+      "error": "Unable to find Call of Duty®: Modern Warfare® III - Pack Cross-Gen on jvcom"
+    }
+  },
+  {
+    "title": "VALORANT",
+    "releaseDate": "2024-07-26T16:00:00.0000000Z",
+    "jvcom": {
+      "error": "Unable to find VALORANT on jvcom"
+    }
+  },
+  {
+    "title": "Call of Duty®: Modern Warfare® III - Édition Standard",
+    "releaseDate": "2024-07-24T16:00:00.0000000Z",
+    "jvcom": {
+      "error": "Unable to find Call of Duty®: Modern Warfare® III - Édition Standard on jvcom"
+    }
   }
 ]
