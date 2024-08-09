@@ -10454,5 +10454,26 @@
     "jvcom": {
       "error": "Unable to find Call of Duty®: Modern Warfare® III - Édition Standard on jvcom"
     }
+  },
+  {
+    "title": "Crash Bandicoot™ N. Sane Trilogy",
+    "releaseDate": "2018-06-29T00:00:00.0000000Z",
+    "jvcom": {
+      "error": "Unable to find Crash Bandicoot™ N. Sane Trilogy on jvcom"
+    }
+  },
+  {
+    "title": "Creatures of Ava",
+    "releaseDate": "2024-08-07T14:00:00.0000000Z",
+    "jvcom": {
+      "error": "Unable to find Creatures of Ava on jvcom"
+    }
+  },
+  {
+    "title": "DOOM + DOOM II",
+    "releaseDate": "2024-08-08T19:00:00.0000000Z",
+    "jvcom": {
+      "error": "Unable to find DOOM + DOOM II on jvcom"
+    }
   }
 ]
