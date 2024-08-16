@@ -10475,5 +10475,12 @@
     "jvcom": {
       "error": "Unable to find DOOM + DOOM II on jvcom"
     }
+  },
+  {
+    "title": "Mafia: Definitive Edition",
+    "releaseDate": "2020-09-24T23:00:00.0000000Z",
+    "jvcom": {
+      "error": "Unable to find Mafia: Definitive Edition on jvcom"
+    }
   }
 ]
