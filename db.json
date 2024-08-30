@@ -10496,5 +10496,19 @@
     "jvcom": {
       "error": "Unable to find Atlas Fallen: Reign of Sand (Windows) on jvcom"
     }
+  },
+  {
+    "title": "Core Keeper (Xbox Series X|S)",
+    "releaseDate": "2024-08-27T09:00:00.0000000Z",
+    "jvcom": {
+      "error": "Unable to find Core Keeper (Xbox Series X|S) on jvcom"
+    }
+  },
+  {
+    "title": "Core Keeper",
+    "releaseDate": "2024-08-27T09:00:00.0000000Z",
+    "jvcom": {
+      "error": "Unable to find Core Keeper on jvcom"
+    }
   }
 ]
