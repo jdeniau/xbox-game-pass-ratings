@@ -10510,5 +10510,33 @@
     "jvcom": {
       "error": "Unable to find Core Keeper on jvcom"
     }
+  },
+  {
+    "title": "Age of Mythology: Retold Standard Edition",
+    "releaseDate": "2024-09-04T17:00:00.0000000Z",
+    "jvcom": {
+      "error": "Unable to find Age of Mythology: Retold Standard Edition on jvcom"
+    }
+  },
+  {
+    "title": "Expeditions: A MudRunner Game",
+    "releaseDate": "2024-03-05T10:00:00.0000000Z",
+    "jvcom": {
+      "error": "Unable to find Expeditions: A MudRunner Game on jvcom"
+    }
+  },
+  {
+    "title": "Star Trucker",
+    "releaseDate": "2024-09-03T14:00:00.0000000Z",
+    "jvcom": {
+      "error": "Unable to find Star Trucker on jvcom"
+    }
+  },
+  {
+    "title": "Expeditions: A MudRunner Game (Windows)",
+    "releaseDate": "2024-09-05T13:00:00.0000000Z",
+    "jvcom": {
+      "error": "Unable to find Expeditions: A MudRunner Game (Windows) on jvcom"
+    }
   }
 ]
