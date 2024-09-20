@@ -10545,5 +10545,40 @@
     "jvcom": {
       "error": "Unable to find Riders Republic™ on jvcom"
     }
+  },
+  {
+    "title": "Diablo® IV - Essai Gratuit",
+    "releaseDate": "2023-06-05T00:00:00.0000000Z",
+    "jvcom": {
+      "error": "Unable to find Diablo® IV - Essai Gratuit on jvcom"
+    }
+  },
+  {
+    "title": "Overwatch® 2",
+    "releaseDate": "2016-05-24T00:00:00.0000000Z",
+    "jvcom": {
+      "error": "Unable to find Overwatch® 2 on jvcom"
+    }
+  },
+  {
+    "title": "Train Sim World® 5: Standard Edition",
+    "releaseDate": "2024-09-17T15:00:00.0000000Z",
+    "jvcom": {
+      "error": "Unable to find Train Sim World® 5: Standard Edition on jvcom"
+    }
+  },
+  {
+    "title": "Wargroove 2",
+    "releaseDate": "2024-09-19T10:00:00.0000000Z",
+    "jvcom": {
+      "error": "Unable to find Wargroove 2 on jvcom"
+    }
+  },
+  {
+    "title": "Frostpunk 2",
+    "releaseDate": "2024-09-20T17:00:00.0000000Z",
+    "jvcom": {
+      "error": "Unable to find Frostpunk 2 on jvcom"
+    }
   }
 ]
