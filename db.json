@@ -10580,5 +10580,40 @@
     "jvcom": {
       "error": "Unable to find Frostpunk 2 on jvcom"
     }
+  },
+  {
+    "title": "All You Need is Help",
+    "releaseDate": "2024-09-26T11:00:00.0000000Z",
+    "jvcom": {
+      "error": "Unable to find All You Need is Help on jvcom"
+    }
+  },
+  {
+    "title": "Legend of Mana",
+    "releaseDate": "2024-09-26T11:00:00.0000000Z",
+    "jvcom": {
+      "error": "Unable to find Legend of Mana on jvcom"
+    }
+  },
+  {
+    "title": "TRIALS of MANA",
+    "releaseDate": "2024-09-26T11:00:00.0000000Z",
+    "jvcom": {
+      "error": "Unable to find TRIALS of MANA on jvcom"
+    }
+  },
+  {
+    "title": "We Love Katamari REROLL+ Royal Reverie",
+    "releaseDate": "2023-06-01T22:00:00.0000000Z",
+    "jvcom": {
+      "error": "Unable to find We Love Katamari REROLL+ Royal Reverie on jvcom"
+    }
+  },
+  {
+    "title": "Ara: History Untold Standard Edition",
+    "releaseDate": "2024-09-24T15:00:00.0000000Z",
+    "jvcom": {
+      "error": "Unable to find Ara: History Untold Standard Edition on jvcom"
+    }
   }
 ]
