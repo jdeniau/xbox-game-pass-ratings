@@ -10636,5 +10636,19 @@
     "jvcom": {
       "error": "Unable to find Mad Streets on jvcom"
     }
+  },
+  {
+    "title": "MechWarrior 5: Clans",
+    "releaseDate": "2024-10-17T00:00:00.0000000Z",
+    "jvcom": {
+      "error": "Unable to find MechWarrior 5: Clans on jvcom"
+    }
+  },
+  {
+    "title": "South Park™ : L’annale du destin™",
+    "releaseDate": "2017-10-17T00:00:00.0000000Z",
+    "jvcom": {
+      "error": "Unable to find South Park™ : L’annale du destin™ on jvcom"
+    }
   }
 ]
