@@ -10650,5 +10650,19 @@
     "jvcom": {
       "error": "Unable to find South Park™ : L’annale du destin™ on jvcom"
     }
+  },
+  {
+    "title": "Call of Duty®: Black Ops 6 - Pack Cross-Gen",
+    "releaseDate": "2024-10-24T22:00:00.0000000Z",
+    "jvcom": {
+      "error": "Unable to find Call of Duty®: Black Ops 6 - Pack Cross-Gen on jvcom"
+    }
+  },
+  {
+    "title": "Call of Duty®: Black Ops 6 - Édition Standard (Windows)",
+    "releaseDate": "2024-10-24T22:00:00.0000000Z",
+    "jvcom": {
+      "error": "Unable to find Call of Duty®: Black Ops 6 - Édition Standard (Windows) on jvcom"
+    }
   }
 ]
