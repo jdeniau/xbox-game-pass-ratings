@@ -10664,5 +10664,26 @@
     "jvcom": {
       "error": "Unable to find Call of Duty®: Black Ops 6 - Édition Standard (Windows) on jvcom"
     }
+  },
+  {
+    "title": "Ashen",
+    "releaseDate": "2018-12-07T00:00:00.0000000Z",
+    "jvcom": {
+      "error": "Unable to find Ashen on jvcom"
+    }
+  },
+  {
+    "title": "Goat Simulator 3: Xbox One Edition",
+    "releaseDate": "2024-10-24T13:00:00.0000000Z",
+    "jvcom": {
+      "error": "Unable to find Goat Simulator 3: Xbox One Edition on jvcom"
+    }
+  },
+  {
+    "title": "Dead Island 2 (Windows)",
+    "releaseDate": "2024-10-31T16:00:00.0000000Z",
+    "jvcom": {
+      "error": "Unable to find Dead Island 2 (Windows) on jvcom"
+    }
   }
 ]
