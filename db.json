@@ -10685,5 +10685,26 @@
     "jvcom": {
       "error": "Unable to find Dead Island 2 (Windows) on jvcom"
     }
+  },
+  {
+    "title": "Goat Simulator: Remastered",
+    "releaseDate": "2024-11-07T00:00:00.0000000Z",
+    "jvcom": {
+      "error": "Unable to find Goat Simulator: Remastered on jvcom"
+    }
+  },
+  {
+    "title": "Metal Slug Tactics",
+    "releaseDate": "2024-11-05T14:00:00.0000000Z",
+    "jvcom": {
+      "error": "Unable to find Metal Slug Tactics on jvcom"
+    }
+  },
+  {
+    "title": "Goat Simulator: Remastered (Windows Edition)",
+    "releaseDate": "2024-11-07T00:00:00.0000000Z",
+    "jvcom": {
+      "error": "Unable to find Goat Simulator: Remastered (Windows Edition) on jvcom"
+    }
   }
 ]
