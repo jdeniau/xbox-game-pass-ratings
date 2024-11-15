@@ -10706,5 +10706,12 @@
     "jvcom": {
       "error": "Unable to find Goat Simulator: Remastered (Windows Edition) on jvcom"
     }
+  },
+  {
+    "title": "Spyro™ Reignited Trilogy",
+    "releaseDate": "2018-11-13T00:00:00.0000000Z",
+    "jvcom": {
+      "error": "Unable to find Spyro™ Reignited Trilogy on jvcom"
+    }
   }
 ]
