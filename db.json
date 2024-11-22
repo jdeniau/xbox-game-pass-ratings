@@ -10713,5 +10713,33 @@
     "jvcom": {
       "error": "Unable to find Spyro™ Reignited Trilogy on jvcom"
     }
+  },
+  {
+    "title": "Genshin Impact",
+    "releaseDate": "2024-11-20T03:00:00.0000000Z",
+    "jvcom": {
+      "error": "Unable to find Genshin Impact on jvcom"
+    }
+  },
+  {
+    "title": "Microsoft Flight Simulator 2024 - Standard Edition",
+    "releaseDate": "2024-11-19T16:00:00.0000000Z",
+    "jvcom": {
+      "error": "Unable to find Microsoft Flight Simulator 2024 - Standard Edition on jvcom"
+    }
+  },
+  {
+    "title": "S.T.A.L.K.E.R. 2: Heart of Chornobyl - Xbox Edition",
+    "releaseDate": "2024-11-20T16:00:00.0000000Z",
+    "jvcom": {
+      "error": "Unable to find S.T.A.L.K.E.R. 2: Heart of Chornobyl - Xbox Edition on jvcom"
+    }
+  },
+  {
+    "title": "S.T.A.L.K.E.R. 2: Heart of Chornobyl - Windows Edition",
+    "releaseDate": "2024-11-20T00:00:00.0000000Z",
+    "jvcom": {
+      "error": "Unable to find S.T.A.L.K.E.R. 2: Heart of Chornobyl - Windows Edition on jvcom"
+    }
   }
 ]
