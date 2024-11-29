@@ -10741,5 +10741,26 @@
     "jvcom": {
       "error": "Unable to find S.T.A.L.K.E.R. 2: Heart of Chornobyl - Windows Edition on jvcom"
     }
+  },
+  {
+    "title": "Aliens: Dark Descent",
+    "releaseDate": "2023-06-20T00:00:00.0000000Z",
+    "jvcom": {
+      "error": "Unable to find Aliens: Dark Descent on jvcom"
+    }
+  },
+  {
+    "title": "Nine Sols",
+    "releaseDate": "2024-11-26T08:00:00.0000000Z",
+    "jvcom": {
+      "error": "Unable to find Nine Sols on jvcom"
+    }
+  },
+  {
+    "title": "Aliens: Dark Descent (Windows)",
+    "releaseDate": "2024-11-27T00:00:00.0000000Z",
+    "jvcom": {
+      "error": "Unable to find Aliens: Dark Descent (Windows) on jvcom"
+    }
   }
 ]
