@@ -10762,5 +10762,26 @@
     "jvcom": {
       "error": "Unable to find Aliens: Dark Descent (Windows) on jvcom"
     }
+  },
+  {
+    "title": "Crash™ Team Racing Nitro-Fueled",
+    "releaseDate": "2019-06-21T00:00:00.0000000Z",
+    "jvcom": {
+      "error": "Unable to find Crash™ Team Racing Nitro-Fueled on jvcom"
+    }
+  },
+  {
+    "title": "EA SPORTS™ WRC",
+    "releaseDate": "2023-11-03T04:00:00.0000000Z",
+    "jvcom": {
+      "error": "Unable to find EA SPORTS™ WRC on jvcom"
+    }
+  },
+  {
+    "title": "Overthrown (Aperçu)",
+    "releaseDate": "2024-12-05T17:00:00.0000000Z",
+    "jvcom": {
+      "error": "Unable to find Overthrown (Aperçu) on jvcom"
+    }
   }
 ]
