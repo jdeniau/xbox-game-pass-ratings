@@ -10783,5 +10783,33 @@
     "jvcom": {
       "error": "Unable to find Overthrown (Aperçu) on jvcom"
     }
+  },
+  {
+    "title": "For The King II",
+    "releaseDate": "2024-12-12T18:00:00.0000000Z",
+    "jvcom": {
+      "error": "Unexpected token < in JSON at position 0"
+    }
+  },
+  {
+    "title": "Hunt: Showdown 1896",
+    "releaseDate": "2024-08-15T07:00:00.0000000Z",
+    "jvcom": {
+      "error": "Unexpected token < in JSON at position 0"
+    }
+  },
+  {
+    "title": "Indiana Jones et le Cercle Ancien",
+    "releaseDate": "2024-12-09T00:00:00.0000000Z",
+    "jvcom": {
+      "error": "Unexpected token < in JSON at position 0"
+    }
+  },
+  {
+    "title": "Wildfrost",
+    "releaseDate": "2024-12-10T15:00:00.0000000Z",
+    "jvcom": {
+      "error": "Unexpected token < in JSON at position 0"
+    }
   }
 ]
