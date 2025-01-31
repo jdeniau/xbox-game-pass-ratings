@@ -10839,5 +10839,54 @@
     "jvcom": {
       "error": "Unexpected token < in JSON at position 0"
     }
+  },
+  {
+    "title": "Citizen Sleeper 2: Starward Vector",
+    "releaseDate": "2025-01-31T16:00:00.0000000Z",
+    "jvcom": {
+      "error": "Unexpected token < in JSON at position 0"
+    }
+  },
+  {
+    "title": "Eternal Strands",
+    "releaseDate": "2025-01-28T16:00:00.0000000Z",
+    "jvcom": {
+      "error": "Unexpected token < in JSON at position 0"
+    }
+  },
+  {
+    "title": "Orcs Must Die! Deathtrap",
+    "releaseDate": "2025-01-28T12:00:00.0000000Z",
+    "jvcom": {
+      "error": "Unexpected token < in JSON at position 0"
+    }
+  },
+  {
+    "title": "Shady Part of Me",
+    "releaseDate": "2020-12-10T23:00:00.0000000Z",
+    "jvcom": {
+      "error": "Unexpected token < in JSON at position 0"
+    }
+  },
+  {
+    "title": "Sniper Elite: Resistance",
+    "releaseDate": "2025-01-30T14:00:00.0000000Z",
+    "jvcom": {
+      "error": "Unexpected token < in JSON at position 0"
+    }
+  },
+  {
+    "title": "STAR WARS Jedi: Survivor™ Xbox One",
+    "releaseDate": "2024-09-17T16:00:00.0000000Z",
+    "jvcom": {
+      "error": "Unexpected token < in JSON at position 0"
+    }
+  },
+  {
+    "title": "Shady Part of Me (Windows)",
+    "releaseDate": "2025-01-29T00:00:00.0000000Z",
+    "jvcom": {
+      "error": "Unexpected token < in JSON at position 0"
+    }
   }
 ]
