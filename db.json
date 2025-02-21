@@ -10923,5 +10923,26 @@
     "jvcom": {
       "error": "Unexpected token < in JSON at position 0"
     }
+  },
+  {
+    "title": "Avowed Standard Edition",
+    "releaseDate": "2025-02-18T18:00:00.0000000Z",
+    "jvcom": {
+      "error": "Unexpected token < in JSON at position 0"
+    }
+  },
+  {
+    "title": "F1® 24",
+    "releaseDate": "2024-05-31T15:00:00.0000000Z",
+    "jvcom": {
+      "error": "Unexpected token < in JSON at position 0"
+    }
+  },
+  {
+    "title": "Warhammer 40,000: Rogue Trader",
+    "releaseDate": "2023-12-07T16:00:00.0000000Z",
+    "jvcom": {
+      "error": "Unexpected token < in JSON at position 0"
+    }
   }
 ]
