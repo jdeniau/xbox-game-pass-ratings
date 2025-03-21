@@ -10979,5 +10979,26 @@
     "jvcom": {
       "error": "Unexpected token < in JSON at position 0"
     }
+  },
+  {
+    "title": "33 Immortals (Aperçu)",
+    "releaseDate": "2023-10-11T21:29:18.5807416Z",
+    "jvcom": {
+      "error": "Unexpected token < in JSON at position 0"
+    }
+  },
+  {
+    "title": "Mythwrecked: Ambrosia Island",
+    "releaseDate": "2024-12-05T09:00:00.0000000Z",
+    "jvcom": {
+      "error": "Unexpected token < in JSON at position 0"
+    }
+  },
+  {
+    "title": "Sea of Thieves: 2025 Edition",
+    "releaseDate": "2018-03-19T23:00:00.0000000Z",
+    "jvcom": {
+      "error": "Unexpected token < in JSON at position 0"
+    }
   }
 ]
