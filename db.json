@@ -11000,5 +11000,47 @@
     "jvcom": {
       "error": "Unexpected token < in JSON at position 0"
     }
+  },
+  {
+    "title": "Atomfall",
+    "releaseDate": "2025-03-27T14:00:00.0000000Z",
+    "jvcom": {
+      "error": "Unexpected token < in JSON at position 0"
+    }
+  },
+  {
+    "title": "Blizzard® Arcade Collection",
+    "releaseDate": "2021-02-20T00:00:00.0000000Z",
+    "jvcom": {
+      "error": "Unexpected token < in JSON at position 0"
+    }
+  },
+  {
+    "title": "EA SPORTS™ College Football 25",
+    "releaseDate": "2024-07-19T04:00:00.0000000Z",
+    "jvcom": {
+      "error": "Unexpected token < in JSON at position 0"
+    }
+  },
+  {
+    "title": "NARAKA: BLADEPOINT",
+    "releaseDate": "2023-07-13T21:00:00.0000000Z",
+    "jvcom": {
+      "error": "Unexpected token < in JSON at position 0"
+    }
+  },
+  {
+    "title": "SMITE 2",
+    "releaseDate": "2024-01-09T18:43:47.1184397Z",
+    "jvcom": {
+      "error": "Unexpected token < in JSON at position 0"
+    }
+  },
+  {
+    "title": "THE FINALS",
+    "releaseDate": "2023-12-08T04:00:00.0000000Z",
+    "jvcom": {
+      "error": "Unexpected token < in JSON at position 0"
+    }
   }
 ]
