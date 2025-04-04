@@ -11042,5 +11042,19 @@
     "jvcom": {
       "error": "Unexpected token < in JSON at position 0"
     }
+  },
+  {
+    "title": "Asphalt Legends Unite",
+    "releaseDate": "2018-07-18T13:16:11.8451051Z",
+    "jvcom": {
+      "error": "Unexpected token < in JSON at position 0"
+    }
+  },
+  {
+    "title": "Borderlands 3 : édition Ultimate",
+    "releaseDate": "2020-11-09T13:00:00.0000000Z",
+    "jvcom": {
+      "error": "Unexpected token < in JSON at position 0"
+    }
   }
 ]
