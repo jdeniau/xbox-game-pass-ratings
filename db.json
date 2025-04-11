@@ -11056,5 +11056,54 @@
     "jvcom": {
       "error": "Unexpected token < in JSON at position 0"
     }
+  },
+  {
+    "title": "Blue Prince",
+    "releaseDate": "2025-04-10T14:00:00.0000000Z",
+    "jvcom": {
+      "error": "Unexpected token < in JSON at position 0"
+    }
+  },
+  {
+    "title": "Call of Duty®: Warzone™",
+    "releaseDate": "2022-11-14T18:00:00.0000000Z",
+    "jvcom": {
+      "error": "Unexpected token < in JSON at position 0"
+    }
+  },
+  {
+    "title": "Commandos: Origins",
+    "releaseDate": "2025-04-09T14:00:00.0000000Z",
+    "jvcom": {
+      "error": "Unexpected token < in JSON at position 0"
+    }
+  },
+  {
+    "title": "Diablo III: Reaper of Souls – Ultimate Evil Edition",
+    "releaseDate": "2014-08-19T00:00:00.0000000Z",
+    "jvcom": {
+      "error": "Unexpected token < in JSON at position 0"
+    }
+  },
+  {
+    "title": "NHL 25 Xbox Series X|S",
+    "releaseDate": "2024-08-20T03:23:23.1472152Z",
+    "jvcom": {
+      "error": "Unexpected token < in JSON at position 0"
+    }
+  },
+  {
+    "title": "South of Midnight",
+    "releaseDate": "2025-04-08T16:00:00.0000000Z",
+    "jvcom": {
+      "error": "Unexpected token < in JSON at position 0"
+    }
+  },
+  {
+    "title": "Commandos: Origins (Win)",
+    "releaseDate": "2025-04-09T14:00:00.0000000Z",
+    "jvcom": {
+      "error": "Unexpected token < in JSON at position 0"
+    }
   }
 ]
