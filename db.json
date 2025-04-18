@@ -11105,5 +11105,47 @@
     "jvcom": {
       "error": "Unexpected token < in JSON at position 0"
     }
+  },
+  {
+    "title": "Bob L'éponge™: Patrick l'Étoile de Mer - Le Jeu",
+    "releaseDate": "2024-10-03T22:00:00.0000000Z",
+    "jvcom": {
+      "error": "Unexpected token < in JSON at position 0"
+    }
+  },
+  {
+    "title": "Crime Scene Cleaner",
+    "releaseDate": "2025-04-17T07:00:00.0000000Z",
+    "jvcom": {
+      "error": "Unexpected token < in JSON at position 0"
+    }
+  },
+  {
+    "title": "Tempopo",
+    "releaseDate": "2025-04-17T15:00:00.0000000Z",
+    "jvcom": {
+      "error": "Unexpected token < in JSON at position 0"
+    }
+  },
+  {
+    "title": "Grand Theft Auto V Version améliorée (PC)",
+    "releaseDate": "2025-04-07T22:19:33.5747078Z",
+    "jvcom": {
+      "error": "Unexpected token < in JSON at position 0"
+    }
+  },
+  {
+    "title": "Grand Theft Auto V Version originale (PC)",
+    "releaseDate": "2025-04-07T21:39:12.9456052Z",
+    "jvcom": {
+      "error": "Unexpected token < in JSON at position 0"
+    }
+  },
+  {
+    "title": "Hunt: Showdown 1896 (Windows)",
+    "releaseDate": "2025-04-15T08:00:00.0000000Z",
+    "jvcom": {
+      "error": "Unexpected token < in JSON at position 0"
+    }
   }
 ]
