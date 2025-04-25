@@ -11147,5 +11147,26 @@
     "jvcom": {
       "error": "Unexpected token < in JSON at position 0"
     }
+  },
+  {
+    "title": "Clair Obscur: Expedition 33",
+    "releaseDate": "2025-04-24T07:00:00.0000000Z",
+    "jvcom": {
+      "error": "Unexpected token < in JSON at position 0"
+    }
+  },
+  {
+    "title": "The Elder Scrolls IV: Oblivion Remastered",
+    "releaseDate": "2025-04-22T15:00:00.0000000Z",
+    "jvcom": {
+      "error": "Unexpected token < in JSON at position 0"
+    }
+  },
+  {
+    "title": "The Elder Scrolls IV: Oblivion Game of the Year Edition (PC) – 2009",
+    "releaseDate": "2021-03-12T00:00:00.0000000Z",
+    "jvcom": {
+      "error": "Unexpected token < in JSON at position 0"
+    }
   }
 ]
