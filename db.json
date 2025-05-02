@@ -11168,5 +11168,40 @@
     "jvcom": {
       "error": "Unexpected token < in JSON at position 0"
     }
+  },
+  {
+    "title": "Anno 1800™",
+    "releaseDate": "2022-12-28T08:30:52.0078732Z",
+    "jvcom": {
+      "error": "Unexpected token < in JSON at position 0"
+    }
+  },
+  {
+    "title": "Call of Duty®: Modern Warfare® II - Pack Cross-Gen",
+    "releaseDate": "2022-11-04T17:00:00.0000000Z",
+    "jvcom": {
+      "error": "Unexpected token < in JSON at position 0"
+    }
+  },
+  {
+    "title": "Far Cry® 4",
+    "releaseDate": "2014-11-18T00:00:00.0000000Z",
+    "jvcom": {
+      "error": "Unexpected token < in JSON at position 0"
+    }
+  },
+  {
+    "title": "Towerborne (Game Preview)",
+    "releaseDate": "2025-04-29T00:00:00.0000000Z",
+    "jvcom": {
+      "error": "Unexpected token < in JSON at position 0"
+    }
+  },
+  {
+    "title": "Call of Duty®: Modern Warfare® II - Édition Standard (Windows)",
+    "releaseDate": "2025-05-01T16:00:00.0000000Z",
+    "jvcom": {
+      "error": "Unexpected token < in JSON at position 0"
+    }
   }
 ]
