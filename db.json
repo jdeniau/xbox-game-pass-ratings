@@ -11252,5 +11252,54 @@
     "jvcom": {
       "error": "Unexpected token < in JSON at position 0"
     }
+  },
+  {
+    "title": "Anno 1800™ - Édition Console",
+    "releaseDate": "2023-04-16T22:00:00.0000000Z",
+    "jvcom": {
+      "error": "Unexpected token < in JSON at position 0"
+    }
+  },
+  {
+    "title": "Firefighting Simulator - The Squad",
+    "releaseDate": "2022-12-06T08:00:00.0000000Z",
+    "jvcom": {
+      "error": "Unexpected token < in JSON at position 0"
+    }
+  },
+  {
+    "title": "Monster Train 2",
+    "releaseDate": "2025-05-21T14:00:00.0000000Z",
+    "jvcom": {
+      "error": "Unexpected token < in JSON at position 0"
+    }
+  },
+  {
+    "title": "Police Simulator: Patrol Officers",
+    "releaseDate": "2022-11-10T08:00:00.0000000Z",
+    "jvcom": {
+      "error": "Unexpected token < in JSON at position 0"
+    }
+  },
+  {
+    "title": "Retro Classics",
+    "releaseDate": "2025-03-05T22:40:31.1089313Z",
+    "jvcom": {
+      "error": "Unexpected token < in JSON at position 0"
+    }
+  },
+  {
+    "title": "Tales of Kenzera™: ZAU",
+    "releaseDate": "2024-04-23T16:00:00.0000000Z",
+    "jvcom": {
+      "error": "Unexpected token < in JSON at position 0"
+    }
+  },
+  {
+    "title": "Mafia: Definitive Edition (Windows PC)",
+    "releaseDate": "2024-08-13T17:00:00.0000000Z",
+    "jvcom": {
+      "error": "Unexpected token < in JSON at position 0"
+    }
   }
 ]
