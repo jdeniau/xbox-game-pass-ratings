@@ -11336,5 +11336,40 @@
     "jvcom": {
       "error": "Unexpected token < in JSON at position 0"
     }
+  },
+  {
+    "title": "Baldur's Gate and Baldur's Gate II: Enhanced Editions",
+    "releaseDate": "2019-10-15T04:00:00.0000000Z",
+    "jvcom": {
+      "error": "Unexpected token < in JSON at position 0"
+    }
+  },
+  {
+    "title": "Crypt Custodian",
+    "releaseDate": "2024-08-27T16:00:00.0000000Z",
+    "jvcom": {
+      "error": "Unexpected token < in JSON at position 0"
+    }
+  },
+  {
+    "title": "Splitgate 2",
+    "releaseDate": "2025-05-22T16:00:00.0000000Z",
+    "jvcom": {
+      "error": "Unexpected token < in JSON at position 0"
+    }
+  },
+  {
+    "title": "Symphonia 𝄞",
+    "releaseDate": "2024-12-05T16:00:00.0000000Z",
+    "jvcom": {
+      "error": "Unexpected token < in JSON at position 0"
+    }
+  },
+  {
+    "title": "Zenless Zone Zero — Free S-Rank Agent on Login",
+    "releaseDate": "2025-06-05T22:00:00.0000000Z",
+    "jvcom": {
+      "error": "Unexpected token < in JSON at position 0"
+    }
   }
 ]
