@@ -11371,5 +11371,61 @@
     "jvcom": {
       "error": "Unexpected token < in JSON at position 0"
     }
+  },
+  {
+    "title": "Barbie™ Projet Amitié",
+    "releaseDate": "2024-10-24T22:00:00.0000000Z",
+    "jvcom": {
+      "error": "Unexpected token < in JSON at position 0"
+    }
+  },
+  {
+    "title": "EA SPORTS FC™ 25 pour Xbox One",
+    "releaseDate": "2024-07-08T20:11:09.3057646Z",
+    "jvcom": {
+      "error": "Unexpected token < in JSON at position 0"
+    }
+  },
+  {
+    "title": "EA SPORTS FC™ 25 pour Xbox Series X|S",
+    "releaseDate": "2024-07-08T20:16:15.5653388Z",
+    "jvcom": {
+      "error": "Unexpected token < in JSON at position 0"
+    }
+  },
+  {
+    "title": "The Alters",
+    "releaseDate": "2025-06-13T12:00:00.0000000Z",
+    "jvcom": {
+      "error": "Unexpected token < in JSON at position 0"
+    }
+  },
+  {
+    "title": "Tom Clancy's Rainbow Six Siege X - Elite Edition",
+    "releaseDate": "2025-06-10T14:00:00.0000000Z",
+    "jvcom": {
+      "error": "Unexpected token < in JSON at position 0"
+    }
+  },
+  {
+    "title": "Tony Hawk's™ Pro Skater™ 3 + 4 - Démo Fonderie",
+    "releaseDate": "2025-07-11T00:00:00.0000000Z",
+    "jvcom": {
+      "error": "Unexpected token < in JSON at position 0"
+    }
+  },
+  {
+    "title": "Warhammer 40,000: Space Marine - Master Crafted Edition",
+    "releaseDate": "2025-06-10T14:00:00.0000000Z",
+    "jvcom": {
+      "error": "Unexpected token < in JSON at position 0"
+    }
+  },
+  {
+    "title": "Zenless Zone Zero",
+    "releaseDate": "2025-06-05T22:00:00.0000000Z",
+    "jvcom": {
+      "error": "Unexpected token < in JSON at position 0"
+    }
   }
 ]
