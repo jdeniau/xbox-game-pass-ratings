@@ -11427,5 +11427,33 @@
     "jvcom": {
       "error": "Unexpected token < in JSON at position 0"
     }
+  },
+  {
+    "title": "Crash Bandicoot™ 4: It’s About Time",
+    "releaseDate": "2020-10-01T22:00:00.0000000Z",
+    "jvcom": {
+      "error": "Unexpected token < in JSON at position 0"
+    }
+  },
+  {
+    "title": "FBC: Firebreak",
+    "releaseDate": "2025-06-17T10:00:00.0000000Z",
+    "jvcom": {
+      "error": "Unexpected token < in JSON at position 0"
+    }
+  },
+  {
+    "title": "Lost in Random: The Eternal Die",
+    "releaseDate": "2025-06-17T17:00:00.0000000Z",
+    "jvcom": {
+      "error": "Unexpected token < in JSON at position 0"
+    }
+  },
+  {
+    "title": "REMATCH",
+    "releaseDate": "2025-06-19T10:00:00.0000000Z",
+    "jvcom": {
+      "error": "Unexpected token < in JSON at position 0"
+    }
   }
 ]
