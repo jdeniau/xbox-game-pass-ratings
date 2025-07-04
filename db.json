@@ -11462,5 +11462,47 @@
     "jvcom": {
       "error": "Unexpected token < in JSON at position 0"
     }
+  },
+  {
+    "title": "Call of Duty®: WWII",
+    "releaseDate": "2017-11-03T00:00:00.0000000Z",
+    "jvcom": {
+      "error": "Unexpected token < in JSON at position 0"
+    }
+  },
+  {
+    "title": "Little Nightmares II",
+    "releaseDate": "2021-02-10T23:00:00.0000000Z",
+    "jvcom": {
+      "error": "Unexpected token < in JSON at position 0"
+    }
+  },
+  {
+    "title": "Mecha BREAK",
+    "releaseDate": "2025-07-02T00:00:00.0000000Z",
+    "jvcom": {
+      "error": "Unexpected token < in JSON at position 0"
+    }
+  },
+  {
+    "title": "Ultimate Chicken Horse",
+    "releaseDate": "2017-12-15T00:00:00.0000000Z",
+    "jvcom": {
+      "error": "Unexpected token < in JSON at position 0"
+    }
+  },
+  {
+    "title": "Call of Duty®: WWII (Windows)",
+    "releaseDate": "2024-12-16T18:00:00.0000000Z",
+    "jvcom": {
+      "error": "Unexpected token < in JSON at position 0"
+    }
+  },
+  {
+    "title": "Little Nightmares II Enhanced Edition - Windows",
+    "releaseDate": "2025-07-01T00:00:00.0000000Z",
+    "jvcom": {
+      "error": "Unexpected token < in JSON at position 0"
+    }
   }
 ]
