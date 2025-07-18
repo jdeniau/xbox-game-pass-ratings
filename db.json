@@ -11525,5 +11525,40 @@
     "jvcom": {
       "error": "Unexpected token < in JSON at position 0"
     }
+  },
+  {
+    "title": "Back to the Dawn",
+    "releaseDate": "2025-07-18T03:00:00.0000000Z",
+    "jvcom": {
+      "error": "Unexpected token < in JSON at position 0"
+    }
+  },
+  {
+    "title": "Les Gentils Voisins",
+    "releaseDate": "2025-07-17T17:00:00.0000000Z",
+    "jvcom": {
+      "error": "Unexpected token < in JSON at position 0"
+    }
+  },
+  {
+    "title": "RoboCop: Rogue City",
+    "releaseDate": "2023-11-02T09:00:00.0000000Z",
+    "jvcom": {
+      "error": "Unexpected token < in JSON at position 0"
+    }
+  },
+  {
+    "title": "Call of Duty®: Modern Warfare® III - Édition Standard (Windows)",
+    "releaseDate": "2024-07-24T16:00:00.0000000Z",
+    "jvcom": {
+      "error": "Unexpected token < in JSON at position 0"
+    }
+  },
+  {
+    "title": "He is Coming (Game Preview)",
+    "releaseDate": "2025-07-17T13:00:00.0000000Z",
+    "jvcom": {
+      "error": "Unexpected token < in JSON at position 0"
+    }
   }
 ]
