@@ -11595,5 +11595,61 @@
     "jvcom": {
       "error": "Unexpected token < in JSON at position 0"
     }
+  },
+  {
+    "title": "Assassin's Creed Odyssey",
+    "releaseDate": "2018-10-05T00:00:00.0000000Z",
+    "jvcom": {
+      "error": "Unexpected token < in JSON at position 0"
+    }
+  },
+  {
+    "title": "Assassin's Creed Origins",
+    "releaseDate": "2017-10-27T00:00:00.0000000Z",
+    "jvcom": {
+      "error": "Unexpected token < in JSON at position 0"
+    }
+  },
+  {
+    "title": "Assassin's Creed Valhalla",
+    "releaseDate": "2020-11-10T00:00:00.0000000Z",
+    "jvcom": {
+      "error": "Unexpected token < in JSON at position 0"
+    }
+  },
+  {
+    "title": "Farming Simulator 25",
+    "releaseDate": "2024-11-12T13:00:00.0000000Z",
+    "jvcom": {
+      "error": "Unexpected token < in JSON at position 0"
+    }
+  },
+  {
+    "title": "FragPunk",
+    "releaseDate": "2025-04-29T10:00:00.0000000Z",
+    "jvcom": {
+      "error": "Unexpected token < in JSON at position 0"
+    }
+  },
+  {
+    "title": "Grounded 2",
+    "releaseDate": "2025-07-29T00:00:00.0000000Z",
+    "jvcom": {
+      "error": "Unexpected token < in JSON at position 0"
+    }
+  },
+  {
+    "title": "Little Nightmares II Enhanced Edition - Xbox Series X|S",
+    "releaseDate": "2021-02-10T23:00:00.0000000Z",
+    "jvcom": {
+      "error": "Unexpected token < in JSON at position 0"
+    }
+  },
+  {
+    "title": "Farming Simulator 25 (PC)",
+    "releaseDate": "2024-11-12T13:00:00.0000000Z",
+    "jvcom": {
+      "error": "Unexpected token < in JSON at position 0"
+    }
   }
 ]
