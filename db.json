@@ -11707,5 +11707,33 @@
     "jvcom": {
       "error": "Unexpected token < in JSON at position 0"
     }
+  },
+  {
+    "title": "Herdling",
+    "releaseDate": "2025-08-21T13:00:00.0000000Z",
+    "jvcom": {
+      "error": "Unexpected token < in JSON at position 0"
+    }
+  },
+  {
+    "title": "The Rogue Prince of Persia™",
+    "releaseDate": "2025-08-20T14:00:00.0000000Z",
+    "jvcom": {
+      "error": "Unexpected token < in JSON at position 0"
+    }
+  },
+  {
+    "title": "Blacksmith Master (Game Preview)",
+    "releaseDate": "2025-08-19T13:00:00.0000000Z",
+    "jvcom": {
+      "error": "Unexpected token < in JSON at position 0"
+    }
+  },
+  {
+    "title": "VOID/BREAKER (Aperçu)",
+    "releaseDate": "9998-12-30T00:00:00.0000000Z",
+    "jvcom": {
+      "error": "Unexpected token < in JSON at position 0"
+    }
   }
 ]
