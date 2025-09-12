@@ -11770,5 +11770,12 @@
     "jvcom": {
       "error": "Unexpected token < in JSON at position 0"
     }
+  },
+  {
+    "title": "Bundle Grand Theft Auto V et GTA+ (Xbox Series X|S)",
+    "releaseDate": "2022-03-14T23:00:00.0000000Z",
+    "jvcom": {
+      "error": "Unexpected token < in JSON at position 0"
+    }
   }
 ]
