@@ -11798,5 +11798,47 @@
     "jvcom": {
       "error": "Unexpected token < in JSON at position 0"
     }
+  },
+  {
+    "title": "FOR HONOR - Standard Edition",
+    "releaseDate": "2024-03-14T13:00:00.0000000Z",
+    "jvcom": {
+      "error": "Unexpected token < in JSON at position 0"
+    }
+  },
+  {
+    "title": "Peppa Pig : Aventures autour du Monde",
+    "releaseDate": "2023-03-16T23:00:00.0000000Z",
+    "jvcom": {
+      "error": "Unexpected token < in JSON at position 0"
+    }
+  },
+  {
+    "title": "SWORN",
+    "releaseDate": "2025-09-23T00:00:00.0000000Z",
+    "jvcom": {
+      "error": "Unexpected token < in JSON at position 0"
+    }
+  },
+  {
+    "title": "Visions of Mana",
+    "releaseDate": "2024-09-30T16:00:00.0000000Z",
+    "jvcom": {
+      "error": "Unexpected token < in JSON at position 0"
+    }
+  },
+  {
+    "title": "Ara History Untold: Anniversary Edition",
+    "releaseDate": "2024-09-24T00:00:00.0000000Z",
+    "jvcom": {
+      "error": "Unexpected token < in JSON at position 0"
+    }
+  },
+  {
+    "title": "ENDLESS™ Legend 2 (Game Preview)",
+    "releaseDate": "2025-09-22T13:00:00.0000000Z",
+    "jvcom": {
+      "error": "Unexpected token < in JSON at position 0"
+    }
   }
 ]
