@@ -12421,5 +12421,40 @@
     "jvcom": {
       "error": "Unexpected token < in JSON at position 0"
     }
+  },
+  {
+    "title": "Bounty Star",
+    "releaseDate": "2025-10-23T13:00:00.0000000Z",
+    "jvcom": {
+      "error": "Unexpected token < in JSON at position 0"
+    }
+  },
+  {
+    "title": "NINJA GAIDEN 4 Standard Edition",
+    "releaseDate": "2025-10-21T00:00:00.0000000Z",
+    "jvcom": {
+      "error": "Unexpected token < in JSON at position 0"
+    }
+  },
+  {
+    "title": "Pacific Drive",
+    "releaseDate": "2025-10-23T19:00:00.0000000Z",
+    "jvcom": {
+      "error": "Unexpected token < in JSON at position 0"
+    }
+  },
+  {
+    "title": "PowerWash Simulator 2",
+    "releaseDate": "2025-10-23T14:00:00.0000000Z",
+    "jvcom": {
+      "error": "Unexpected token < in JSON at position 0"
+    }
+  },
+  {
+    "title": "Super Fantasy Kingdom (Aperçu)",
+    "releaseDate": "2025-10-24T13:00:00.0000000Z",
+    "jvcom": {
+      "error": "Unexpected token < in JSON at position 0"
+    }
   }
 ]
