@@ -12456,5 +12456,159 @@
     "jvcom": {
       "error": "Unexpected token < in JSON at position 0"
     }
+  },
+  {
+    "title": "Halls of Torment",
+    "releaseDate": "2025-10-28T15:00:00.0000000Z",
+    "jvcom": {
+      "error": "Unexpected token < in JSON at position 0"
+    }
+  },
+  {
+    "title": "Superball",
+    "releaseDate": "2025-10-28T18:00:00.0000000Z",
+    "jvcom": {
+      "error": "Unexpected token < in JSON at position 0"
+    }
+  },
+  {
+    "title": "The Outer Worlds 2",
+    "releaseDate": "2025-10-29T17:00:00.0000000Z",
+    "jvcom": {
+      "error": "Unexpected token < in JSON at position 0"
+    }
+  },
+  {
+    "title": "Albion Online",
+    "releaseDate": "2025-10-08T12:00:00.0000000Z",
+    "jvcom": {
+      "error": "Unexpected token < in JSON at position 0"
+    }
+  },
+  {
+    "title": "Blizzard® Arcade Collection PC",
+    "releaseDate": "2021-02-19T00:00:00.0000000Z",
+    "jvcom": {
+      "error": "Unexpected token < in JSON at position 0"
+    }
+  },
+  {
+    "title": "Crash Bandicoot™ 4: It’s About Time (PC)",
+    "releaseDate": "9998-12-30T00:00:00.0000000Z",
+    "jvcom": {
+      "error": "Unexpected token < in JSON at position 0"
+    }
+  },
+  {
+    "title": "Diablo®",
+    "releaseDate": "1997-01-01T00:00:00.0000000Z",
+    "jvcom": {
+      "error": "Unexpected token < in JSON at position 0"
+    }
+  },
+  {
+    "title": "Diablo® III: Reaper of Souls™ – Ultimate Evil Edition PC",
+    "releaseDate": "2014-03-27T00:00:00.0000000Z",
+    "jvcom": {
+      "error": "Unexpected token < in JSON at position 0"
+    }
+  },
+  {
+    "title": "Diablo® IV PC",
+    "releaseDate": "2023-06-06T00:00:00.0000000Z",
+    "jvcom": {
+      "error": "Unexpected token < in JSON at position 0"
+    }
+  },
+  {
+    "title": "Heroes of Might and Magic 3 - Édition Complète",
+    "releaseDate": "1999-02-28T00:00:00.0000000Z",
+    "jvcom": {
+      "error": "Unexpected token < in JSON at position 0"
+    }
+  },
+  {
+    "title": "Heroes of Might and Magic II - Édition Gold",
+    "releaseDate": "1996-10-01T00:00:00.0000000Z",
+    "jvcom": {
+      "error": "Unexpected token < in JSON at position 0"
+    }
+  },
+  {
+    "title": "Heroes of the Storm™",
+    "releaseDate": "2015-06-03T00:00:00.0000000Z",
+    "jvcom": {
+      "error": "Unexpected token < in JSON at position 0"
+    }
+  },
+  {
+    "title": "League of Legends",
+    "releaseDate": "2022-12-12T00:00:00.0000000Z",
+    "jvcom": {
+      "error": "Unexpected token < in JSON at position 0"
+    }
+  },
+  {
+    "title": "Legends of Runeterra",
+    "releaseDate": "2022-12-12T00:00:00.0000000Z",
+    "jvcom": {
+      "error": "Unexpected token < in JSON at position 0"
+    }
+  },
+  {
+    "title": "Overwatch® 2 PC",
+    "releaseDate": "2023-08-10T00:00:00.0000000Z",
+    "jvcom": {
+      "error": "Unexpected token < in JSON at position 0"
+    }
+  },
+  {
+    "title": "PC VALORANT",
+    "releaseDate": "2022-12-12T00:00:00.0000000Z",
+    "jvcom": {
+      "error": "Unexpected token < in JSON at position 0"
+    }
+  },
+  {
+    "title": "StarCraft II® : Collection de campagnes",
+    "releaseDate": "2010-07-28T00:00:00.0000000Z",
+    "jvcom": {
+      "error": "Unexpected token < in JSON at position 0"
+    }
+  },
+  {
+    "title": "StarCraft® Remastered",
+    "releaseDate": "2017-08-15T00:00:00.0000000Z",
+    "jvcom": {
+      "error": "Unexpected token < in JSON at position 0"
+    }
+  },
+  {
+    "title": "Teamfight Tactics",
+    "releaseDate": "2022-12-12T00:00:00.0000000Z",
+    "jvcom": {
+      "error": "Unexpected token < in JSON at position 0"
+    }
+  },
+  {
+    "title": "Warcraft® I: Remastered",
+    "releaseDate": "9998-12-30T00:00:00.0000000Z",
+    "jvcom": {
+      "error": "Unexpected token < in JSON at position 0"
+    }
+  },
+  {
+    "title": "Warcraft® II: Remastered",
+    "releaseDate": "9998-12-30T00:00:00.0000000Z",
+    "jvcom": {
+      "error": "Unexpected token < in JSON at position 0"
+    }
+  },
+  {
+    "title": "Warcraft® III: Reforged",
+    "releaseDate": "9998-12-30T00:00:00.0000000Z",
+    "jvcom": {
+      "error": "Unexpected token < in JSON at position 0"
+    }
   }
 ]
