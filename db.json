@@ -12666,5 +12666,47 @@
     "jvcom": {
       "error": "Unexpected token < in JSON at position 0"
     }
+  },
+  {
+    "title": "Call of Duty®: Black Ops 7 - Pack Cross-Gen",
+    "releaseDate": "9998-12-30T00:00:00.0000000Z",
+    "jvcom": {
+      "error": "Unexpected token < in JSON at position 0"
+    }
+  },
+  {
+    "title": "Great God Grove",
+    "releaseDate": "2024-11-15T16:00:00.0000000Z",
+    "jvcom": {
+      "error": "Unexpected token < in JSON at position 0"
+    }
+  },
+  {
+    "title": "Lara Croft and the Temple of Osiris",
+    "releaseDate": "2014-12-09T00:00:00.0000000Z",
+    "jvcom": {
+      "error": "Unexpected token < in JSON at position 0"
+    }
+  },
+  {
+    "title": "Pigeon Simulator",
+    "releaseDate": "2025-11-11T17:00:00.0000000Z",
+    "jvcom": {
+      "error": "Unexpected token < in JSON at position 0"
+    }
+  },
+  {
+    "title": "Relic Hunters Legend",
+    "releaseDate": "2025-08-14T15:00:00.0000000Z",
+    "jvcom": {
+      "error": "Unexpected token < in JSON at position 0"
+    }
+  },
+  {
+    "title": "Winter Burrow",
+    "releaseDate": "2025-11-12T16:00:00.0000000Z",
+    "jvcom": {
+      "error": "Unexpected token < in JSON at position 0"
+    }
   }
 ]
