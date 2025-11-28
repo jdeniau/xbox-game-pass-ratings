@@ -12778,5 +12778,26 @@
     "jvcom": {
       "error": "Unexpected token < in JSON at position 0"
     }
+  },
+  {
+    "title": "Banishers: Ghosts of New Eden",
+    "releaseDate": "2024-02-13T00:00:00.0000000Z",
+    "jvcom": {
+      "error": "Unexpected token < in JSON at position 0"
+    }
+  },
+  {
+    "title": "KILL IT WITH FIRE! 2",
+    "releaseDate": "2025-11-25T15:00:00.0000000Z",
+    "jvcom": {
+      "error": "Unexpected token < in JSON at position 0"
+    }
+  },
+  {
+    "title": "Young Suns (Aperçu)",
+    "releaseDate": "2025-11-25T17:00:00.0000000Z",
+    "jvcom": {
+      "error": "Unexpected token < in JSON at position 0"
+    }
   }
 ]
