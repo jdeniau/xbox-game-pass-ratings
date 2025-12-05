@@ -12799,5 +12799,47 @@
     "jvcom": {
       "error": "Unexpected token < in JSON at position 0"
     }
+  },
+  {
+    "title": "Brawlhalla",
+    "releaseDate": "2018-11-06T00:00:00.0000000Z",
+    "jvcom": {
+      "error": "Unexpected token < in JSON at position 0"
+    }
+  },
+  {
+    "title": "Lost Records: Bloom & Rage",
+    "releaseDate": "2025-02-18T09:00:00.0000000Z",
+    "jvcom": {
+      "error": "Unexpected token < in JSON at position 0"
+    }
+  },
+  {
+    "title": "MARVEL Cosmic Invasion",
+    "releaseDate": "2025-12-01T16:00:00.0000000Z",
+    "jvcom": {
+      "error": "Unexpected token < in JSON at position 0"
+    }
+  },
+  {
+    "title": "ROUTINE",
+    "releaseDate": "2025-12-04T15:00:00.0000000Z",
+    "jvcom": {
+      "error": "Unexpected token < in JSON at position 0"
+    }
+  },
+  {
+    "title": "SPLITGATE: Arena Reloaded",
+    "releaseDate": "2025-05-22T16:00:00.0000000Z",
+    "jvcom": {
+      "error": "Unexpected token < in JSON at position 0"
+    }
+  },
+  {
+    "title": "9 Kings (Aperçu)",
+    "releaseDate": "2025-08-14T13:00:00.0000000Z",
+    "jvcom": {
+      "error": "Unexpected token < in JSON at position 0"
+    }
   }
 ]
