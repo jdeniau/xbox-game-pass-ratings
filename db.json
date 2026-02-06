@@ -12995,5 +12995,68 @@
     "jvcom": {
       "error": "Unexpected token < in JSON at position 0"
     }
+  },
+  {
+    "title": "EA SPORTS™ Madden NFL 26",
+    "releaseDate": "2025-08-14T16:00:00.0000000Z",
+    "jvcom": {
+      "error": "Unexpected token < in JSON at position 0"
+    }
+  },
+  {
+    "title": "FINAL FANTASY II",
+    "releaseDate": "2024-09-26T11:00:00.0000000Z",
+    "jvcom": {
+      "error": "Unexpected token < in JSON at position 0"
+    }
+  },
+  {
+    "title": "INDIKA",
+    "releaseDate": "2024-05-17T10:00:00.0000000Z",
+    "jvcom": {
+      "error": "Unexpected token < in JSON at position 0"
+    }
+  },
+  {
+    "title": "Like a Dragon: Pirate Yakuza in Hawaii",
+    "releaseDate": "2025-02-20T23:00:00.0000000Z",
+    "jvcom": {
+      "error": "Unexpected token < in JSON at position 0"
+    }
+  },
+  {
+    "title": "Overwatch®",
+    "releaseDate": "2016-05-24T00:00:00.0000000Z",
+    "jvcom": {
+      "error": "Unexpected token < in JSON at position 0"
+    }
+  },
+  {
+    "title": "PAW Patrol™, la Pat' Patrouille : Rescue Wheels™ - Championnat",
+    "releaseDate": "2025-10-30T23:00:00.0000000Z",
+    "jvcom": {
+      "error": "Unexpected token < in JSON at position 0"
+    }
+  },
+  {
+    "title": "The First Descendant",
+    "releaseDate": "2024-06-30T07:00:00.0000000Z",
+    "jvcom": {
+      "error": "Unexpected token < in JSON at position 0"
+    }
+  },
+  {
+    "title": "MENACE (Aperçu)",
+    "releaseDate": "2026-02-05T14:00:00.0000000Z",
+    "jvcom": {
+      "error": "Unexpected token < in JSON at position 0"
+    }
+  },
+  {
+    "title": "Overwatch® PC",
+    "releaseDate": "2023-08-10T00:00:00.0000000Z",
+    "jvcom": {
+      "error": "Unexpected token < in JSON at position 0"
+    }
   }
 ]
